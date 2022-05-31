@@ -11,5 +11,3 @@ node_modules
 
 /app/styles/tailwind.css
 
-# Users are secret
-/prisma/secrets
