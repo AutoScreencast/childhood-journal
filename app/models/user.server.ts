@@ -1,5 +1,6 @@
 import type { Password, User } from "@prisma/client";
 import bcrypt from "bcryptjs";
+import omit from "lodash.omit";
 
 import { prisma } from "~/db.server";
 
@@ -9,54 +10,28 @@ export async function getUserById(id: User["id"]) {
   return prisma.user.findUnique({ where: { id } });
 }
 
-export async function getUserByEmail(email: User["email"]) {
-  return prisma.user.findUnique({ where: { email } });
-}
-
-export async function createUser(email: User["email"], password: string) {
-  const hashedPassword = await bcrypt.hash(password, 10);
-
-  return prisma.user.create({
-    data: {
-      email,
-      password: {
-        create: {
-          hash: hashedPassword,
-        },
-      },
-    },
-  });
-}
-
-export async function deleteUserByEmail(email: User["email"]) {
-  return prisma.user.delete({ where: { email } });
-}
-
-export async function verifyLogin(
-  email: User["email"],
-  password: Password["hash"]
-) {
-  const userWithPassword = await prisma.user.findUnique({
-    where: { email },
+async function getAllUsers() {
+  return await prisma.user.findMany({
     include: {
       password: true,
     },
   });
+}
 
-  if (!userWithPassword || !userWithPassword.password) {
-    return null;
+export async function verifyLogin(password: Password["hash"]) {
+  const users = await getAllUsers();
+
+  let validatedUser: User | null = null;
+
+  // TODO: check performance
+  for (const user of users) {
+    if (!user || !user.password) return null;
+    const isValid = await bcrypt.compare(password, user.password.hash);
+
+    if (isValid) {
+      validatedUser = omit(user, "password");
+    }
   }
 
-  const isValid = await bcrypt.compare(
-    password,
-    userWithPassword.password.hash
-  );
-
-  if (!isValid) {
-    return null;
-  }
-
-  const { password: _password, ...userWithoutPassword } = userWithPassword;
-
-  return userWithoutPassword;
+  return validatedUser;
 }
