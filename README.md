@@ -43,6 +43,7 @@ Click this button to create a [Gitpod](https://gitpod.io) workspace with the pro
 - Initial setup: _If you just generated this project, this step has been done for you._
 
   ```sh
+  cp .env.example .env
   npm run setup
   ```
 
