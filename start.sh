@@ -7,4 +7,5 @@
 
 set -ex
 npx prisma migrate deploy
+npx prisma db seed # seed the db with data just the first time, then comment this line out
 npm run start
