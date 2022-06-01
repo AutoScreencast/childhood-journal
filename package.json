@@ -84,6 +84,6 @@
     "node": ">=14"
   },
   "prisma": {
-    "seed": "npx ts-node --require tsconfig-paths/register prisma/seed.ts"
+    "seed": "npx ts-node --transpile-only --compiler-options {\"module\":\"CommonJS\"} --require tsconfig-paths/register prisma/seed.ts"
   }
 }
