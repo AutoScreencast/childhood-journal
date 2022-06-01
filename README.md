@@ -102,6 +102,13 @@ Prior to your first deployment, you'll need to do a few things:
 
   If you don't have openssl installed, you can also use [1password](https://1password.com/password-generator/) to generate a random secret, just replace `$(openssl rand -hex 32)` with the generated secret.
 
+- Add any other secret environment variables from you `.env` file to your fly app secrets. For example, if you have two key-value environment variables (YOUR_ENV_VAR1=val1 and YOUR_ENV_VAR2=val2, note to remove any double quotes from values, since this causes an error in `flyctl`), run the following commands:
+
+  ```sh
+  fly secrets set YOUR_ENV_VAR1=val1 YOUR_ENV_VAR2=val2 --app childhood-journal-4d09
+  fly secrets set YOUR_ENV_VAR1=val1 YOUR_ENV_VAR2=val2 --app childhood-journal-4d09-staging
+  ```
+
 - Create a persistent volume for the sqlite database for both your staging and production environments. Run the following:
 
   ```sh
