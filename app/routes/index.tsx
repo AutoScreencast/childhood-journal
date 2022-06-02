@@ -5,8 +5,6 @@ import { useOptionalUser } from "~/utils";
 export default function Index() {
   const user = useOptionalUser();
 
-  console.log("optional user >>>", user);
-
   return (
     <main>
       {user ? (

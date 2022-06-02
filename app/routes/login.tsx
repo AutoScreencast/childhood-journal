@@ -4,7 +4,12 @@ import type {
   MetaFunction,
 } from "@remix-run/node";
 import { json, redirect } from "@remix-run/node";
-import { Form, useActionData, useSearchParams } from "@remix-run/react";
+import {
+  Form,
+  useActionData,
+  useSearchParams,
+  useTransition,
+} from "@remix-run/react";
 import * as React from "react";
 
 import { createUserSession, getUserId } from "~/session.server";
@@ -66,9 +71,12 @@ export const meta: MetaFunction = () => {
 
 export default function LoginPage() {
   const [searchParams] = useSearchParams();
-  const redirectTo = searchParams.get("redirectTo") || "/posts"; // TODO: Create posts page route
+  const redirectTo = searchParams.get("redirectTo") || "/posts";
   const actionData = useActionData() as ActionData;
   const passwordRef = React.useRef<HTMLInputElement>(null);
+
+  const transition = useTransition();
+  const isLoggingIn = Boolean(transition.submission);
 
   React.useEffect(() => {
     if (actionData?.errors?.password) {
@@ -87,7 +95,7 @@ export default function LoginPage() {
             >
               Password
             </label>
-            <div className="mt-1">
+            <div className="mt-1 flex flex-col content-center">
               <input
                 autoFocus
                 id="password"
@@ -100,7 +108,10 @@ export default function LoginPage() {
                 className="w-full rounded border border-gray-500 px-2 py-1 text-lg"
               />
               {actionData?.errors?.password && (
-                <div className="pt-1 text-red-700" id="password-error">
+                <div
+                  className="pt-1 text-center text-red-700"
+                  id="password-error"
+                >
                   {actionData.errors.password}
                 </div>
               )}
@@ -109,10 +120,11 @@ export default function LoginPage() {
 
           <input type="hidden" name="redirectTo" value={redirectTo} />
           <button
+            disabled={isLoggingIn}
             type="submit"
-            className="w-full rounded bg-blue-500  py-2 px-4 text-white hover:bg-blue-600 focus:bg-blue-400"
+            className="w-full rounded bg-blue-500 py-2 px-4 text-white hover:bg-blue-600 focus:bg-blue-400"
           >
-            Log in
+            {isLoggingIn ? "Logging in..." : "Log in"}
           </button>
         </Form>
       </div>
