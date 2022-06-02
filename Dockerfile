@@ -45,6 +45,7 @@ ENV PORT="8080"
 ENV NODE_ENV="production"
 
 # adding this after app is built
+ADD prisma .
 RUN npx prisma db seed
 
 # add shortcut for connecting to database CLI
