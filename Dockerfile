@@ -44,9 +44,6 @@ ENV DATABASE_URL=file:/data/sqlite.db
 ENV PORT="8080"
 ENV NODE_ENV="production"
 
-# adding this after app is built
-RUN npx prisma db seed
-
 # add shortcut for connecting to database CLI
 RUN echo "#!/bin/sh\nset -x\nsqlite3 \$DATABASE_URL" > /usr/local/bin/database-cli && chmod +x /usr/local/bin/database-cli
 
