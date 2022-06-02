@@ -8,66 +8,77 @@ export const USERS = [
     username: `tombowden`,
     name: `Tom`,
     password: process.env.USER_PW_TOMBOWDEN,
+    lang: `en`,
   },
 
   {
     username: `takakobowdenwatanabe`,
     name: `Takako`,
     password: process.env.USER_PW_TAKAKOBOWDENWATANABE,
+    lang: `ja`,
   },
 
   {
     username: `takahidewatanabe`,
     name: `Takahide`,
     password: process.env.USER_PW_TAKAHIDEWATANABE,
+    lang: `ja`,
   },
 
   {
     username: `eikowatanabe`,
     name: `Eiko`,
     password: process.env.USER_PW_EIKOWATANABE,
+    lang: `ja`,
   },
 
   {
     username: `reikowatanabe`,
     name: `Reiko`,
     password: process.env.USER_PW_REIKOWATANABE,
+    lang: `ja`,
   },
 
   {
     username: `heddapfeiffer`,
     name: `Hedda`,
     password: process.env.USER_PW_HEDDAPFEIFFER,
+    lang: `en`,
   },
 
   {
     username: `kellybowden`,
     name: `Kelly`,
     password: process.env.USER_PW_KELLYBOWDEN,
+    lang: `en`,
   },
 
   {
     username: `robertbowden`,
     name: `Robert`,
     password: process.env.USER_PW_ROBERTBOWDEN,
+    lang: `en`,
   },
 
   {
     username: `karlcahill`,
     name: `Karl`,
     password: process.env.USER_PW_KARLCAHILL,
+    lang: `en`,
   },
 
   {
     username: `leshorton`,
     name: `Les`,
     password: process.env.USER_PW_LESHORTON,
+    lang: `en`,
   },
 
   {
     username: `willsjahrial`,
     name: `Will`,
     password: process.env.USER_PW_WILLSJAHRIAL,
+    lang: `en`,
   },
 ];
 
