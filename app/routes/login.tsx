@@ -27,7 +27,6 @@ export const action: ActionFunction = async ({ request }) => {
   const formData = await request.formData();
   const password = formData.get("password");
   const redirectTo = safeRedirect(formData.get("redirectTo"), "/posts"); // TODO: Create posts page route
-  const remember = formData.get("remember");
 
   if (typeof password !== "string" || password.length === 0) {
     return json<ActionData>(
@@ -55,7 +54,6 @@ export const action: ActionFunction = async ({ request }) => {
   return createUserSession({
     request,
     userId: user.id,
-    remember: remember === "on" ? true : false,
     redirectTo,
   });
 };
@@ -91,6 +89,7 @@ export default function LoginPage() {
             </label>
             <div className="mt-1">
               <input
+                autoFocus
                 id="password"
                 ref={passwordRef}
                 name="password"
@@ -115,22 +114,6 @@ export default function LoginPage() {
           >
             Log in
           </button>
-          <div className="flex items-center justify-between">
-            <div className="flex items-center">
-              <input
-                id="remember"
-                name="remember"
-                type="checkbox"
-                className="h-4 w-4 rounded border-gray-300 text-blue-600 focus:ring-blue-500"
-              />
-              <label
-                htmlFor="remember"
-                className="ml-2 block text-sm text-gray-900"
-              >
-                Remember me
-              </label>
-            </div>
-          </div>
         </Form>
       </div>
     </div>
