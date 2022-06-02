@@ -72,22 +72,27 @@ export const USERS = [
 ];
 
 async function seed() {
+  console.log(`Attempting to seed the database...`);
+
   USERS.forEach(async (user) => {
     if (!user.password) throw `Password is not set for seed user: ${user.name}`;
-    await prisma.user.create({
-      data: {
-        name: user.name,
-        username: user.username,
-        password: {
-          create: {
-            hash: await bcrypt.hash(user.password, 10),
+    try {
+      const seededUser = await prisma.user.create({
+        data: {
+          name: user.name,
+          username: user.username,
+          password: {
+            create: {
+              hash: await bcrypt.hash(user.password, 10),
+            },
           },
         },
-      },
-    });
+      });
+      console.log("Seeded user with username:", seededUser.username);
+    } catch (error) {
+      console.error(error);
+    }
   });
-
-  console.log(`Database has been seeded. 🌱`);
 }
 
 seed()
