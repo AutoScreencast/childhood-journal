@@ -20,14 +20,17 @@ export default function PostsPage() {
         <h1 className="text-3xl font-bold">
           <Link to="/login">Ken’s Journey</Link>
         </h1>
-        <Form action="/logout" method="post">
-          <button
-            type="submit"
-            className="rounded bg-slate-600 py-2 px-4 text-blue-100 hover:bg-blue-500 active:bg-blue-600"
-          >
-            Logout
-          </button>
-        </Form>
+        <div className="flex items-center justify-end">
+          <span className="pr-4">Welcome {user.name}!</span>
+          <Form action="/logout" method="post">
+            <button
+              type="submit"
+              className="rounded bg-slate-600 py-2 px-4 text-blue-100 hover:bg-blue-500 active:bg-blue-600"
+            >
+              Logout
+            </button>
+          </Form>
+        </div>
       </header>
       {/* =============== /HEADER =============== */}
 
