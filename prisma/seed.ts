@@ -3,7 +3,14 @@ import bcrypt from "bcryptjs";
 
 const prisma = new PrismaClient();
 
-export const USERS = [
+type SeedUser = {
+  username: string;
+  name: string;
+  password: string | undefined;
+  lang: string;
+}
+
+export const USERS: Array<SeedUser> = [
   {
     username: `tombowden`,
     name: `Tom`,

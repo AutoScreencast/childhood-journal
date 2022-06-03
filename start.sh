@@ -7,5 +7,5 @@
 
 set -ex
 npx prisma migrate deploy
-npx prisma db seed # seed the db with private users
+# npx prisma db seed # seed the db with private users
 npm run start
