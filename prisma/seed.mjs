@@ -7,6 +7,7 @@ export const USERS = [
   {
     username: `tombowden`,
     name: `Tom`,
+    addressAs: `Dad`,
     password: process.env.USER_PW_TOMBOWDEN,
     lang: `en`,
   },
@@ -14,27 +15,31 @@ export const USERS = [
   {
     username: `takakobowdenwatanabe`,
     name: `貴子`,
+    addressAs: `お母さん`,
     password: process.env.USER_PW_TAKAKOBOWDENWATANABE,
     lang: `ja`,
   },
 
   {
     username: `takahidewatanabe`,
-    name: `Takahide`,
+    name: `隆英`,
+    addressAs: `おじいちゃん`,
     password: process.env.USER_PW_TAKAHIDEWATANABE,
     lang: `ja`,
   },
 
   {
     username: `eikowatanabe`,
-    name: `Eiko`,
+    name: `栄子`,
+    addressAs: `おばあちゃん`,
     password: process.env.USER_PW_EIKOWATANABE,
     lang: `ja`,
   },
 
   {
     username: `reikowatanabe`,
-    name: `Reiko`,
+    name: `玲子`,
+    addressAs: `おばちゃん`,
     password: process.env.USER_PW_REIKOWATANABE,
     lang: `ja`,
   },
@@ -42,6 +47,7 @@ export const USERS = [
   {
     username: `heddapfeiffer`,
     name: `Hedda`,
+    addressAs: `Grandma`,
     password: process.env.USER_PW_HEDDAPFEIFFER,
     lang: `en`,
   },
@@ -49,6 +55,7 @@ export const USERS = [
   {
     username: `kellybowden`,
     name: `Kelly`,
+    addressAs: `Uncle Kelly`,
     password: process.env.USER_PW_KELLYBOWDEN,
     lang: `en`,
   },
@@ -56,6 +63,7 @@ export const USERS = [
   {
     username: `robertbowden`,
     name: `Robert`,
+    addressAs: `Grandad`,
     password: process.env.USER_PW_ROBERTBOWDEN,
     lang: `en`,
   },
@@ -63,6 +71,7 @@ export const USERS = [
   {
     username: `karlcahill`,
     name: `Karl`,
+    addressAs: `Karl`,
     password: process.env.USER_PW_KARLCAHILL,
     lang: `en`,
   },
@@ -70,6 +79,7 @@ export const USERS = [
   {
     username: `leshorton`,
     name: `Les`,
+    addressAs: `Les`,
     password: process.env.USER_PW_LESHORTON,
     lang: `en`,
   },
@@ -77,6 +87,7 @@ export const USERS = [
   {
     username: `willsjahrial`,
     name: `Will`,
+    addressAs: `Will`,
     password: process.env.USER_PW_WILLSJAHRIAL,
     lang: `en`,
   },

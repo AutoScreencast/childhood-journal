@@ -29,7 +29,7 @@ export default function PostsPage() {
           <Link to="/login">{t9n("Ken’s Journey")}</Link>
         </h1>
         <div className="flex items-center justify-end">
-          <span className="pr-4">{user.lang === "ja" ? `${user.name}へようこそ！` : `Welcome ${user.name}!`}</span>
+          <span className="pr-4">{user.lang === "ja" ? `${user.addressAs}へようこそ！` : `Welcome ${user.addressAs}!`}</span>
           <Form action="/logout" method="post">
             <button
               type="submit"
@@ -43,7 +43,7 @@ export default function PostsPage() {
       {/* =============== /HEADER =============== */}
 
       <main className="flex h-full bg-white">
-        <div className="h-full w-80 border-r bg-gray-50">Hello {user.name}!</div>
+        <div className="h-full w-80 border-r bg-gray-50">Hello {user.addressAs}!</div>
 
         {/* <div className="flex-1 p-6">
           <Outlet />

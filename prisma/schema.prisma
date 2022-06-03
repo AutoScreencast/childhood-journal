@@ -8,10 +8,11 @@ generator client {
 }
 
 model User {
-  id       String @id @default(cuid())
-  name     String
-  username String @unique
-  lang     String
+  id        String @id @default(cuid())
+  name      String
+  username  String @unique
+  addressAs String
+  lang      String
 
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt

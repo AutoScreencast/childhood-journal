@@ -35,14 +35,15 @@ export const action: ActionFunction = async ({ request }) => {
 
   if (typeof password !== "string" || password.length === 0) {
     return json<ActionData>(
-      { errors: { password: "Password is required" } },
+      { errors: { password: "Please enter your password | パスワードを入力してください" } },
       { status: 400 }
     );
   }
 
-  if (password.length < 1) {
+  // Passwords are at least 9 characters long...
+  if (password.length < 9) {
     return json<ActionData>(
-      { errors: { password: "Password is too short" } },
+      { errors: { password: "The password entered is too short | 入力したパスワードが短すぎる" } },
       { status: 400 }
     );
   }
@@ -51,7 +52,7 @@ export const action: ActionFunction = async ({ request }) => {
 
   if (!user) {
     return json<ActionData>(
-      { errors: { password: "Invalid password" } },
+      { errors: { password: "Sorry! The password entered is incorrect. Please try again. | ごめん！ 入力したパスワードが正しくない。 もう一度やり直してください。" } },
       { status: 400 }
     );
   }
@@ -65,7 +66,7 @@ export const action: ActionFunction = async ({ request }) => {
 
 export const meta: MetaFunction = () => {
   return {
-    title: "Login | Childhood Journey",
+    title: "Login | ログイン",
   };
 };
 
@@ -93,7 +94,7 @@ export default function LoginPage() {
               htmlFor="password"
               className="block text-sm font-medium text-gray-700"
             >
-              Password
+              Password | パスワード
             </label>
             <div className="mt-1 flex flex-col content-center">
               <input
@@ -101,7 +102,7 @@ export default function LoginPage() {
                 id="password"
                 ref={passwordRef}
                 name="password"
-                type="password"
+                type="text" // Use text type instead of password type for elderly users so they can see what they’re typing
                 autoComplete="current-password"
                 aria-invalid={actionData?.errors?.password ? true : undefined}
                 aria-describedby="password-error"
@@ -124,7 +125,7 @@ export default function LoginPage() {
             type="submit"
             className="w-full rounded bg-blue-500 py-2 px-4 text-white hover:bg-blue-600 focus:bg-blue-400"
           >
-            {isLoggingIn ? "Logging in..." : "Log in"}
+            {isLoggingIn ? "Logging in... | ログイン中。。。" : "Log in | ログイン"}
           </button>
         </Form>
       </div>
