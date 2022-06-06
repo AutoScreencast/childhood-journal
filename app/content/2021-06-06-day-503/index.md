@@ -1,0 +1,361 @@
+---
+date: "2021-06-06"
+day: 503
+template: "photo-post"
+title: "Rinshi-no-Mori Park"
+subtitle: "Day 503 – Sunday, June 6, 2021"
+featuredImage: "20210606_IMG_1132.jpeg"
+---
+
+<hr />
+
+_Today’s Solid Food Menu:_
+
+**Breakfast**
+
+- Bacon (ベーコン)
+- Milk (dairy)
+- Banana (1)
+- Bread
+- Oatmeal
+
+**Lunch**
+
+- Kid’s curry (お子様カレー)
+- French fries (フライドポテト)
+
+**Dinner**
+
+- Chop suey with five ingredients covered in a thick, starchy sauce (*go-moku ankake-don*, 五目あんかけ丼; baby food, 100g)
+- Banana (バナナ)
+- Yogurt (ヨーグルト)
+
+<hr />
+
+Breakfast at *Caffèra* this morning.
+
+![20210606_IMG_1083.jpeg](20210606_IMG_1083.jpeg)
+
+![20210606_IMG_1084.jpeg](20210606_IMG_1084.jpeg)
+
+![20210606_IMG_1085.jpeg](20210606_IMG_1085.jpeg)
+
+![20210606_IMG_1086.jpeg](20210606_IMG_1086.jpeg)
+
+![20210606_IMG_1087.jpeg](20210606_IMG_1087.jpeg)
+
+![20210606_IMG_1088.jpeg](20210606_IMG_1088.jpeg)
+
+![20210606_IMG_1089.jpeg](20210606_IMG_1089.jpeg)
+
+![20210606_IMG_1090.jpeg](20210606_IMG_1090.jpeg)
+
+![20210606_IMG_1091.jpeg](20210606_IMG_1091.jpeg)
+
+![20210606_IMG_1092.jpeg](20210606_IMG_1092.jpeg)
+
+![20210606_IMG_1093.jpeg](20210606_IMG_1093.jpeg)
+
+![20210606_IMG_1094.jpeg](20210606_IMG_1094.jpeg)
+
+![20210606_IMG_1095.jpeg](20210606_IMG_1095.jpeg)
+
+![20210606_IMG_1096.jpeg](20210606_IMG_1096.jpeg)
+
+![20210606_IMG_1097.jpeg](20210606_IMG_1097.jpeg)
+
+![20210606_IMG_1098.jpeg](20210606_IMG_1098.jpeg)
+
+![20210606_IMG_1099.jpeg](20210606_IMG_1099.jpeg)
+
+![20210606_IMG_1100.jpeg](20210606_IMG_1100.jpeg)
+
+![20210606_IMG_1101.jpeg](20210606_IMG_1101.jpeg)
+
+![20210606_IMG_1102.jpeg](20210606_IMG_1102.jpeg)
+
+![20210606_IMG_1103.jpeg](20210606_IMG_1103.jpeg)
+
+![20210606_IMG_1104.jpeg](20210606_IMG_1104.jpeg)
+
+![20210606_IMG_1105.jpeg](20210606_IMG_1105.jpeg)
+
+![20210606_IMG_1106.jpeg](20210606_IMG_1106.jpeg)
+
+![20210606_IMG_1107.jpeg](20210606_IMG_1107.jpeg)
+
+![20210606_IMG_1108.jpeg](20210606_IMG_1108.jpeg)
+
+<hr />
+
+Today, we all went to <a href="https://goo.gl/maps/U2NLQmVRR9Nuvywq6">Musashi-Koyama</a> (武蔵小山駅) for the afternoon. We’re at <a href="https://goo.gl/maps/5VWP6rm7TfXAfEYy6">Café Kaldino</a>, and I’m taking a little nap. 💤
+
+![20210606_IMG_1109.jpeg](20210606_IMG_1109.jpeg)
+
+<hr />
+
+My Parents took me to a nearby park: <a href="https://goo.gl/maps/VMRtp1xaGEC8YJzR6">Rinshi-no-Mori</a>. I’m still asleep… 😴
+
+![20210606_IMG_1113.jpeg](20210606_IMG_1113.jpeg)
+
+![20210606_IMG_1114.jpeg](20210606_IMG_1114.jpeg)
+
+I’m awake now!
+
+![20210606_IMG_1115.jpeg](20210606_IMG_1115.jpeg)
+
+![20210606_IMG_1116.jpeg](20210606_IMG_1116.jpeg)
+
+![20210606_IMG_1117.jpeg](20210606_IMG_1117.jpeg)
+
+![20210606_IMG_1118.jpeg](20210606_IMG_1118.jpeg)
+
+![20210606_IMG_1119.jpeg](20210606_IMG_1119.jpeg)
+
+![20210606_IMG_1120.jpeg](20210606_IMG_1120.jpeg)
+
+![20210606_IMG_1121.jpeg](20210606_IMG_1121.jpeg)
+
+![20210606_IMG_1122.jpeg](20210606_IMG_1122.jpeg)
+
+![20210606_IMG_1123.jpeg](20210606_IMG_1123.jpeg)
+
+![20210606_IMG_1124.jpeg](20210606_IMG_1124.jpeg)
+
+![20210606_IMG_1125.jpeg](20210606_IMG_1125.jpeg)
+
+![20210606_IMG_1126.jpeg](20210606_IMG_1126.jpeg)
+
+![20210606_IMG_1127.jpeg](20210606_IMG_1127.jpeg)
+
+Look! A rope!
+
+![20210606_IMG_1128.jpeg](20210606_IMG_1128.jpeg)
+
+![20210606_IMG_1129.jpeg](20210606_IMG_1129.jpeg)
+
+![20210606_IMG_1130.jpeg](20210606_IMG_1130.jpeg)
+
+![20210606_IMG_1131.jpeg](20210606_IMG_1131.jpeg)
+
+![20210606_IMG_1132.jpeg](20210606_IMG_1132.jpeg)
+
+![20210606_IMG_1133.jpeg](20210606_IMG_1133.jpeg)
+
+![20210606_IMG_1134.jpeg](20210606_IMG_1134.jpeg)
+
+![20210606_IMG_1135.jpeg](20210606_IMG_1135.jpeg)
+
+![20210606_IMG_1136.jpeg](20210606_IMG_1136.jpeg)
+
+![20210606_IMG_1137.jpeg](20210606_IMG_1137.jpeg)
+
+Walking along the path…
+
+![20210606_IMG_1138.jpeg](20210606_IMG_1138.jpeg)
+
+![20210606_IMG_1139.jpeg](20210606_IMG_1139.jpeg)
+
+![20210606_IMG_1140.jpeg](20210606_IMG_1140.jpeg)
+
+![20210606_IMG_1141.jpeg](20210606_IMG_1141.jpeg)
+
+![20210606_IMG_1142.jpeg](20210606_IMG_1142.jpeg)
+
+![20210606_IMG_1143.jpeg](20210606_IMG_1143.jpeg)
+
+![20210606_IMG_1144.jpeg](20210606_IMG_1144.jpeg)
+
+Watch me walk up all these steps, Dad!
+
+![20210606_IMG_1145.jpeg](20210606_IMG_1145.jpeg)
+
+![20210606_IMG_1146.jpeg](20210606_IMG_1146.jpeg)
+
+![20210606_IMG_1147.jpeg](20210606_IMG_1147.jpeg)
+
+![20210606_IMG_1148.jpeg](20210606_IMG_1148.jpeg)
+
+![20210606_IMG_1149.jpeg](20210606_IMG_1149.jpeg)
+
+![20210606_IMG_1151.jpeg](20210606_IMG_1151.jpeg)
+
+![20210606_IMG_1152.jpeg](20210606_IMG_1152.jpeg)
+
+![20210606_IMG_1153.jpeg](20210606_IMG_1153.jpeg)
+
+I spotted a pigeon!
+
+![20210606_IMG_1154.jpeg](20210606_IMG_1154.jpeg)
+
+Hey, it’s getting away!
+
+![20210606_IMG_1157.jpeg](20210606_IMG_1157.jpeg)
+
+I’m going after it!
+
+![20210606_IMG_1158.jpeg](20210606_IMG_1158.jpeg)
+
+![20210606_IMG_1159.jpeg](20210606_IMG_1159.jpeg)
+
+It got away!
+
+![20210606_IMG_1160.jpeg](20210606_IMG_1160.jpeg)
+
+![20210606_IMG_1161.jpeg](20210606_IMG_1161.jpeg)
+
+![20210606_IMG_1162.jpeg](20210606_IMG_1162.jpeg)
+
+![20210606_IMG_1163.jpeg](20210606_IMG_1163.jpeg)
+
+Mum’s over there! Under the big red umbrella… ⛱
+
+![20210606_IMG_1164.jpeg](20210606_IMG_1164.jpeg)
+
+![20210606_IMG_1165.jpeg](20210606_IMG_1165.jpeg)
+
+![20210606_IMG_1166.jpeg](20210606_IMG_1166.jpeg)
+
+![20210606_IMG_1167.jpeg](20210606_IMG_1167.jpeg)
+
+![20210606_IMG_1168.jpeg](20210606_IMG_1168.jpeg)
+
+![20210606_IMG_1169.jpeg](20210606_IMG_1169.jpeg)
+
+I’m off to do some more exploring…
+
+![20210606_IMG_1170.jpeg](20210606_IMG_1170.jpeg)
+
+![20210606_IMG_1171.jpeg](20210606_IMG_1171.jpeg)
+
+![20210606_IMG_1172.jpeg](20210606_IMG_1172.jpeg)
+
+![20210606_IMG_1173.jpeg](20210606_IMG_1173.jpeg)
+
+![20210606_IMG_1174.jpeg](20210606_IMG_1174.jpeg)
+
+![20210606_IMG_1175.jpeg](20210606_IMG_1175.jpeg)
+
+![20210606_IMG_1177.jpeg](20210606_IMG_1177.jpeg)
+
+![20210606_IMG_1178.jpeg](20210606_IMG_1178.jpeg)
+
+![20210606_IMG_1179.jpeg](20210606_IMG_1179.jpeg)
+
+![20210606_IMG_1180.jpeg](20210606_IMG_1180.jpeg)
+
+<hr />
+
+After the park, we went to <a href="https://goo.gl/maps/vC2PqAQSmekR4px16">Jonathan’s</a>, a family restaurant.
+
+![20210606_IMG_1181.jpeg](20210606_IMG_1181.jpeg)
+
+![20210606_IMG_1182.jpeg](20210606_IMG_1182.jpeg)
+
+![20210606_IMG_1183.jpeg](20210606_IMG_1183.jpeg)
+
+![20210606_IMG_1184.jpeg](20210606_IMG_1184.jpeg)
+
+![20210606_IMG_1185.jpeg](20210606_IMG_1185.jpeg)
+
+![20210606_IMG_1186.jpeg](20210606_IMG_1186.jpeg)
+
+I ordered a kid’s curry… 🍛
+
+![20210606_IMG_1187.jpeg](20210606_IMG_1187.jpeg)
+
+And some French fries… 🍟
+
+![20210606_IMG_1188.jpeg](20210606_IMG_1188.jpeg)
+
+![20210606_IMG_1189.jpeg](20210606_IMG_1189.jpeg)
+
+![20210606_IMG_1190.jpeg](20210606_IMG_1190.jpeg)
+
+![20210606_IMG_1191.jpeg](20210606_IMG_1191.jpeg)
+
+![20210606_IMG_1192.jpeg](20210606_IMG_1192.jpeg)
+
+![20210606_IMG_1193.jpeg](20210606_IMG_1193.jpeg)
+
+![20210606_IMG_1194.jpeg](20210606_IMG_1194.jpeg)
+
+![20210606_IMG_1195.jpeg](20210606_IMG_1195.jpeg)
+
+![20210606_IMG_1196.jpeg](20210606_IMG_1196.jpeg)
+
+![20210606_IMG_1197.jpeg](20210606_IMG_1197.jpeg)
+
+![20210606_IMG_1198.jpeg](20210606_IMG_1198.jpeg)
+
+![20210606_IMG_1199.jpeg](20210606_IMG_1199.jpeg)
+
+![20210606_IMG_1200.jpeg](20210606_IMG_1200.jpeg)
+
+![20210606_IMG_1201.jpeg](20210606_IMG_1201.jpeg)
+
+![20210606_IMG_1202.jpeg](20210606_IMG_1202.jpeg)
+
+![20210606_IMG_1203.jpeg](20210606_IMG_1203.jpeg)
+
+![20210606_IMG_1204.jpeg](20210606_IMG_1204.jpeg)
+
+![20210606_IMG_1205.jpeg](20210606_IMG_1205.jpeg)
+
+![20210606_IMG_1206.jpeg](20210606_IMG_1206.jpeg)
+
+![20210606_IMG_1207.jpeg](20210606_IMG_1207.jpeg)
+
+![20210606_IMG_1208.jpeg](20210606_IMG_1208.jpeg)
+
+![20210606_IMG_1209.jpeg](20210606_IMG_1209.jpeg)
+
+![20210606_IMG_1210.jpeg](20210606_IMG_1210.jpeg)
+
+![20210606_IMG_1211.jpeg](20210606_IMG_1211.jpeg)
+
+![20210606_IMG_1212.jpeg](20210606_IMG_1212.jpeg)
+
+![20210606_IMG_1213.jpeg](20210606_IMG_1213.jpeg)
+
+![20210606_IMG_1214.jpeg](20210606_IMG_1214.jpeg)
+
+![20210606_IMG_1215.jpeg](20210606_IMG_1215.jpeg)
+
+![20210606_IMG_1216.jpeg](20210606_IMG_1216.jpeg)
+
+![20210606_IMG_1217.jpeg](20210606_IMG_1217.jpeg)
+
+![20210606_IMG_1218.jpeg](20210606_IMG_1218.jpeg)
+
+![20210606_IMG_1219.jpeg](20210606_IMG_1219.jpeg)
+
+![20210606_IMG_1220.jpeg](20210606_IMG_1220.jpeg)
+
+![20210606_IMG_1221.jpeg](20210606_IMG_1221.jpeg)
+
+![20210606_IMG_1222.jpeg](20210606_IMG_1222.jpeg)
+
+![20210606_IMG_1223.jpeg](20210606_IMG_1223.jpeg)
+
+![20210606_IMG_1224.jpeg](20210606_IMG_1224.jpeg)
+
+![20210606_IMG_1225.jpeg](20210606_IMG_1225.jpeg)
+
+![20210606_IMG_1226.jpeg](20210606_IMG_1226.jpeg)
+
+![20210606_IMG_1227.jpeg](20210606_IMG_1227.jpeg)
+
+![20210606_IMG_1228.jpeg](20210606_IMG_1228.jpeg)
+
+![20210606_IMG_1229.jpeg](20210606_IMG_1229.jpeg)
+
+![20210606_IMG_1230.jpeg](20210606_IMG_1230.jpeg)
+
+<hr />
+
+Fast asleep… 🛌
+
+![20210606_IMG_1231.jpeg](20210606_IMG_1231.jpeg)
+
+![20210606_IMG_1232.jpeg](20210606_IMG_1232.jpeg)

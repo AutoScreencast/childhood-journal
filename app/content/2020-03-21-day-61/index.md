@@ -1,0 +1,104 @@
+---
+date: "2020-03-21"
+day: 61
+template: "photo-post"
+title: "Roppongi Itchōme"
+subtitle: "Day 61 – Saturday, March 21, 2020"
+featuredImage: "20200321_IMG_2942.jpeg"
+---
+
+I’m sporting a colorful outfit today!
+
+![20200321_IMG_2916.jpeg](20200321_IMG_2916.jpeg)
+
+![20200321_IMG_2917.jpeg](20200321_IMG_2917.jpeg)
+
+![20200321_IMG_2918.jpeg](20200321_IMG_2918.jpeg)
+
+![20200321_IMG_2919.jpeg](20200321_IMG_2919.jpeg)
+
+![20200321_IMG_2920.jpeg](20200321_IMG_2920.jpeg)
+
+![20200321_IMG_2921.jpeg](20200321_IMG_2921.jpeg)
+
+![20200321_IMG_2922.jpeg](20200321_IMG_2922.jpeg)
+
+<hr />
+
+We are at Izumi Gardens in Roppongi Itchōme today.
+
+![20200321_IMG_2923.jpeg](20200321_IMG_2923.jpeg)
+
+![20200321_IMG_2924.jpeg](20200321_IMG_2924.jpeg)
+
+![20200321_IMG_2925.jpeg](20200321_IMG_2925.jpeg)
+
+<hr />
+
+We are having tonkatsu lunch again!
+
+![20200321_IMG_2932.jpeg](20200321_IMG_2932.jpeg)
+
+![20200321_IMG_2933.jpeg](20200321_IMG_2933.jpeg)
+
+<hr />
+
+Chilling out on my Parents’ bed.
+
+![20200321_IMG_2934.jpg](20200321_IMG_2934.jpg)
+
+![20200321_IMG_2935.jpg](20200321_IMG_2935.jpg)
+
+<hr />
+
+Practising sitting again on the sofa...
+
+![20200321_IMG_2936.jpeg](20200321_IMG_2936.jpeg)
+
+![20200321_IMG_2937.jpeg](20200321_IMG_2937.jpeg)
+
+![20200321_IMG_2938.jpeg](20200321_IMG_2938.jpeg)
+
+![20200321_IMG_2939.jpeg](20200321_IMG_2939.jpeg)
+
+![20200321_IMG_2940.jpeg](20200321_IMG_2940.jpeg)
+
+![20200321_IMG_2941.jpeg](20200321_IMG_2941.jpeg)
+
+![20200321_IMG_2942.jpeg](20200321_IMG_2942.jpeg)
+
+![20200321_IMG_2943.jpeg](20200321_IMG_2943.jpeg)
+
+![20200321_IMG_2944.jpeg](20200321_IMG_2944.jpeg)
+
+![20200321_IMG_2945.jpeg](20200321_IMG_2945.jpeg)
+
+![20200321_IMG_2946.jpeg](20200321_IMG_2946.jpeg)
+
+![20200321_IMG_2947.jpeg](20200321_IMG_2947.jpeg)
+
+<hr />
+
+Some close-ups...
+
+![20200321_IMG_2948.jpeg](20200321_IMG_2948.jpeg)
+
+![20200321_IMG_2949.jpeg](20200321_IMG_2949.jpeg)
+
+![20200321_IMG_2950.jpeg](20200321_IMG_2950.jpeg)
+
+![20200321_IMG_2951.jpeg](20200321_IMG_2951.jpeg)
+
+![20200321_IMG_2952.jpeg](20200321_IMG_2952.jpeg)
+
+![20200321_IMG_2953.jpeg](20200321_IMG_2953.jpeg)
+
+![20200321_IMG_2954.jpeg](20200321_IMG_2954.jpeg)
+
+![20200321_IMG_2955.jpeg](20200321_IMG_2955.jpeg)
+
+![20200321_IMG_2956.jpeg](20200321_IMG_2956.jpeg)
+
+![20200321_IMG_2957.jpeg](20200321_IMG_2957.jpeg)
+
+![20200321_IMG_2958.jpeg](20200321_IMG_2958.jpeg)

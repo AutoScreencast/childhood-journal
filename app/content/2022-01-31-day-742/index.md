@@ -1,0 +1,64 @@
+---
+date: "2022-01-31"
+day: 742
+template: "photo-post"
+title: "The Number 9"
+subtitle: "Day 742 – Monday, January 31, 2022"
+featuredImage: "20220131_IMG_7336.jpeg"
+---
+
+Today, I’m learning <b>the number 9</b>…
+
+![20220131_IMG_7333.jpeg](20220131_IMG_7333.jpeg)
+
+![20220131_IMG_7334.jpeg](20220131_IMG_7334.jpeg)
+
+![20220131_IMG_7335.jpeg](20220131_IMG_7335.jpeg)
+
+I have 9 crayons!&nbsp;&nbsp;🖍🖍🖍🖍🖍&nbsp;&nbsp;&nbsp;🖍🖍🖍🖍
+
+![20220131_IMG_7336.jpeg](20220131_IMG_7336.jpeg)
+
+![20220131_IMG_7337.jpeg](20220131_IMG_7337.jpeg)
+
+![20220131_IMG_7338.jpeg](20220131_IMG_7338.jpeg)
+
+![20220131_IMG_7339.jpeg](20220131_IMG_7339.jpeg)
+
+![20220131_IMG_7340.jpeg](20220131_IMG_7340.jpeg)
+
+![20220131_IMG_7341.jpeg](20220131_IMG_7341.jpeg)
+
+![20220131_IMG_7342.jpeg](20220131_IMG_7342.jpeg)
+
+![20220131_IMG_7343.jpeg](20220131_IMG_7343.jpeg)
+
+![20220131_IMG_7344.jpeg](20220131_IMG_7344.jpeg)
+
+![20220131_IMG_7345.jpeg](20220131_IMG_7345.jpeg)
+
+![20220131_IMG_7346.jpeg](20220131_IMG_7346.jpeg)
+
+![20220131_IMG_7347.jpeg](20220131_IMG_7347.jpeg)
+
+![20220131_IMG_7348.jpeg](20220131_IMG_7348.jpeg)
+
+![20220131_IMG_7349.jpeg](20220131_IMG_7349.jpeg)
+
+![20220131_IMG_7350.jpeg](20220131_IMG_7350.jpeg)
+
+![20220131_IMG_7351.jpeg](20220131_IMG_7351.jpeg)
+
+![20220131_IMG_7352.jpeg](20220131_IMG_7352.jpeg)
+
+![20220131_IMG_7353.jpeg](20220131_IMG_7353.jpeg)
+
+![20220131_IMG_7354.jpeg](20220131_IMG_7354.jpeg)
+
+![20220131_IMG_7355.jpeg](20220131_IMG_7355.jpeg)
+
+![20220131_IMG_7356.jpeg](20220131_IMG_7356.jpeg)
+
+![20220131_IMG_7357.jpeg](20220131_IMG_7357.jpeg)
+
+![20220131_IMG_7358.jpeg](20220131_IMG_7358.jpeg)

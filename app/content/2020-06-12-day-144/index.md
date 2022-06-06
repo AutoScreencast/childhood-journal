@@ -1,0 +1,110 @@
+---
+date: "2020-06-12"
+day: 144
+template: "photo-post"
+title: "Big Pimple"
+subtitle: "Day 144 – Friday, June 12, 2020"
+featuredImage: "20200612_IMG_5409.jpeg"
+---
+
+Today I woke up with a very big pimple on the right side of my forehead.
+
+![20200612_IMG_5409.jpeg](20200612_IMG_5409.jpeg)
+
+![20200612_IMG_5410.jpeg](20200612_IMG_5410.jpeg)
+
+![20200612_IMG_5411.jpeg](20200612_IMG_5411.jpeg)
+
+<hr />
+
+Sitting in the lobby.
+
+![20200612_IMG_5412.jpeg](20200612_IMG_5412.jpeg)
+
+![20200612_IMG_5413.jpeg](20200612_IMG_5413.jpeg)
+
+![20200612_IMG_5414.jpeg](20200612_IMG_5414.jpeg)
+
+![20200612_IMG_5415.jpeg](20200612_IMG_5415.jpeg)
+
+![20200612_IMG_5416.jpeg](20200612_IMG_5416.jpeg)
+
+![20200612_IMG_5417.jpeg](20200612_IMG_5417.jpeg)
+
+<hr />
+
+On my tummy.
+
+![20200612_IMG_5418.jpeg](20200612_IMG_5418.jpeg)
+
+![20200612_IMG_5419.jpeg](20200612_IMG_5419.jpeg)
+
+![20200612_IMG_5420.jpeg](20200612_IMG_5420.jpeg)
+
+![20200612_IMG_5421.jpeg](20200612_IMG_5421.jpeg)
+
+![20200612_IMG_5422.jpeg](20200612_IMG_5422.jpeg)
+
+![20200612_IMG_5423.jpeg](20200612_IMG_5423.jpeg)
+
+![20200612_IMG_5424.jpeg](20200612_IMG_5424.jpeg)
+
+![20200612_IMG_5425.jpeg](20200612_IMG_5425.jpeg)
+
+![20200612_IMG_5426.jpeg](20200612_IMG_5426.jpeg)
+
+![20200612_IMG_5427.jpeg](20200612_IMG_5427.jpeg)
+
+![20200612_IMG_5428.jpeg](20200612_IMG_5428.jpeg)
+
+![20200612_IMG_5429.jpeg](20200612_IMG_5429.jpeg)
+
+![20200612_IMG_5430.jpeg](20200612_IMG_5430.jpeg)
+
+![20200612_IMG_5431.jpeg](20200612_IMG_5431.jpeg)
+
+![20200612_IMG_5432.jpeg](20200612_IMG_5432.jpeg)
+
+![20200612_IMG_5433.jpeg](20200612_IMG_5433.jpeg)
+
+![20200612_IMG_5434.jpeg](20200612_IMG_5434.jpeg)
+
+![20200612_IMG_5435.jpeg](20200612_IMG_5435.jpeg)
+
+![20200612_IMG_5436.jpeg](20200612_IMG_5436.jpeg)
+
+![20200612_IMG_5438.jpeg](20200612_IMG_5438.jpeg)
+
+![20200612_IMG_5439.jpeg](20200612_IMG_5439.jpeg)
+
+![20200612_IMG_5440.jpeg](20200612_IMG_5440.jpeg)
+
+<hr />
+
+Taking it easy.
+
+![20200612_IMG_5441.jpeg](20200612_IMG_5441.jpeg)
+
+![20200612_IMG_5442.jpeg](20200612_IMG_5442.jpeg)
+
+<hr />
+
+On my electric rocking chair.
+
+![20200612_IMG_2242.jpeg](20200612_IMG_2242.jpeg)
+
+<hr />
+
+Watching TV.
+
+![20200612_IMG_2243.jpeg](20200612_IMG_2243.jpeg)
+
+<hr />
+
+In bed.
+
+![20200612_IMG_2245.jpeg](20200612_IMG_2245.jpeg)
+
+![20200612_IMG_2246.jpeg](20200612_IMG_2246.jpeg)
+
+![20200612_IMG_2247.jpeg](20200612_IMG_2247.jpeg)

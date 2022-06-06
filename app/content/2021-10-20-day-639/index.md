@@ -1,0 +1,46 @@
+---
+date: "2021-10-20"
+day: 639
+template: "photo-post"
+title: "21 Months Old"
+subtitle: "Day 639 – Wednesday, October 20, 2021"
+featuredImage: "20211020_IMG_1403.jpeg"
+---
+
+I’m twenty-one months old today!
+
+<hr />
+
+Watch me play!
+
+![20211020_IMG_1395.jpeg](20211020_IMG_1395.jpeg)
+
+![20211020_IMG_1394.jpeg](20211020_IMG_1394.jpeg)
+
+![20211020_IMG_1396.jpeg](20211020_IMG_1396.jpeg)
+
+![20211020_IMG_1397.jpeg](20211020_IMG_1397.jpeg)
+
+![20211020_IMG_1398.jpeg](20211020_IMG_1398.jpeg)
+
+![20211020_IMG_1399.jpeg](20211020_IMG_1399.jpeg)
+
+![20211020_IMG_1400.jpeg](20211020_IMG_1400.jpeg)
+
+![20211020_IMG_1401.jpeg](20211020_IMG_1401.jpeg)
+
+![20211020_IMG_1402.jpeg](20211020_IMG_1402.jpeg)
+
+![20211020_IMG_1403.jpeg](20211020_IMG_1403.jpeg)
+
+![20211020_IMG_1404.jpeg](20211020_IMG_1404.jpeg)
+
+![20211020_IMG_1405.jpeg](20211020_IMG_1405.jpeg)
+
+![20211020_IMG_1406.jpeg](20211020_IMG_1406.jpeg)
+
+![20211020_IMG_1407.jpeg](20211020_IMG_1407.jpeg)
+
+![20211020_IMG_1408.jpeg](20211020_IMG_1408.jpeg)
+
+![20211020_IMG_1409.jpeg](20211020_IMG_1409.jpeg)

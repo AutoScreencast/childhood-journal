@@ -1,0 +1,162 @@
+---
+date: "2020-09-28"
+day: 252
+template: "photo-post"
+title: "Reflection"
+subtitle: "Day 252 – Monday, September 28, 2020"
+featuredImage: "20200928_IMG_8763.jpeg"
+---
+
+<hr />
+
+_Today’s Solid Food Menu:_
+
+**Lunch**
+
+- Tofu (15g)
+- Onion (15g)
+- Pumpkin (15g)
+- Rice porridge and a little bonito powder (50g)
+
+**Dinner**
+
+- Yogurt (15g)
+- Banana (20g)
+- Pumpkin (25g)
+- Udon noodles a little bonito powder (40g)
+
+<hr />
+
+Playing with my Dad at home.
+
+![20200928_IMG_3962.jpeg](20200928_IMG_3962.jpeg)
+
+![20200928_IMG_3963.jpeg](20200928_IMG_3963.jpeg)
+
+![20200928_IMG_3964.jpeg](20200928_IMG_3964.jpeg)
+
+![20200928_IMG_3965.jpeg](20200928_IMG_3965.jpeg)
+
+![20200928_IMG_3966.jpeg](20200928_IMG_3966.jpeg)
+
+![20200928_IMG_3967.jpeg](20200928_IMG_3967.jpeg)
+
+![20200928_IMG_3968.jpeg](20200928_IMG_3968.jpeg)
+
+![20200928_IMG_3969.jpeg](20200928_IMG_3969.jpeg)
+
+![20200928_IMG_3970.jpg](20200928_IMG_3970.jpg)
+
+![20200928_IMG_3972.jpg](20200928_IMG_3972.jpg)
+
+![20200928_IMG_3973.jpg](20200928_IMG_3973.jpg)
+
+![20200928_IMG_3974.jpeg](20200928_IMG_3974.jpeg)
+
+![20200928_IMG_3975.jpeg](20200928_IMG_3975.jpeg)
+
+![20200928_IMG_3976.jpg](20200928_IMG_3976.jpg)
+
+![20200928_IMG_3977.jpeg](20200928_IMG_3977.jpeg)
+
+![20200928_IMG_3978.jpeg](20200928_IMG_3978.jpeg)
+
+![20200928_IMG_3979.jpeg](20200928_IMG_3979.jpeg)
+
+![20200928_IMG_3980.jpeg](20200928_IMG_3980.jpeg)
+
+![20200928_IMG_3981.jpeg](20200928_IMG_3981.jpeg)
+
+![20200928_IMG_3982.jpeg](20200928_IMG_3982.jpeg)
+
+<hr />
+
+Playing on my Discovery Mat, inside my playpen!
+
+![20200928_IMG_8745.jpeg](20200928_IMG_8745.jpeg)
+
+![20200928_IMG_8746.jpeg](20200928_IMG_8746.jpeg)
+
+I love the shiny round detachable mirror on the Discovery Mat.
+
+![20200928_IMG_8747.jpeg](20200928_IMG_8747.jpeg)
+
+![20200928_IMG_8748.jpeg](20200928_IMG_8748.jpeg)
+
+I can see my reflection in the mirror!
+
+![20200928_IMG_8749.jpeg](20200928_IMG_8749.jpeg)
+
+![20200928_IMG_8750.jpeg](20200928_IMG_8750.jpeg)
+
+![20200928_IMG_8751.jpeg](20200928_IMG_8751.jpeg)
+
+![20200928_IMG_8752.jpeg](20200928_IMG_8752.jpeg)
+
+![20200928_IMG_8753.jpeg](20200928_IMG_8753.jpeg)
+
+![20200928_IMG_8754.jpeg](20200928_IMG_8754.jpeg)
+
+![20200928_IMG_8755.jpeg](20200928_IMG_8755.jpeg)
+
+![20200928_IMG_8756.jpeg](20200928_IMG_8756.jpeg)
+
+![20200928_IMG_8757.jpeg](20200928_IMG_8757.jpeg)
+
+![20200928_IMG_8758.jpeg](20200928_IMG_8758.jpeg)
+
+![20200928_IMG_8759.jpeg](20200928_IMG_8759.jpeg)
+
+![20200928_IMG_8760.jpeg](20200928_IMG_8760.jpeg)
+
+![20200928_IMG_8761.jpeg](20200928_IMG_8761.jpeg)
+
+![20200928_IMG_8762.jpeg](20200928_IMG_8762.jpeg)
+
+![20200928_IMG_8763.jpeg](20200928_IMG_8763.jpeg)
+
+![20200928_IMG_8764.jpeg](20200928_IMG_8764.jpeg)
+
+![20200928_IMG_8765.jpeg](20200928_IMG_8765.jpeg)
+
+![20200928_IMG_8766.jpeg](20200928_IMG_8766.jpeg)
+
+![20200928_IMG_8767.jpeg](20200928_IMG_8767.jpeg)
+
+![20200928_IMG_8768.jpeg](20200928_IMG_8768.jpeg)
+
+![20200928_IMG_8769.jpeg](20200928_IMG_8769.jpeg)
+
+![20200928_IMG_8771.jpeg](20200928_IMG_8771.jpeg)
+
+![20200928_IMG_8772.jpeg](20200928_IMG_8772.jpeg)
+
+![20200928_IMG_8773.jpeg](20200928_IMG_8773.jpeg)
+
+![20200928_IMG_8774.jpeg](20200928_IMG_8774.jpeg)
+
+![20200928_IMG_8775.jpeg](20200928_IMG_8775.jpeg)
+
+![20200928_IMG_8776.jpeg](20200928_IMG_8776.jpeg)
+
+![20200928_IMG_8777.jpeg](20200928_IMG_8777.jpeg)
+
+<hr />
+
+We went for coffee at Tully’s.
+
+![20200928_IMG_8743.jpeg](20200928_IMG_8743.jpeg)
+
+<hr />
+
+Nap time at home.
+
+![20200928_IMG_3983.jpeg](20200928_IMG_3983.jpeg)
+
+![20200928_IMG_3984.jpeg](20200928_IMG_3984.jpeg)
+
+![20200928_IMG_3985.jpg](20200928_IMG_3985.jpg)
+
+![20200928_IMG_3986.jpg](20200928_IMG_3986.jpg)
+
+![20200928_IMG_8744.jpeg](20200928_IMG_8744.jpeg)

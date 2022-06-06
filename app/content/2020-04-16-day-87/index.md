@@ -1,0 +1,144 @@
+---
+date: "2020-04-16"
+day: 87
+template: "photo-post"
+title: "Reading my First Book"
+subtitle: "Day 87 – Thursday, April 16, 2020"
+featuredImage: "20200416_IMG_1469.jpg"
+---
+
+I’m practising standing (with a lot of help from my Dad)!
+
+![20200416_IMG_1461.jpeg](20200416_IMG_1461.jpeg)
+
+![20200416_IMG_1462.jpeg](20200416_IMG_1462.jpeg)
+
+![20200416_IMG_1463.jpeg](20200416_IMG_1463.jpeg)
+
+<hr />
+
+A new perspective …
+
+![20200416_IMG_1453.jpeg](20200416_IMG_1453.jpeg)
+
+![20200416_IMG_1454.jpeg](20200416_IMG_1454.jpeg)
+
+<hr />
+
+Close up and personal …
+
+![20200416_IMG_1455.jpeg](20200416_IMG_1455.jpeg)
+
+![20200416_IMG_3859.jpeg](20200416_IMG_3859.jpeg)
+
+![20200416_IMG_3860.jpeg](20200416_IMG_3860.jpeg)
+
+![20200416_IMG_3861.jpeg](20200416_IMG_3861.jpeg)
+
+![20200416_IMG_3862.jpeg](20200416_IMG_3862.jpeg)
+
+![20200416_IMG_3857.jpeg](20200416_IMG_3857.jpeg)
+
+![20200416_IMG_3858.jpeg](20200416_IMG_3858.jpeg)
+
+![20200416_IMG_1491.jpeg](20200416_IMG_1491.jpeg)
+
+![20200416_IMG_1492.jpg](20200416_IMG_1492.jpg)
+
+![20200416_IMG_1493.jpeg](20200416_IMG_1493.jpeg)
+
+![20200416_IMG_1494.jpeg](20200416_IMG_1494.jpeg)
+
+![20200416_IMG_1465.jpeg](20200416_IMG_1465.jpeg)
+
+![20200416_IMG_1466.jpeg](20200416_IMG_1466.jpeg)
+
+<hr />
+
+Getting some help to touch Tigger on my mobile.
+
+![20200416_IMG_1464.jpeg](20200416_IMG_1464.jpeg)
+
+<hr />
+
+Time with my friend the Bear.
+
+![20200416_IMG_1457.jpeg](20200416_IMG_1457.jpeg)
+
+![20200416_IMG_1458.jpeg](20200416_IMG_1458.jpeg)
+
+![20200416_IMG_1459.jpeg](20200416_IMG_1459.jpeg)
+
+![20200416_IMG_3845.jpeg](20200416_IMG_3845.jpeg)
+
+![20200416_IMG_3846.jpeg](20200416_IMG_3846.jpeg)
+
+![20200416_IMG_3847.jpeg](20200416_IMG_3847.jpeg)
+
+![20200416_IMG_3848.jpeg](20200416_IMG_3848.jpeg)
+
+![20200416_IMG_3849.jpeg](20200416_IMG_3849.jpeg)
+
+![20200416_IMG_3850.jpeg](20200416_IMG_3850.jpeg)
+
+![20200416_IMG_3851.jpeg](20200416_IMG_3851.jpeg)
+
+![20200416_IMG_3852.jpeg](20200416_IMG_3852.jpeg)
+
+![20200416_IMG_3853.jpeg](20200416_IMG_3853.jpeg)
+
+![20200416_IMG_3854.jpeg](20200416_IMG_3854.jpeg)
+
+![20200416_IMG_3855.jpeg](20200416_IMG_3855.jpeg)
+
+![20200416_IMG_3856.jpeg](20200416_IMG_3856.jpeg)
+
+<hr />
+
+![20200416_IMG_3863.jpeg](20200416_IMG_3863.jpeg)
+
+![20200416_IMG_3864.jpeg](20200416_IMG_3864.jpeg)
+
+<hr />
+
+Reading my first book with my Dad. It’s called “miffy and the new baby”, by Dick Bruna, who is from Holland. This book is in English.
+
+![20200416_IMG_1467.jpg](20200416_IMG_1467.jpg)
+
+![20200416_IMG_1469.jpg](20200416_IMG_1469.jpg)
+
+![20200416_IMG_1471.jpg](20200416_IMG_1471.jpg)
+
+![20200416_IMG_1474.jpg](20200416_IMG_1474.jpg)
+
+![20200416_IMG_1475.jpg](20200416_IMG_1475.jpg)
+
+![20200416_IMG_1476.jpg](20200416_IMG_1476.jpg)
+
+![20200416_IMG_1477.jpg](20200416_IMG_1477.jpg)
+
+![20200416_IMG_1478.jpg](20200416_IMG_1478.jpg)
+
+![20200416_IMG_1479.jpg](20200416_IMG_1479.jpg)
+
+![20200416_IMG_1480.jpg](20200416_IMG_1480.jpg)
+
+![20200416_IMG_1481.jpg](20200416_IMG_1481.jpg)
+
+![20200416_IMG_1482.jpg](20200416_IMG_1482.jpg)
+
+![20200416_IMG_1483.jpg](20200416_IMG_1483.jpg)
+
+![20200416_IMG_1488.jpg](20200416_IMG_1488.jpg)
+
+![20200416_IMG_1489.jpg](20200416_IMG_1489.jpg)
+
+Okay, enough reading for the day!
+
+![20200416_IMG_1490.jpg](20200416_IMG_1490.jpg)
+
+<hr />
+
+Reading makes me sleepy …
+
+![20200416_IMG_1460.jpeg](20200416_IMG_1460.jpeg)

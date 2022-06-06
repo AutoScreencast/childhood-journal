@@ -1,0 +1,86 @@
+---
+date: "2021-11-04"
+day: 654
+template: "photo-post"
+title: "Ferrari Daytona Toy Car"
+subtitle: "Day 654 – Thursday, November 4, 2021"
+featuredImage: "20211104_IMG_2320.jpeg"
+---
+
+Enjoying a tasty breakfast!
+
+![20211104_IMG_2307.jpeg](20211104_IMG_2307.jpeg)
+
+![20211104_IMG_2308.jpeg](20211104_IMG_2308.jpeg)
+
+![20211104_IMG_2309.jpeg](20211104_IMG_2309.jpeg)
+
+![20211104_IMG_2310.jpeg](20211104_IMG_2310.jpeg)
+
+![20211104_IMG_2311.jpeg](20211104_IMG_2311.jpeg)
+
+![20211104_IMG_2312.jpeg](20211104_IMG_2312.jpeg)
+
+<hr />
+
+That’s a pretty <a href="https://en.wikipedia.org/wiki/Convertible">convertible</a>! It’s a *<a href="https://en.wikipedia.org/wiki/Ferrari_Daytona">Ferrari Daytona</a>*, officially designated the *Ferrari 365 GTS4*.
+
+![20211104_IMG_2315.jpeg](20211104_IMG_2315.jpeg)
+
+![20211104_IMG_2316.jpeg](20211104_IMG_2316.jpeg)
+
+![20211104_IMG_2317.jpeg](20211104_IMG_2317.jpeg)
+
+![20211104_IMG_2318.jpeg](20211104_IMG_2318.jpeg)
+
+![20211104_IMG_2319.jpeg](20211104_IMG_2319.jpeg)
+
+![20211104_IMG_2320.jpeg](20211104_IMG_2320.jpeg)
+
+![20211104_IMG_2321.jpeg](20211104_IMG_2321.jpeg)
+
+![20211104_IMG_2322.jpeg](20211104_IMG_2322.jpeg)
+
+![20211104_IMG_2323.jpeg](20211104_IMG_2323.jpeg)
+
+![20211104_IMG_2324.jpeg](20211104_IMG_2324.jpeg)
+
+![20211104_IMG_2325.jpeg](20211104_IMG_2325.jpeg)
+
+![20211104_IMG_2326.jpeg](20211104_IMG_2326.jpeg)
+
+![20211104_IMG_2327.jpeg](20211104_IMG_2327.jpeg)
+
+![20211104_IMG_2328.jpeg](20211104_IMG_2328.jpeg)
+
+![20211104_IMG_2329.jpeg](20211104_IMG_2329.jpeg)
+
+![20211104_IMG_2330.jpeg](20211104_IMG_2330.jpeg)
+
+![20211104_IMG_2331.jpeg](20211104_IMG_2331.jpeg)
+
+![20211104_IMG_2332.jpeg](20211104_IMG_2332.jpeg)
+
+![20211104_IMG_2333.jpeg](20211104_IMG_2333.jpeg)
+
+![20211104_IMG_2334.jpeg](20211104_IMG_2334.jpeg)
+
+![20211104_IMG_2335.jpeg](20211104_IMG_2335.jpeg)
+
+![20211104_IMG_2336.jpeg](20211104_IMG_2336.jpeg)
+
+![20211104_IMG_2337.jpeg](20211104_IMG_2337.jpeg)
+
+![20211104_IMG_2338.jpeg](20211104_IMG_2338.jpeg)
+
+![20211104_IMG_2339.jpeg](20211104_IMG_2339.jpeg)
+
+![20211104_IMG_2340.jpeg](20211104_IMG_2340.jpeg)
+
+![20211104_IMG_2341.jpeg](20211104_IMG_2341.jpeg)
+
+![20211104_IMG_2342.jpeg](20211104_IMG_2342.jpeg)
+
+![20211104_IMG_2343.jpeg](20211104_IMG_2343.jpeg)
+
+![20211104_IMG_2344.jpeg](20211104_IMG_2344.jpeg)

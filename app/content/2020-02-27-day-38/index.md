@@ -1,0 +1,132 @@
+---
+date: "2020-02-27"
+day: 38
+template: "photo-post"
+title: "Chinese Lunch in Ebisu"
+subtitle: "Day 38 – Thursday, February 27, 2020"
+featuredImage: "20200227_IMG_2018.jpeg"
+---
+
+What did I do this time?
+
+![20200227_IMG_1981.jpg](20200227_IMG_1981.jpg)
+
+![20200227_IMG_1982.jpg](20200227_IMG_1982.jpg)
+
+<hr />
+
+Nap time!
+
+![20200227_IMG_1983.jpg](20200227_IMG_1983.jpg)
+
+<hr />
+
+Check out my new “Han Solo” jacket!
+
+![20200227_IMG_1984.jpeg](20200227_IMG_1984.jpeg)
+
+![20200227_IMG_1986.jpeg](20200227_IMG_1986.jpeg)
+
+<hr />
+
+I can sleep anywhere. We are out for Chinese lunch today in Ebisu!
+
+![20200227_IMG_1987.jpeg](20200227_IMG_1987.jpeg)
+
+![20200227_IMG_1988.jpeg](20200227_IMG_1988.jpeg)
+
+![20200227_IMG_1989.jpeg](20200227_IMG_1989.jpeg)
+
+Baby changing and feeding room in Atré, Ebisu.
+
+![20200227_IMG_1994.jpeg](20200227_IMG_1994.jpeg)
+
+<hr />
+
+And now, a series of photos of me in my fighter jet... OK, it’s just a stroller.
+
+![20200227_IMG_1995.jpeg](20200227_IMG_1995.jpeg)
+
+![20200227_IMG_1996.jpeg](20200227_IMG_1996.jpeg)
+
+![20200227_IMG_1997.jpeg](20200227_IMG_1997.jpeg)
+
+![20200227_IMG_1998.jpeg](20200227_IMG_1998.jpeg)
+
+![20200227_IMG_1999.jpeg](20200227_IMG_1999.jpeg)
+
+![20200227_IMG_2001.jpeg](20200227_IMG_2001.jpeg)
+
+![20200227_IMG_2002.jpeg](20200227_IMG_2002.jpeg)
+
+![20200227_IMG_2003.jpeg](20200227_IMG_2003.jpeg)
+
+![20200227_IMG_2004.jpeg](20200227_IMG_2004.jpeg)
+
+![20200227_IMG_2005.jpeg](20200227_IMG_2005.jpeg)
+
+![20200227_IMG_2006.jpeg](20200227_IMG_2006.jpeg)
+
+![20200227_IMG_2007.jpeg](20200227_IMG_2007.jpeg)
+
+![20200227_IMG_2008.jpeg](20200227_IMG_2008.jpeg)
+
+![20200227_IMG_2009.jpeg](20200227_IMG_2009.jpeg)
+
+![20200227_IMG_2010.jpeg](20200227_IMG_2010.jpeg)
+
+![20200227_IMG_2011.jpeg](20200227_IMG_2011.jpeg)
+
+![20200227_IMG_2012.jpeg](20200227_IMG_2012.jpeg)
+
+![20200227_IMG_2013.jpeg](20200227_IMG_2013.jpeg)
+
+![20200227_IMG_2014.jpeg](20200227_IMG_2014.jpeg)
+
+![20200227_IMG_2015.jpeg](20200227_IMG_2015.jpeg)
+
+![20200227_IMG_2016.jpeg](20200227_IMG_2016.jpeg)
+
+![20200227_IMG_2017.jpeg](20200227_IMG_2017.jpeg)
+
+![20200227_IMG_2018.jpeg](20200227_IMG_2018.jpeg)
+
+![20200227_IMG_2019.jpeg](20200227_IMG_2019.jpeg)
+
+![20200227_IMG_2020.jpeg](20200227_IMG_2020.jpeg)
+
+![20200227_IMG_2021.jpeg](20200227_IMG_2021.jpeg)
+
+![20200227_IMG_2022.jpeg](20200227_IMG_2022.jpeg)
+
+![20200227_IMG_2023.jpeg](20200227_IMG_2023.jpeg)
+
+![20200227_IMG_2024.jpeg](20200227_IMG_2024.jpeg)
+
+![20200227_IMG_2025.jpeg](20200227_IMG_2025.jpeg)
+
+![20200227_IMG_2026.jpeg](20200227_IMG_2026.jpeg)
+
+![20200227_IMG_2027.jpeg](20200227_IMG_2027.jpeg)
+
+![20200227_IMG_2028.jpeg](20200227_IMG_2028.jpeg)
+
+![20200227_IMG_2029.jpeg](20200227_IMG_2029.jpeg)
+
+![20200227_IMG_2030.jpeg](20200227_IMG_2030.jpeg)
+
+![20200227_IMG_2031.jpeg](20200227_IMG_2031.jpeg)
+
+![20200227_IMG_2032.jpeg](20200227_IMG_2032.jpeg)
+
+<hr />
+
+Gotta watch my weight!
+
+![20200227_IMG_2033.jpeg](20200227_IMG_2033.jpeg)
+
+<hr />
+
+And that’s a wrap, folks!
+
+![20200227_IMG_2034.jpg](20200227_IMG_2034.jpg)

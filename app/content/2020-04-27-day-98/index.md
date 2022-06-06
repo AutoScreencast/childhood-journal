@@ -1,0 +1,156 @@
+---
+date: "2020-04-27"
+day: 98
+template: "photo-post"
+title: "All in White"
+subtitle: "Day 98 – Monday, April 27, 2020"
+featuredImage: "20200427_IMG_4123.jpeg"
+---
+
+Today, the swingsets and other playground facilities at Hakutaka Children’s Playground are taped off due to the Novel Coronavirus State of Emergency. This is the case with other playgrounds in the Minato ward too. You can see that I’m quite grumpy about it.
+
+![20200427_IMG_1701.jpeg](20200427_IMG_1701.jpeg)
+
+![20200427_IMG_1702.jpeg](20200427_IMG_1702.jpeg)
+
+![20200427_IMG_1703.jpeg](20200427_IMG_1703.jpeg)
+
+![20200427_IMG_1704.jpg](20200427_IMG_1704.jpg)
+
+<hr />
+
+Now for a long series of pics of me in a very cool trousers and top outfit!
+
+![20200427_IMG_4092.jpeg](20200427_IMG_4092.jpeg)
+
+![20200427_IMG_4093.jpeg](20200427_IMG_4093.jpeg)
+
+![20200427_IMG_4094.jpeg](20200427_IMG_4094.jpeg)
+
+![20200427_IMG_4095.jpeg](20200427_IMG_4095.jpeg)
+
+![20200427_IMG_4096.jpeg](20200427_IMG_4096.jpeg)
+
+![20200427_IMG_4097.jpeg](20200427_IMG_4097.jpeg)
+
+![20200427_IMG_4098.jpeg](20200427_IMG_4098.jpeg)
+
+![20200427_IMG_4099.jpeg](20200427_IMG_4099.jpeg)
+
+![20200427_IMG_4100.jpeg](20200427_IMG_4100.jpeg)
+
+![20200427_IMG_4101.jpeg](20200427_IMG_4101.jpeg)
+
+![20200427_IMG_4102.jpeg](20200427_IMG_4102.jpeg)
+
+![20200427_IMG_4103.jpeg](20200427_IMG_4103.jpeg)
+
+![20200427_IMG_4104.jpeg](20200427_IMG_4104.jpeg)
+
+![20200427_IMG_4105.jpeg](20200427_IMG_4105.jpeg)
+
+![20200427_IMG_4106.jpeg](20200427_IMG_4106.jpeg)
+
+![20200427_IMG_4107.jpeg](20200427_IMG_4107.jpeg)
+
+![20200427_IMG_4108.jpeg](20200427_IMG_4108.jpeg)
+
+![20200427_IMG_4109.jpeg](20200427_IMG_4109.jpeg)
+
+![20200427_IMG_4110.jpeg](20200427_IMG_4110.jpeg)
+
+![20200427_IMG_4111.jpeg](20200427_IMG_4111.jpeg)
+
+![20200427_IMG_4112.jpeg](20200427_IMG_4112.jpeg)
+
+<hr />
+
+My Dad has me perched up on the nursing pillow to help strengthen my neck.
+
+![20200427_IMG_4113.jpeg](20200427_IMG_4113.jpeg)
+
+![20200427_IMG_4114.jpeg](20200427_IMG_4114.jpeg)
+
+![20200427_IMG_4115.jpeg](20200427_IMG_4115.jpeg)
+
+![20200427_IMG_4116.jpeg](20200427_IMG_4116.jpeg)
+
+![20200427_IMG_4117.jpeg](20200427_IMG_4117.jpeg)
+
+![20200427_IMG_4118.jpeg](20200427_IMG_4118.jpeg)
+
+![20200427_IMG_4119.jpeg](20200427_IMG_4119.jpeg)
+
+![20200427_IMG_4120.jpeg](20200427_IMG_4120.jpeg)
+
+![20200427_IMG_4121.jpeg](20200427_IMG_4121.jpeg)
+
+![20200427_IMG_4122.jpeg](20200427_IMG_4122.jpeg)
+
+![20200427_IMG_4123.jpeg](20200427_IMG_4123.jpeg)
+
+![20200427_IMG_4124.jpeg](20200427_IMG_4124.jpeg)
+
+![20200427_IMG_4125.jpeg](20200427_IMG_4125.jpeg)
+
+![20200427_IMG_4126.jpeg](20200427_IMG_4126.jpeg)
+
+![20200427_IMG_4127.jpeg](20200427_IMG_4127.jpeg)
+
+![20200427_IMG_4128.jpeg](20200427_IMG_4128.jpeg)
+
+![20200427_IMG_4129.jpeg](20200427_IMG_4129.jpeg)
+
+![20200427_IMG_4130.jpeg](20200427_IMG_4130.jpeg)
+
+![20200427_IMG_4131.jpeg](20200427_IMG_4131.jpeg)
+
+![20200427_IMG_4132.jpeg](20200427_IMG_4132.jpeg)
+
+![20200427_IMG_4133.jpeg](20200427_IMG_4133.jpeg)
+
+![20200427_IMG_4134.jpeg](20200427_IMG_4134.jpeg)
+
+![20200427_IMG_4135.jpeg](20200427_IMG_4135.jpeg)
+
+![20200427_IMG_4136.jpeg](20200427_IMG_4136.jpeg)
+
+![20200427_IMG_4137.jpeg](20200427_IMG_4137.jpeg)
+
+![20200427_IMG_4138.jpeg](20200427_IMG_4138.jpeg)
+
+![20200427_IMG_4139.jpeg](20200427_IMG_4139.jpeg)
+
+![20200427_IMG_4140.jpeg](20200427_IMG_4140.jpeg)
+
+![20200427_IMG_4141.jpeg](20200427_IMG_4141.jpeg)
+
+![20200427_IMG_1705.jpeg](20200427_IMG_1705.jpeg)
+
+![20200427_IMG_1706.jpeg](20200427_IMG_1706.jpeg)
+
+![20200427_IMG_1707.jpeg](20200427_IMG_1707.jpeg)
+
+![20200427_IMG_1708.jpeg](20200427_IMG_1708.jpeg)
+
+<hr />
+
+Now for some miscellaneous pics …
+
+![20200427_IMG_1709.jpeg](20200427_IMG_1709.jpeg)
+
+![20200427_IMG_1710.jpg](20200427_IMG_1710.jpg)
+
+Smilin’ in this one! 😃
+
+![20200427_IMG_1711.jpeg](20200427_IMG_1711.jpeg)
+
+![20200427_IMG_1712.jpeg](20200427_IMG_1712.jpeg)
+
+<hr />
+
+![20200427_IMG_4142.jpeg](20200427_IMG_4142.jpeg)
+
+![20200427_IMG_4144.jpeg](20200427_IMG_4144.jpeg)
+
+![20200427_IMG_4148.jpeg](20200427_IMG_4148.jpeg)

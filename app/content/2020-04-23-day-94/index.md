@@ -1,0 +1,130 @@
+---
+date: "2020-04-23"
+day: 94
+template: "photo-post"
+title: "A Sunny Thursday"
+subtitle: "Day 94 – Thursday, April 23, 2020"
+featuredImage: "20200423_IMG_3983.jpeg"
+---
+
+It’s another sunny day in Tokyo, so we went for a walk to Arisugawa Park.
+
+![20200423_IMG_3971.jpeg](20200423_IMG_3971.jpeg)
+
+![20200423_IMG_3972.jpeg](20200423_IMG_3972.jpeg)
+
+![20200423_IMG_3973.jpeg](20200423_IMG_3973.jpeg)
+
+![20200423_IMG_3974.jpeg](20200423_IMG_3974.jpeg)
+
+![20200423_IMG_3975.jpeg](20200423_IMG_3975.jpeg)
+
+![20200423_IMG_3976.jpeg](20200423_IMG_3976.jpeg)
+
+<hr />
+
+Chillin’ on the couch.
+
+![20200423_IMG_1609.jpeg](20200423_IMG_1609.jpeg)
+
+![20200423_IMG_1610.jpg](20200423_IMG_1610.jpg)
+
+![20200423_IMG_1611.jpg](20200423_IMG_1611.jpg)
+
+![20200423_IMG_1612.jpg](20200423_IMG_1612.jpg)
+
+![20200423_IMG_1613.jpg](20200423_IMG_1613.jpg)
+
+![20200423_IMG_1614.jpeg](20200423_IMG_1614.jpeg)
+
+![20200423_IMG_1615.jpg](20200423_IMG_1615.jpg)
+
+![20200423_IMG_1616.jpg](20200423_IMG_1616.jpg)
+
+![20200423_IMG_1617.jpg](20200423_IMG_1617.jpg)
+
+![20200423_IMG_1618.jpg](20200423_IMG_1618.jpg)
+
+![20200423_IMG_1619.jpeg](20200423_IMG_1619.jpeg)
+
+![20200423_IMG_1620.jpeg](20200423_IMG_1620.jpeg)
+
+<hr />
+
+Getting changed on the bed. The red bedsheet offsets my white outfit nicely in these pics :)
+
+![20200423_IMG_3960.jpeg](20200423_IMG_3960.jpeg)
+
+![20200423_IMG_3961.jpeg](20200423_IMG_3961.jpeg)
+
+![20200423_IMG_3963.jpeg](20200423_IMG_3963.jpeg)
+
+![20200423_IMG_3964.jpeg](20200423_IMG_3964.jpeg)
+
+![20200423_IMG_3965.jpeg](20200423_IMG_3965.jpeg)
+
+![20200423_IMG_3966.jpeg](20200423_IMG_3966.jpeg)
+
+![20200423_IMG_3967.jpeg](20200423_IMG_3967.jpeg)
+
+![20200423_IMG_3968.jpeg](20200423_IMG_3968.jpeg)
+
+![20200423_IMG_3969.jpeg](20200423_IMG_3969.jpeg)
+
+![20200423_IMG_3970.jpeg](20200423_IMG_3970.jpeg)
+
+<hr />
+
+Napping on the bed, with the shades up.
+
+![20200423_IMG_3977.jpeg](20200423_IMG_3977.jpeg)
+
+![20200423_IMG_3978.jpeg](20200423_IMG_3978.jpeg)
+
+![20200423_IMG_3979.jpeg](20200423_IMG_3979.jpeg)
+
+![20200423_IMG_3980.jpeg](20200423_IMG_3980.jpeg)
+
+![20200423_IMG_3981.jpeg](20200423_IMG_3981.jpeg)
+
+![20200423_IMG_3982.jpeg](20200423_IMG_3982.jpeg)
+
+![20200423_IMG_3983.jpeg](20200423_IMG_3983.jpeg)
+
+![20200423_IMG_3984.jpeg](20200423_IMG_3984.jpeg)
+
+<hr />
+
+A long series of pics of me in my bassinet.
+
+![20200423_IMG_3985.jpeg](20200423_IMG_3985.jpeg)
+
+![20200423_IMG_3986.jpeg](20200423_IMG_3986.jpeg)
+
+![20200423_IMG_3987.jpeg](20200423_IMG_3987.jpeg)
+
+![20200423_IMG_3988.jpeg](20200423_IMG_3988.jpeg)
+
+![20200423_IMG_3989.jpeg](20200423_IMG_3989.jpeg)
+
+![20200423_IMG_3990.jpeg](20200423_IMG_3990.jpeg)
+
+![20200423_IMG_3991.jpeg](20200423_IMG_3991.jpeg)
+
+![20200423_IMG_3992.jpeg](20200423_IMG_3992.jpeg)
+
+![20200423_IMG_3993.jpeg](20200423_IMG_3993.jpeg)
+
+![20200423_IMG_3994.jpeg](20200423_IMG_3994.jpeg)
+
+![20200423_IMG_3995.jpeg](20200423_IMG_3995.jpeg)
+
+![20200423_IMG_3996.jpeg](20200423_IMG_3996.jpeg)
+
+![20200423_IMG_3997.jpeg](20200423_IMG_3997.jpeg)
+
+![20200423_IMG_3998.jpeg](20200423_IMG_3998.jpeg)
+
+![20200423_IMG_3999.jpeg](20200423_IMG_3999.jpeg)
+
+![20200423_IMG_4001.jpeg](20200423_IMG_4001.jpeg)

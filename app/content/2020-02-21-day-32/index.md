@@ -1,0 +1,94 @@
+---
+date: "2020-02-21"
+day: 32
+template: "photo-post"
+title: "Face-Off with Mum"
+subtitle: "Day 32 – Friday, February 21, 2020"
+featuredImage: "20200221_IMG_1853.jpeg"
+---
+
+A long series of face pics of me today... Enjoy!
+
+![20200221_IMG_1829.jpeg](20200221_IMG_1829.jpeg)
+
+![20200221_IMG_1830.jpeg](20200221_IMG_1830.jpeg)
+
+![20200221_IMG_1832.jpeg](20200221_IMG_1832.jpeg)
+
+![20200221_IMG_1833.jpeg](20200221_IMG_1833.jpeg)
+
+![20200221_IMG_1834.jpeg](20200221_IMG_1834.jpeg)
+
+![20200221_IMG_1835.jpeg](20200221_IMG_1835.jpeg)
+
+![20200221_IMG_1836.jpeg](20200221_IMG_1836.jpeg)
+
+![20200221_IMG_1837.jpeg](20200221_IMG_1837.jpeg)
+
+![20200221_IMG_1838.jpeg](20200221_IMG_1838.jpeg)
+
+![20200221_IMG_1839.jpeg](20200221_IMG_1839.jpeg)
+
+![20200221_IMG_1840.jpeg](20200221_IMG_1840.jpeg)
+
+![20200221_IMG_1841.jpeg](20200221_IMG_1841.jpeg)
+
+![20200221_IMG_1842.jpeg](20200221_IMG_1842.jpeg)
+
+![20200221_IMG_1843.jpeg](20200221_IMG_1843.jpeg)
+
+![20200221_IMG_1844.jpeg](20200221_IMG_1844.jpeg)
+
+![20200221_IMG_1845.jpeg](20200221_IMG_1845.jpeg)
+
+![20200221_IMG_1846.jpeg](20200221_IMG_1846.jpeg)
+
+![20200221_IMG_1847.jpeg](20200221_IMG_1847.jpeg)
+
+![20200221_IMG_1848.jpeg](20200221_IMG_1848.jpeg)
+
+![20200221_IMG_1849.jpeg](20200221_IMG_1849.jpeg)
+
+![20200221_IMG_1850.jpeg](20200221_IMG_1850.jpeg)
+
+![20200221_IMG_1851.jpg](20200221_IMG_1851.jpg)
+
+<hr />
+
+Another face-off with my Mum... I always win at these. 😉
+
+![20200221_IMG_1852.jpeg](20200221_IMG_1852.jpeg)
+
+![20200221_IMG_1853.jpeg](20200221_IMG_1853.jpeg)
+
+![20200221_IMG_1854.jpeg](20200221_IMG_1854.jpeg)
+
+![20200221_IMG_1855.jpeg](20200221_IMG_1855.jpeg)
+
+![20200221_IMG_1857.jpeg](20200221_IMG_1857.jpeg)
+
+<hr />
+
+Sleepy now... I’ll take a nap. 😴
+
+![20200221_IMG_1859.jpeg](20200221_IMG_1859.jpeg)
+
+![20200221_IMG_1860.jpeg](20200221_IMG_1860.jpeg)
+
+![20200221_IMG_1862.jpeg](20200221_IMG_1862.jpeg)
+
+<hr />
+
+It’s bed-time!
+
+![20200221_IMG_1863.jpeg](20200221_IMG_1863.jpeg)
+
+![20200221_IMG_1864.jpeg](20200221_IMG_1864.jpeg)
+
+![20200221_IMG_1866.jpeg](20200221_IMG_1866.jpeg)
+
+![20200221_IMG_1867.jpeg](20200221_IMG_1867.jpeg)
+
+![20200221_IMG_1868.jpeg](20200221_IMG_1868.jpeg)
+
+![20200221_IMG_1869.jpeg](20200221_IMG_1869.jpeg)

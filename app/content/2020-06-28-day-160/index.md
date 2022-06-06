@@ -1,0 +1,90 @@
+---
+date: "2020-06-28"
+day: 160
+template: "photo-post"
+title: "Gazing out of the Window"
+subtitle: "Day 160 – Sunday, June 28, 2020"
+featuredImage: "20200628_IMG_5838.jpeg"
+---
+
+It’s a rainy morning. We’re just going to look out of the window instead of going out.
+
+![20200628_IMG_5821.jpeg](20200628_IMG_5821.jpeg)
+
+![20200628_IMG_5822.jpeg](20200628_IMG_5822.jpeg)
+
+![20200628_IMG_5823.jpeg](20200628_IMG_5823.jpeg)
+
+![20200628_IMG_5824.jpeg](20200628_IMG_5824.jpeg)
+
+![20200628_IMG_5825.jpeg](20200628_IMG_5825.jpeg)
+
+![20200628_IMG_5826.jpeg](20200628_IMG_5826.jpeg)
+
+![20200628_IMG_5827.jpeg](20200628_IMG_5827.jpeg)
+
+![20200628_IMG_5828.jpeg](20200628_IMG_5828.jpeg)
+
+![20200628_IMG_5829.jpeg](20200628_IMG_5829.jpeg)
+
+![20200628_IMG_5830.jpeg](20200628_IMG_5830.jpeg)
+
+![20200628_IMG_5831.jpeg](20200628_IMG_5831.jpeg)
+
+![20200628_IMG_5832.jpeg](20200628_IMG_5832.jpeg)
+
+![20200628_IMG_5833.jpeg](20200628_IMG_5833.jpeg)
+
+![20200628_IMG_5834.jpeg](20200628_IMG_5834.jpeg)
+
+![20200628_IMG_5835.jpeg](20200628_IMG_5835.jpeg)
+
+![20200628_IMG_5836.jpeg](20200628_IMG_5836.jpeg)
+
+![20200628_IMG_5837.jpeg](20200628_IMG_5837.jpeg)
+
+![20200628_IMG_5838.jpeg](20200628_IMG_5838.jpeg)
+
+![20200628_IMG_5839.jpeg](20200628_IMG_5839.jpeg)
+
+![20200628_IMG_5844.jpeg](20200628_IMG_5844.jpeg)
+
+![20200628_IMG_5845.jpeg](20200628_IMG_5845.jpeg)
+
+<hr />
+
+It’s so nice to relax in front of the window.
+
+![20200628_IMG_5840.jpeg](20200628_IMG_5840.jpeg)
+
+![20200628_IMG_5841.jpeg](20200628_IMG_5841.jpeg)
+
+![20200628_IMG_2565.jpeg](20200628_IMG_2565.jpeg)
+
+![20200628_IMG_2566.jpeg](20200628_IMG_2566.jpeg)
+
+![20200628_IMG_2567.jpeg](20200628_IMG_2567.jpeg)
+
+![20200628_IMG_2569.jpeg](20200628_IMG_2569.jpeg)
+
+<hr />
+
+Sitting on my Mum’s shoulder.
+
+![20200628_IMG_5846.jpeg](20200628_IMG_5846.jpeg)
+
+![20200628_IMG_5847.jpeg](20200628_IMG_5847.jpeg)
+
+![20200628_IMG_5848.jpeg](20200628_IMG_5848.jpeg)
+
+![20200628_IMG_5849.jpeg](20200628_IMG_5849.jpeg)
+
+![20200628_IMG_5850.jpeg](20200628_IMG_5850.jpeg)
+
+<hr />
+
+Napping in my Mum’s arms.
+
+![20200628_IMG_5842.jpeg](20200628_IMG_5842.jpeg)
+
+![20200628_IMG_5843.jpeg](20200628_IMG_5843.jpeg)

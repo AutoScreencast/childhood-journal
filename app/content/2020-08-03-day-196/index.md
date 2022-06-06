@@ -1,0 +1,181 @@
+---
+date: "2020-08-03"
+day: 196
+template: "photo-post"
+title: "Looking over the Edge / Tomato"
+subtitle: "Day 196 – Monday, August 3, 2020"
+featuredImage: "20200803_IMG_7092.jpeg"
+---
+
+Today, I’m having **tomato** for the first time!
+
+<hr />
+
+_Today’s Solid Food Menu:_
+
+- Tofu (10g)
+- Tomato (5g)
+- Spinach (10g)
+- Rice porridge (35g)
+
+<hr />
+
+Time to eat lunch.
+
+![20200803_IMG_6960.jpeg](20200803_IMG_6960.jpeg)
+
+What’s this?
+
+![20200803_IMG_6961.jpeg](20200803_IMG_6961.jpeg)
+
+Let me try it.
+
+![20200803_IMG_6962.jpeg](20200803_IMG_6962.jpeg)
+
+Ummmmm …
+
+![20200803_IMG_6963.jpeg](20200803_IMG_6963.jpeg)
+
+Let me try some more …
+
+![20200803_IMG_6964.jpeg](20200803_IMG_6964.jpeg)
+
+![20200803_IMG_6965.jpeg](20200803_IMG_6965.jpeg)
+
+![20200803_IMG_6966.jpeg](20200803_IMG_6966.jpeg)
+
+I’m not sure if I like it …
+
+![20200803_IMG_6967.jpeg](20200803_IMG_6967.jpeg)
+
+![20200803_IMG_6968.jpeg](20200803_IMG_6968.jpeg)
+
+![20200803_IMG_6969.jpeg](20200803_IMG_6969.jpeg)
+
+![20200803_IMG_6970.jpeg](20200803_IMG_6970.jpeg)
+
+![20200803_IMG_6971.jpeg](20200803_IMG_6971.jpeg)
+
+Time for some water.
+
+![20200803_IMG_6972.jpeg](20200803_IMG_6972.jpeg)
+
+![20200803_IMG_6973.jpeg](20200803_IMG_6973.jpeg)
+
+![20200803_IMG_6974.jpeg](20200803_IMG_6974.jpeg)
+
+![20200803_IMG_6975.jpeg](20200803_IMG_6975.jpeg)
+
+![20200803_IMG_6976.jpeg](20200803_IMG_6976.jpeg)
+
+![20200803_IMG_6977.jpeg](20200803_IMG_6977.jpeg)
+
+<hr />
+
+In my playpen.
+
+![20200803_IMG_3147.jpeg](20200803_IMG_3147.jpeg)
+
+![20200803_IMG_3148.jpeg](20200803_IMG_3148.jpeg)
+
+![20200803_IMG_3149.jpeg](20200803_IMG_3149.jpeg)
+
+![20200803_IMG_3150.jpeg](20200803_IMG_3150.jpeg)
+
+![20200803_IMG_3151.jpeg](20200803_IMG_3151.jpeg)
+
+![20200803_IMG_3152.jpeg](20200803_IMG_3152.jpeg)
+
+![20200803_IMG_3153.jpeg](20200803_IMG_3153.jpeg)
+
+![20200803_IMG_3154.jpeg](20200803_IMG_3154.jpeg)
+
+![20200803_IMG_3155.jpeg](20200803_IMG_3155.jpeg)
+
+![20200803_IMG_3156.jpeg](20200803_IMG_3156.jpeg)
+
+![20200803_IMG_3157.jpeg](20200803_IMG_3157.jpeg)
+
+![20200803_IMG_3158.jpg](20200803_IMG_3158.jpg)
+
+![20200803_IMG_3159.jpg](20200803_IMG_3159.jpg)
+
+![20200803_IMG_3160.jpg](20200803_IMG_3160.jpg)
+
+![20200803_IMG_3161.jpg](20200803_IMG_3161.jpg)
+
+![20200803_IMG_3145.jpeg](20200803_IMG_3145.jpeg)
+
+![20200803_IMG_3146.jpeg](20200803_IMG_3146.jpeg)
+
+<hr />
+
+Going out for a walk.
+
+![20200803_IMG_6953.jpeg](20200803_IMG_6953.jpeg)
+
+![20200803_IMG_6954.jpeg](20200803_IMG_6954.jpeg)
+
+![20200803_IMG_6955.jpeg](20200803_IMG_6955.jpeg)
+
+![20200803_IMG_6956.jpeg](20200803_IMG_6956.jpeg)
+
+![20200803_IMG_6957.jpeg](20200803_IMG_6957.jpeg)
+
+![20200803_IMG_6958.jpeg](20200803_IMG_6958.jpeg)
+
+<hr />
+
+<hr />
+
+Standing and watching TV! My favorite show – Peanuts — is on.
+
+![20200803_IMG_3162.jpeg](20200803_IMG_3162.jpeg)
+
+![20200803_IMG_3163.jpeg](20200803_IMG_3163.jpeg)
+
+![20200803_IMG_3164.jpeg](20200803_IMG_3164.jpeg)
+
+![20200803_IMG_7085.jpeg](20200803_IMG_7085.jpeg)
+
+![20200803_IMG_7086.jpeg](20200803_IMG_7086.jpeg)
+
+![20200803_IMG_7087.jpeg](20200803_IMG_7087.jpeg)
+
+![20200803_IMG_7088.jpeg](20200803_IMG_7088.jpeg)
+
+![20200803_IMG_7089.jpeg](20200803_IMG_7089.jpeg)
+
+![20200803_IMG_7090.jpeg](20200803_IMG_7090.jpeg)
+
+![20200803_IMG_7091.jpeg](20200803_IMG_7091.jpeg)
+
+Peering over the edge.
+
+![20200803_IMG_7092.jpeg](20200803_IMG_7092.jpeg)
+
+![20200803_IMG_7093.jpeg](20200803_IMG_7093.jpeg)
+
+![20200803_IMG_7094.jpeg](20200803_IMG_7094.jpeg)
+
+![20200803_IMG_7095.jpeg](20200803_IMG_7095.jpeg)
+
+![20200803_IMG_7096.jpeg](20200803_IMG_7096.jpeg)
+
+![20200803_IMG_7097.jpeg](20200803_IMG_7097.jpeg)
+
+![20200803_IMG_7098.jpeg](20200803_IMG_7098.jpeg)
+
+![20200803_IMG_7099.jpeg](20200803_IMG_7099.jpeg)
+
+![20200803_IMG_7100.jpeg](20200803_IMG_7100.jpeg)
+
+![20200803_IMG_7101.jpeg](20200803_IMG_7101.jpeg)
+
+![20200803_IMG_7102.jpeg](20200803_IMG_7102.jpeg)
+
+![20200803_IMG_7103.jpeg](20200803_IMG_7103.jpeg)
+
+![20200803_IMG_7104.jpeg](20200803_IMG_7104.jpeg)
+
+![20200803_IMG_7105.jpeg](20200803_IMG_7105.jpeg)

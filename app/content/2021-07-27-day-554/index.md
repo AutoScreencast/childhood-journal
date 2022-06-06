@@ -1,0 +1,144 @@
+---
+date: "2021-07-27"
+day: 554
+template: "photo-post"
+title: "Scone"
+subtitle: "Day 554 – Tuesday, July 27, 2021"
+featuredImage: "20210727_IMG_3909.jpeg"
+---
+
+It’s raining 🌧 today, so we’re taking an umbrella ☂ to nursery school this morning.
+
+![20210727_IMG_3870.jpeg](20210727_IMG_3870.jpeg)
+
+![20210727_IMG_3871.jpeg](20210727_IMG_3871.jpeg)
+
+![20210727_IMG_3872.jpeg](20210727_IMG_3872.jpeg)
+
+![20210727_IMG_3873.jpeg](20210727_IMG_3873.jpeg)
+
+![20210727_IMG_3874.jpeg](20210727_IMG_3874.jpeg)
+
+![20210727_IMG_3875.jpeg](20210727_IMG_3875.jpeg)
+
+![20210727_IMG_3876.jpeg](20210727_IMG_3876.jpeg)
+
+![20210727_IMG_3877.jpeg](20210727_IMG_3877.jpeg)
+
+![20210727_IMG_3878.jpeg](20210727_IMG_3878.jpeg)
+
+<hr />
+
+Washing my hands after getting back from nursery school.
+
+![20210727_IMG_3880.jpeg](20210727_IMG_3880.jpeg)
+
+![20210727_IMG_3881.jpeg](20210727_IMG_3881.jpeg)
+
+<hr />
+
+I’m trying a <a href="https://en.wikipedia.org/wiki/Scone">scone</a> (スコーン) for the first time today!
+
+![20210727_IMG_3882.jpeg](20210727_IMG_3882.jpeg)
+
+![20210727_IMG_3883.jpeg](20210727_IMG_3883.jpeg)
+
+![20210727_IMG_3884.jpeg](20210727_IMG_3884.jpeg)
+
+![20210727_IMG_3885.jpeg](20210727_IMG_3885.jpeg)
+
+![20210727_IMG_3886.jpeg](20210727_IMG_3886.jpeg)
+
+![20210727_IMG_3887.jpeg](20210727_IMG_3887.jpeg)
+
+![20210727_IMG_3888.jpeg](20210727_IMG_3888.jpeg)
+
+![20210727_IMG_3889.jpeg](20210727_IMG_3889.jpeg)
+
+![20210727_IMG_3890.jpeg](20210727_IMG_3890.jpeg)
+
+![20210727_IMG_3891.jpeg](20210727_IMG_3891.jpeg)
+
+![20210727_IMG_3892.jpeg](20210727_IMG_3892.jpeg)
+
+![20210727_IMG_3893.jpeg](20210727_IMG_3893.jpeg)
+
+![20210727_IMG_3894.jpeg](20210727_IMG_3894.jpeg)
+
+![20210727_IMG_3895.jpeg](20210727_IMG_3895.jpeg)
+
+![20210727_IMG_3896.jpeg](20210727_IMG_3896.jpeg)
+
+![20210727_IMG_3897.jpeg](20210727_IMG_3897.jpeg)
+
+I love it! 😋
+
+![20210727_IMG_3898.jpeg](20210727_IMG_3898.jpeg)
+
+![20210727_IMG_3899.jpeg](20210727_IMG_3899.jpeg)
+
+![20210727_IMG_3900.jpeg](20210727_IMG_3900.jpeg)
+
+![20210727_IMG_3901.jpeg](20210727_IMG_3901.jpeg)
+
+![20210727_IMG_3902.jpeg](20210727_IMG_3902.jpeg)
+
+![20210727_IMG_3903.jpeg](20210727_IMG_3903.jpeg)
+
+![20210727_IMG_3904.jpeg](20210727_IMG_3904.jpeg)
+
+![20210727_IMG_3905.jpeg](20210727_IMG_3905.jpeg)
+
+![20210727_IMG_3906.jpeg](20210727_IMG_3906.jpeg)
+
+![20210727_IMG_3907.jpeg](20210727_IMG_3907.jpeg)
+
+![20210727_IMG_3908.jpeg](20210727_IMG_3908.jpeg)
+
+![20210727_IMG_3909.jpeg](20210727_IMG_3909.jpeg)
+
+![20210727_IMG_3910.jpeg](20210727_IMG_3910.jpeg)
+
+![20210727_IMG_3911.jpeg](20210727_IMG_3911.jpeg)
+
+![20210727_IMG_3912.jpeg](20210727_IMG_3912.jpeg)
+
+![20210727_IMG_3913.jpeg](20210727_IMG_3913.jpeg)
+
+![20210727_IMG_3914.jpeg](20210727_IMG_3914.jpeg)
+
+![20210727_IMG_3915.jpeg](20210727_IMG_3915.jpeg)
+
+![20210727_IMG_3916.jpeg](20210727_IMG_3916.jpeg)
+
+![20210727_IMG_3917.jpeg](20210727_IMG_3917.jpeg)
+
+![20210727_IMG_3918.jpeg](20210727_IMG_3918.jpeg)
+
+![20210727_IMG_3919.jpeg](20210727_IMG_3919.jpeg)
+
+![20210727_IMG_3920.jpeg](20210727_IMG_3920.jpeg)
+
+![20210727_IMG_3921.jpeg](20210727_IMG_3921.jpeg)
+
+![20210727_IMG_3922.jpeg](20210727_IMG_3922.jpeg)
+
+![20210727_IMG_3923.jpeg](20210727_IMG_3923.jpeg)
+
+![20210727_IMG_3924.jpeg](20210727_IMG_3924.jpeg)
+
+![20210727_IMG_3925.jpeg](20210727_IMG_3925.jpeg)
+
+![20210727_IMG_3926.jpeg](20210727_IMG_3926.jpeg)
+
+![20210727_IMG_3927.jpeg](20210727_IMG_3927.jpeg)
+
+![20210727_IMG_3928.jpeg](20210727_IMG_3928.jpeg)
+
+<hr />
+
+It’s sleep time!💤
+
+![20210727_IMG_6669.jpeg](20210727_IMG_6669.jpeg)
+
+![20210727_IMG_6670.jpeg](20210727_IMG_6670.jpeg)

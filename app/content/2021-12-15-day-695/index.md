@@ -1,0 +1,74 @@
+---
+date: "2021-12-15"
+day: 695
+template: "photo-post"
+title: "The Number 1"
+subtitle: "Day 695 – Wednesday, December 15, 2021"
+featuredImage: "20211215_IMG_4503.jpeg"
+---
+
+At the breakfast table.
+
+![20211215_IMG_8132.jpeg](20211215_IMG_8132.jpeg)
+
+![20211215_IMG_8133.jpeg](20211215_IMG_8133.jpeg)
+
+![20211215_IMG_8134.jpeg](20211215_IMG_8134.jpeg)
+
+<hr />
+
+Today, my Parents are helping me learn to count. We’re starting with <b>the number 1</b>…
+
+![20211215_IMG_4486.jpeg](20211215_IMG_4486.jpeg)
+
+![20211215_IMG_4487.jpeg](20211215_IMG_4487.jpeg)
+
+![20211215_IMG_4488.jpeg](20211215_IMG_4488.jpeg)
+
+![20211215_IMG_4489.jpeg](20211215_IMG_4489.jpeg)
+
+![20211215_IMG_4490.jpeg](20211215_IMG_4490.jpeg)
+
+![20211215_IMG_4491.jpeg](20211215_IMG_4491.jpeg)
+
+![20211215_IMG_4492.jpeg](20211215_IMG_4492.jpeg)
+
+![20211215_IMG_4493.jpeg](20211215_IMG_4493.jpeg)
+
+![20211215_IMG_4494.jpeg](20211215_IMG_4494.jpeg)
+
+1 apple… 🍎
+
+![20211215_IMG_4495.jpeg](20211215_IMG_4495.jpeg)
+
+![20211215_IMG_4496.jpeg](20211215_IMG_4496.jpeg)
+
+![20211215_IMG_4497.jpeg](20211215_IMG_4497.jpeg)
+
+![20211215_IMG_4498.jpeg](20211215_IMG_4498.jpeg)
+
+![20211215_IMG_4499.jpeg](20211215_IMG_4499.jpeg)
+
+![20211215_IMG_4500.jpeg](20211215_IMG_4500.jpeg)
+
+![20211215_IMG_4501.jpeg](20211215_IMG_4501.jpeg)
+
+![20211215_IMG_4502.jpeg](20211215_IMG_4502.jpeg)
+
+![20211215_IMG_4503.jpeg](20211215_IMG_4503.jpeg)
+
+![20211215_IMG_4504.jpeg](20211215_IMG_4504.jpeg)
+
+![20211215_IMG_4505.jpeg](20211215_IMG_4505.jpeg)
+
+![20211215_IMG_4506.jpeg](20211215_IMG_4506.jpeg)
+
+![20211215_IMG_4507.jpeg](20211215_IMG_4507.jpeg)
+
+![20211215_IMG_4508.jpeg](20211215_IMG_4508.jpeg)
+
+![20211215_IMG_4509.jpeg](20211215_IMG_4509.jpeg)
+
+![20211215_IMG_4510.jpeg](20211215_IMG_4510.jpeg)
+
+![20211215_IMG_4511.jpeg](20211215_IMG_4511.jpeg)

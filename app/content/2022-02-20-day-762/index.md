@@ -1,0 +1,172 @@
+---
+date: "2022-02-20"
+day: 762
+template: "photo-post"
+title: "2 Years & 1 Month Old"
+subtitle: "Day 762 – Sunday, February 20, 2022"
+featuredImage: "20220220_IMG_8409.jpeg"
+---
+
+Today, I’m <b>25 months</b> old!
+
+<hr />
+
+Mum took me for a walk in _<a href="https://goo.gl/maps/jDbDep9vM4K8Zj447">Mōri Garden</a>_ (毛利庭園) today.
+
+![20220220_IMG_8570.jpeg](20220220_IMG_8570.jpeg)
+
+![20220220_IMG_8571.jpeg](20220220_IMG_8571.jpeg)
+
+![20220220_IMG_8572.jpeg](20220220_IMG_8572.jpeg)
+
+![20220220_IMG_8573.jpeg](20220220_IMG_8573.jpeg)
+
+![20220220_IMG_8574.jpeg](20220220_IMG_8574.jpeg)
+
+![20220220_IMG_8575.jpeg](20220220_IMG_8575.jpeg)
+
+Going to the shops before heading home…
+
+![20220220_IMG_8576.jpeg](20220220_IMG_8576.jpeg)
+
+We’re buying some little donuts! 🍩
+
+![20220220_IMG_8578.jpeg](20220220_IMG_8578.jpeg)
+
+<hr />
+
+Playing with Mum’s glasses at home… 🤓
+
+![20220220_IMG_8579.jpeg](20220220_IMG_8579.jpeg)
+
+![20220220_IMG_8580.jpeg](20220220_IMG_8580.jpeg)
+
+<hr />
+
+It’s _Spaghetti Bolognese_ for dinner tonight! 🍝
+
+![20220220_IMG_8366.jpeg](20220220_IMG_8366.jpeg)
+
+![20220220_IMG_8367.jpeg](20220220_IMG_8367.jpeg)
+
+![20220220_IMG_8368.jpeg](20220220_IMG_8368.jpeg)
+
+![20220220_IMG_8369.jpeg](20220220_IMG_8369.jpeg)
+
+<hr />
+
+I’m watching the nursery rhyme _<a href="https://www.youtube.com/watch?v=QA48wTGbU7A">Head, Shoulders, Knees & Toes</a>_ on the big TV screen!
+
+![20220220_IMG_8372.jpeg](20220220_IMG_8372.jpeg)
+
+![20220220_IMG_8373.jpeg](20220220_IMG_8373.jpeg)
+
+![20220220_IMG_8374.jpeg](20220220_IMG_8374.jpeg)
+
+![20220220_IMG_8375.jpeg](20220220_IMG_8375.jpeg)
+
+![20220220_IMG_8377.jpeg](20220220_IMG_8377.jpeg)
+
+![20220220_IMG_8378.jpeg](20220220_IMG_8378.jpeg)
+
+![20220220_IMG_8379.jpeg](20220220_IMG_8379.jpeg)
+
+![20220220_IMG_8380.jpeg](20220220_IMG_8380.jpeg)
+
+![20220220_IMG_8381.jpeg](20220220_IMG_8381.jpeg)
+
+![20220220_IMG_8382.jpeg](20220220_IMG_8382.jpeg)
+
+![20220220_IMG_8383.jpeg](20220220_IMG_8383.jpeg)
+
+![20220220_IMG_8384.jpeg](20220220_IMG_8384.jpeg)
+
+![20220220_IMG_8385.jpeg](20220220_IMG_8385.jpeg)
+
+It’s one of my favorite songs! Time for me to dance along! 🕺
+
+![20220220_IMG_8386.jpeg](20220220_IMG_8386.jpeg)
+
+![20220220_IMG_8387.jpeg](20220220_IMG_8387.jpeg)
+
+![20220220_IMG_8388.jpeg](20220220_IMG_8388.jpeg)
+
+![20220220_IMG_8389.jpeg](20220220_IMG_8389.jpeg)
+
+![20220220_IMG_8390.jpeg](20220220_IMG_8390.jpeg)
+
+![20220220_IMG_8392.jpeg](20220220_IMG_8392.jpeg)
+
+![20220220_IMG_8393.jpeg](20220220_IMG_8393.jpeg)
+
+![20220220_IMG_8394.jpeg](20220220_IMG_8394.jpeg)
+
+![20220220_IMG_8395.jpeg](20220220_IMG_8395.jpeg)
+
+![20220220_IMG_8396.jpeg](20220220_IMG_8396.jpeg)
+
+![20220220_IMG_8397.jpeg](20220220_IMG_8397.jpeg)
+
+![20220220_IMG_8398.jpeg](20220220_IMG_8398.jpeg)
+
+![20220220_IMG_8399.jpeg](20220220_IMG_8399.jpeg)
+
+![20220220_IMG_8400.jpeg](20220220_IMG_8400.jpeg)
+
+![20220220_IMG_8401.jpeg](20220220_IMG_8401.jpeg)
+
+![20220220_IMG_8402.jpeg](20220220_IMG_8402.jpeg)
+
+![20220220_IMG_8405.jpeg](20220220_IMG_8405.jpeg)
+
+![20220220_IMG_8406.jpeg](20220220_IMG_8406.jpeg)
+
+![20220220_IMG_8407.jpeg](20220220_IMG_8407.jpeg)
+
+![20220220_IMG_8408.jpeg](20220220_IMG_8408.jpeg)
+
+![20220220_IMG_8409.jpeg](20220220_IMG_8409.jpeg)
+
+![20220220_IMG_8410.jpeg](20220220_IMG_8410.jpeg)
+
+![20220220_IMG_8411.jpeg](20220220_IMG_8411.jpeg)
+
+![20220220_IMG_8412.jpeg](20220220_IMG_8412.jpeg)
+
+![20220220_IMG_8413.jpeg](20220220_IMG_8413.jpeg)
+
+![20220220_IMG_8414.jpeg](20220220_IMG_8414.jpeg)
+
+![20220220_IMG_8415.jpeg](20220220_IMG_8415.jpeg)
+
+![20220220_IMG_8416.jpeg](20220220_IMG_8416.jpeg)
+
+![20220220_IMG_8417.jpeg](20220220_IMG_8417.jpeg)
+
+![20220220_IMG_8418.jpeg](20220220_IMG_8418.jpeg)
+
+![20220220_IMG_8419.jpeg](20220220_IMG_8419.jpeg)
+
+![20220220_IMG_8420.jpeg](20220220_IMG_8420.jpeg)
+
+![20220220_IMG_8421.jpeg](20220220_IMG_8421.jpeg)
+
+![20220220_IMG_8422.jpeg](20220220_IMG_8422.jpeg)
+
+![20220220_IMG_8423.jpeg](20220220_IMG_8423.jpeg)
+
+![20220220_IMG_8424.jpeg](20220220_IMG_8424.jpeg)
+
+![20220220_IMG_8425.jpeg](20220220_IMG_8425.jpeg)
+
+![20220220_IMG_8426.jpeg](20220220_IMG_8426.jpeg)
+
+![20220220_IMG_8427.jpeg](20220220_IMG_8427.jpeg)
+
+![20220220_IMG_8431.jpeg](20220220_IMG_8431.jpeg)
+
+![20220220_IMG_8428.jpeg](20220220_IMG_8428.jpeg)
+
+![20220220_IMG_8429.jpeg](20220220_IMG_8429.jpeg)
+
+![20220220_IMG_8430.jpeg](20220220_IMG_8430.jpeg)

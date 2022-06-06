@@ -1,0 +1,72 @@
+---
+date: "2021-12-16"
+day: 696
+template: "photo-post"
+title: "Mercedes-Benz G 550 Toy Car"
+subtitle: "Day 696 – Thursday, December 16, 2021"
+featuredImage: "20211216_IMG_4549.jpeg"
+---
+
+Look! A <a href="https://en.wikipedia.org/wiki/Mercedes-Benz_G-Class">G-Wagon</a>! Specifically, a _<a href="https://www.cars.com/research/mercedes_benz-g_class-2015/">2015 Mercedes-Benz G 550</a>_.
+
+![20211216_IMG_4549.jpeg](20211216_IMG_4549.jpeg)
+
+![20211216_IMG_4550.jpeg](20211216_IMG_4550.jpeg)
+
+![20211216_IMG_4551.jpeg](20211216_IMG_4551.jpeg)
+
+![20211216_IMG_4552.jpeg](20211216_IMG_4552.jpeg)
+
+![20211216_IMG_4553.jpeg](20211216_IMG_4553.jpeg)
+
+![20211216_IMG_4554.jpeg](20211216_IMG_4554.jpeg)
+
+![20211216_IMG_4555.jpeg](20211216_IMG_4555.jpeg)
+
+![20211216_IMG_4556.jpeg](20211216_IMG_4556.jpeg)
+
+![20211216_IMG_4557.jpeg](20211216_IMG_4557.jpeg)
+
+![20211216_IMG_4558.jpeg](20211216_IMG_4558.jpeg)
+
+![20211216_IMG_4559.jpeg](20211216_IMG_4559.jpeg)
+
+![20211216_IMG_4560.jpeg](20211216_IMG_4560.jpeg)
+
+![20211216_IMG_4562.jpeg](20211216_IMG_4562.jpeg)
+
+![20211216_IMG_4563.jpeg](20211216_IMG_4563.jpeg)
+
+![20211216_IMG_4564.jpeg](20211216_IMG_4564.jpeg)
+
+![20211216_IMG_4565.jpeg](20211216_IMG_4565.jpeg)
+
+![20211216_IMG_4566.jpeg](20211216_IMG_4566.jpeg)
+
+![20211216_IMG_4567.jpeg](20211216_IMG_4567.jpeg)
+
+![20211216_IMG_4568.jpeg](20211216_IMG_4568.jpeg)
+
+![20211216_IMG_4569.jpeg](20211216_IMG_4569.jpeg)
+
+![20211216_IMG_4570.jpeg](20211216_IMG_4570.jpeg)
+
+![20211216_IMG_4571.jpeg](20211216_IMG_4571.jpeg)
+
+![20211216_IMG_4572.jpeg](20211216_IMG_4572.jpeg)
+
+![20211216_IMG_4573.jpeg](20211216_IMG_4573.jpeg)
+
+![20211216_IMG_4574.jpeg](20211216_IMG_4574.jpeg)
+
+![20211216_IMG_4575.jpeg](20211216_IMG_4575.jpeg)
+
+![20211216_IMG_4576.jpeg](20211216_IMG_4576.jpeg)
+
+![20211216_IMG_4577.jpeg](20211216_IMG_4577.jpeg)
+
+![20211216_IMG_4578.jpeg](20211216_IMG_4578.jpeg)
+
+![20211216_IMG_4579.jpeg](20211216_IMG_4579.jpeg)
+
+![20211216_IMG_4580.jpeg](20211216_IMG_4580.jpeg)

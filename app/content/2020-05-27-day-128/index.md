@@ -1,0 +1,68 @@
+---
+date: "2020-05-27"
+day: 128
+template: "photo-post"
+title: "Side Sleeping"
+subtitle: "Day 128 – Wednesday, May 27, 2020"
+featuredImage: "20200527_IMG_4918.jpeg"
+---
+
+Nowadays, I like sleeping on my side.
+
+![20200527_IMG_4918.jpeg](20200527_IMG_4918.jpeg)
+
+<hr />
+
+A nice series of close-up pictures of me!
+
+![20200527_IMG_4924.jpeg](20200527_IMG_4924.jpeg)
+
+![20200527_IMG_4925.jpeg](20200527_IMG_4925.jpeg)
+
+![20200527_IMG_4926.jpeg](20200527_IMG_4926.jpeg)
+
+![20200527_IMG_4927.jpeg](20200527_IMG_4927.jpeg)
+
+![20200527_IMG_4928.jpeg](20200527_IMG_4928.jpeg)
+
+![20200527_IMG_4929.jpeg](20200527_IMG_4929.jpeg)
+
+![20200527_IMG_4930.jpeg](20200527_IMG_4930.jpeg)
+
+![20200527_IMG_4931.jpeg](20200527_IMG_4931.jpeg)
+
+![20200527_IMG_4932.jpeg](20200527_IMG_4932.jpeg)
+
+![20200527_IMG_4933.jpeg](20200527_IMG_4933.jpeg)
+
+![20200527_IMG_4934.jpeg](20200527_IMG_4934.jpeg)
+
+![20200527_IMG_4935.jpeg](20200527_IMG_4935.jpeg)
+
+![20200527_IMG_4936.jpeg](20200527_IMG_4936.jpeg)
+
+![20200527_IMG_4937.jpeg](20200527_IMG_4937.jpeg)
+
+![20200527_IMG_4938.jpeg](20200527_IMG_4938.jpeg)
+
+![20200527_IMG_4939.jpeg](20200527_IMG_4939.jpeg)
+
+![20200527_IMG_4940.jpeg](20200527_IMG_4940.jpeg)
+
+![20200527_IMG_4919.jpeg](20200527_IMG_4919.jpeg)
+
+![20200527_IMG_4920.jpeg](20200527_IMG_4920.jpeg)
+
+![20200527_IMG_4921.jpeg](20200527_IMG_4921.jpeg)
+
+![20200527_IMG_4922.jpeg](20200527_IMG_4922.jpeg)
+
+![20200527_IMG_4923.jpeg](20200527_IMG_4923.jpeg)
+
+<hr />
+
+Time for another nap.
+
+![20200527_IMG_2042.jpeg](20200527_IMG_2042.jpeg)
+
+![20200527_IMG_2043.jpg](20200527_IMG_2043.jpg)

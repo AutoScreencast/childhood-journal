@@ -1,0 +1,112 @@
+---
+date: "2020-03-27"
+day: 67
+template: "photo-post"
+title: "Poopin’"
+subtitle: "Day 67 – Friday, March 27, 2020"
+featuredImage: "20200327_IMG_3286.jpeg"
+---
+
+Hi, it’s me again!
+
+![20200327_IMG_3267.jpg](20200327_IMG_3267.jpg)
+
+<hr />
+
+What’s up with those stairs?
+
+![20200327_IMG_3270.jpeg](20200327_IMG_3270.jpeg)
+
+![20200327_IMG_3271.jpeg](20200327_IMG_3271.jpeg)
+
+![20200327_IMG_3272.jpeg](20200327_IMG_3272.jpeg)
+
+![20200327_IMG_3273.jpeg](20200327_IMG_3273.jpeg)
+
+<hr />
+
+Nap time with my Mum.
+
+![20200327_IMG_3274.jpeg](20200327_IMG_3274.jpeg)
+
+<hr />
+
+OK, you caught me poopin’ my diaper …
+
+![20200327_IMG_3276.jpeg](20200327_IMG_3276.jpeg)
+
+![20200327_IMG_3277.jpeg](20200327_IMG_3277.jpeg)
+
+![20200327_IMG_3278.jpeg](20200327_IMG_3278.jpeg)
+
+![20200327_IMG_3279.jpeg](20200327_IMG_3279.jpeg)
+
+![20200327_IMG_3280.jpeg](20200327_IMG_3280.jpeg)
+
+![20200327_IMG_3281.jpeg](20200327_IMG_3281.jpeg)
+
+![20200327_IMG_3282.jpeg](20200327_IMG_3282.jpeg)
+
+![20200327_IMG_3283.jpeg](20200327_IMG_3283.jpeg)
+
+![20200327_IMG_3284.jpeg](20200327_IMG_3284.jpeg)
+
+![20200327_IMG_3285.jpeg](20200327_IMG_3285.jpeg)
+
+![20200327_IMG_3286.jpeg](20200327_IMG_3286.jpeg)
+
+![20200327_IMG_3287.jpeg](20200327_IMG_3287.jpeg)
+
+![20200327_IMG_3288.jpeg](20200327_IMG_3288.jpeg)
+
+![20200327_IMG_3289.jpeg](20200327_IMG_3289.jpeg)
+
+![20200327_IMG_3290.jpeg](20200327_IMG_3290.jpeg)
+
+![20200327_IMG_3291.jpeg](20200327_IMG_3291.jpeg)
+
+![20200327_IMG_3292.jpeg](20200327_IMG_3292.jpeg)
+
+![20200327_IMG_3293.jpeg](20200327_IMG_3293.jpeg)
+
+![20200327_IMG_3294.jpeg](20200327_IMG_3294.jpeg)
+
+<hr />
+
+After that, I can finally relax and pose for the photographer …
+
+![20200327_IMG_3295.jpeg](20200327_IMG_3295.jpeg)
+
+![20200327_IMG_3296.jpeg](20200327_IMG_3296.jpeg)
+
+![20200327_IMG_3297.jpeg](20200327_IMG_3297.jpeg)
+
+![20200327_IMG_3298.jpeg](20200327_IMG_3298.jpeg)
+
+![20200327_IMG_3299.jpeg](20200327_IMG_3299.jpeg)
+
+Hello?!
+
+![20200327_IMG_3300.jpeg](20200327_IMG_3300.jpeg)
+
+What was that noise?
+
+![20200327_IMG_3301.jpeg](20200327_IMG_3301.jpeg)
+
+![20200327_IMG_3302.jpeg](20200327_IMG_3302.jpeg)
+
+![20200327_IMG_3304.jpeg](20200327_IMG_3304.jpeg)
+
+![20200327_IMG_3305.jpeg](20200327_IMG_3305.jpeg)
+
+![20200327_IMG_3306.jpeg](20200327_IMG_3306.jpeg)
+
+![20200327_IMG_3307.jpeg](20200327_IMG_3307.jpeg)
+
+![20200327_IMG_3308.jpeg](20200327_IMG_3308.jpeg)
+
+![20200327_IMG_3309.jpeg](20200327_IMG_3309.jpeg)
+
+Really, what was that noise?
+
+![20200327_IMG_3310.jpeg](20200327_IMG_3310.jpeg)

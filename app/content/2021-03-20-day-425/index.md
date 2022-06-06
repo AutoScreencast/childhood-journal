@@ -1,0 +1,221 @@
+---
+date: "2021-03-20"
+day: 425
+template: "photo-post"
+title: "14 Months Old"
+subtitle: "Day 425 – Saturday, March 20, 2021"
+featuredImage: "20210320_IMG_7007.jpeg"
+---
+
+Today, I’m fourteen months old!
+
+<hr />
+
+_Today’s Solid Food Menu:_
+
+**Breakfast**
+
+- Milk (dairy, 20ml)
+- Apple (¼)
+- Banana (1)
+- Toast bread (white, 1 slice)
+- Oatmeal (2 tablespoonsful)
+
+**Lunch**
+
+- Grilled chicken meat balls and mixed vegetables (baby food, つくねの野菜あんかけ, 100g)
+- Soft rice (90g)
+
+**Dinner**
+
+- Tofu (50g)
+- Boiled potatoes, carrots, and onion
+- Soft rice (90g)
+
+<hr />
+
+Having some breakfast in the morning.
+
+![20210320_IMG_5049.jpeg](20210320_IMG_5049.jpeg)
+
+![20210320_IMG_5050.jpeg](20210320_IMG_5050.jpeg)
+
+![20210320_IMG_5051.jpeg](20210320_IMG_5051.jpeg)
+
+![20210320_IMG_5052.jpeg](20210320_IMG_5052.jpeg)
+
+![20210320_IMG_5053.jpeg](20210320_IMG_5053.jpeg)
+
+![20210320_IMG_5055.jpeg](20210320_IMG_5055.jpeg)
+
+![20210320_IMG_5056.jpeg](20210320_IMG_5056.jpeg)
+
+![20210320_IMG_5057.jpeg](20210320_IMG_5057.jpeg)
+
+![20210320_IMG_5058.jpeg](20210320_IMG_5058.jpeg)
+
+![20210320_IMG_5059.jpeg](20210320_IMG_5059.jpeg)
+
+![20210320_IMG_5060.jpeg](20210320_IMG_5060.jpeg)
+
+![20210320_IMG_5061.jpeg](20210320_IMG_5061.jpeg)
+
+![20210320_IMG_5062.jpeg](20210320_IMG_5062.jpeg)
+
+![20210320_IMG_5063.jpeg](20210320_IMG_5063.jpeg)
+
+<hr />
+
+My Dad took me to Share Green Minami Aoyama after breakfast!
+
+![20210320_IMG_6996.jpeg](20210320_IMG_6996.jpeg)
+
+![20210320_IMG_6997.jpeg](20210320_IMG_6997.jpeg)
+
+![20210320_IMG_6998.jpeg](20210320_IMG_6998.jpeg)
+
+![20210320_IMG_6999.jpeg](20210320_IMG_6999.jpeg)
+
+![20210320_IMG_7001.jpeg](20210320_IMG_7001.jpeg)
+
+![20210320_IMG_7002.jpeg](20210320_IMG_7002.jpeg)
+
+![20210320_IMG_7003.jpeg](20210320_IMG_7003.jpeg)
+
+![20210320_IMG_7004.jpeg](20210320_IMG_7004.jpeg)
+
+![20210320_IMG_7005.jpeg](20210320_IMG_7005.jpeg)
+
+![20210320_IMG_7006.jpeg](20210320_IMG_7006.jpeg)
+
+![20210320_IMG_7007.jpeg](20210320_IMG_7007.jpeg)
+
+Some selfies with my Dad…
+
+![20210320_IMG_7008.jpeg](20210320_IMG_7008.jpeg)
+
+![20210320_IMG_7009.jpeg](20210320_IMG_7009.jpeg)
+
+![20210320_IMG_7010.jpeg](20210320_IMG_7010.jpeg)
+
+![20210320_IMG_7011.jpeg](20210320_IMG_7011.jpeg)
+
+![20210320_IMG_7012.jpeg](20210320_IMG_7012.jpeg)
+
+![20210320_IMG_7013.jpeg](20210320_IMG_7013.jpeg)
+
+![20210320_IMG_7014.jpeg](20210320_IMG_7014.jpeg)
+
+![20210320_IMG_7015.jpeg](20210320_IMG_7015.jpeg)
+
+![20210320_IMG_7016.jpeg](20210320_IMG_7016.jpeg)
+
+![20210320_IMG_7017.jpeg](20210320_IMG_7017.jpeg)
+
+![20210320_IMG_7018.jpeg](20210320_IMG_7018.jpeg)
+
+![20210320_IMG_7019.jpeg](20210320_IMG_7019.jpeg)
+
+![20210320_IMG_7020.jpeg](20210320_IMG_7020.jpeg)
+
+![20210320_IMG_7021.jpeg](20210320_IMG_7021.jpeg)
+
+![20210320_IMG_7022.jpeg](20210320_IMG_7022.jpeg)
+
+![20210320_IMG_7023.jpeg](20210320_IMG_7023.jpeg)
+
+![20210320_IMG_7024.jpeg](20210320_IMG_7024.jpeg)
+
+![20210320_IMG_7025.jpeg](20210320_IMG_7025.jpeg)
+
+![20210320_IMG_7026.jpeg](20210320_IMG_7026.jpeg)
+
+![20210320_IMG_7027.jpeg](20210320_IMG_7027.jpeg)
+
+![20210320_IMG_7028.jpeg](20210320_IMG_7028.jpeg)
+
+![20210320_IMG_7029.jpeg](20210320_IMG_7029.jpeg)
+
+![20210320_IMG_7030.jpeg](20210320_IMG_7030.jpeg)
+
+![20210320_IMG_7031.jpeg](20210320_IMG_7031.jpeg)
+
+![20210320_IMG_7032.jpeg](20210320_IMG_7032.jpeg)
+
+![20210320_IMG_7033.jpeg](20210320_IMG_7033.jpeg)
+
+![20210320_IMG_7034.jpeg](20210320_IMG_7034.jpeg)
+
+![20210320_IMG_7035.jpeg](20210320_IMG_7035.jpeg)
+
+![20210320_IMG_7036.jpeg](20210320_IMG_7036.jpeg)
+
+![20210320_IMG_7037.jpeg](20210320_IMG_7037.jpeg)
+
+![20210320_IMG_7038.jpeg](20210320_IMG_7038.jpeg)
+
+![20210320_IMG_7039.jpeg](20210320_IMG_7039.jpeg)
+
+![20210320_IMG_7040.jpeg](20210320_IMG_7040.jpeg)
+
+![20210320_IMG_7041.jpeg](20210320_IMG_7041.jpeg)
+
+![20210320_IMG_7042.jpeg](20210320_IMG_7042.jpeg)
+
+![20210320_IMG_7043.jpeg](20210320_IMG_7043.jpeg)
+
+![20210320_IMG_7044.jpeg](20210320_IMG_7044.jpeg)
+
+![20210320_IMG_7045.jpeg](20210320_IMG_7045.jpeg)
+
+![20210320_IMG_7046.jpeg](20210320_IMG_7046.jpeg)
+
+![20210320_IMG_7047.jpeg](20210320_IMG_7047.jpeg)
+
+![20210320_IMG_7048.jpeg](20210320_IMG_7048.jpeg)
+
+![20210320_IMG_7049.jpeg](20210320_IMG_7049.jpeg)
+
+![20210320_IMG_7050.jpeg](20210320_IMG_7050.jpeg)
+
+![20210320_IMG_7051.jpeg](20210320_IMG_7051.jpeg)
+
+![20210320_IMG_7052.jpeg](20210320_IMG_7052.jpeg)
+
+![20210320_IMG_7053.jpeg](20210320_IMG_7053.jpeg)
+
+![20210320_IMG_7054.jpeg](20210320_IMG_7054.jpeg)
+
+![20210320_IMG_7055.jpeg](20210320_IMG_7055.jpeg)
+
+![20210320_IMG_7056.jpeg](20210320_IMG_7056.jpeg)
+
+![20210320_IMG_7057.jpeg](20210320_IMG_7057.jpeg)
+
+![20210320_IMG_7058.jpeg](20210320_IMG_7058.jpeg)
+
+![20210320_IMG_7059.jpeg](20210320_IMG_7059.jpeg)
+
+I wonder what this leaf tastes like…?
+
+![20210320_IMG_7060.jpeg](20210320_IMG_7060.jpeg)
+
+![20210320_IMG_7061.jpeg](20210320_IMG_7061.jpeg)
+
+![20210320_IMG_7062.jpeg](20210320_IMG_7062.jpeg)
+
+![20210320_IMG_7063.jpeg](20210320_IMG_7063.jpeg)
+
+<hr />
+
+Taking the metro (Ōedo line) to go back home.
+
+![20210320_IMG_7064.jpeg](20210320_IMG_7064.jpeg)
+
+![20210320_IMG_7065.jpeg](20210320_IMG_7065.jpeg)
+
+![20210320_IMG_7066.jpeg](20210320_IMG_7066.jpeg)
+
+![20210320_IMG_7067.jpeg](20210320_IMG_7067.jpeg)
+
+![20210320_IMG_7068.jpeg](20210320_IMG_7068.jpeg)

@@ -1,0 +1,108 @@
+---
+date: "2020-06-30"
+day: 162
+template: "photo-post"
+title: "Dotted Foot"
+subtitle: "Day 162 – Tuesday, June 30, 2020"
+featuredImage: "20200630_IMG_5908.jpeg"
+---
+
+You can clearly see the 18 dots on my left foot from the BCG injections yesterday! 🦶
+
+![20200630_IMG_5909.jpeg](20200630_IMG_5909.jpeg)
+
+![20200630_IMG_5908.jpeg](20200630_IMG_5908.jpeg)
+
+<hr />
+
+Playing with Mum.
+
+![20200630_IMG_2580.jpeg](20200630_IMG_2580.jpeg)
+
+![20200630_IMG_2581.jpeg](20200630_IMG_2581.jpeg)
+
+![20200630_IMG_2582.jpeg](20200630_IMG_2582.jpeg)
+
+<hr />
+
+We’re on our way out of our apartment to go for a walk.
+
+![20200630_IMG_5869.jpeg](20200630_IMG_5869.jpeg)
+
+![20200630_IMG_5870.jpeg](20200630_IMG_5870.jpeg)
+
+<hr />
+
+I’m doing my daily stretches by the window.
+
+![20200630_IMG_5871.jpeg](20200630_IMG_5871.jpeg)
+
+![20200630_IMG_5872.jpeg](20200630_IMG_5872.jpeg)
+
+![20200630_IMG_5873.jpeg](20200630_IMG_5873.jpeg)
+
+![20200630_IMG_5874.jpeg](20200630_IMG_5874.jpeg)
+
+![20200630_IMG_5875.jpeg](20200630_IMG_5875.jpeg)
+
+![20200630_IMG_5876.jpeg](20200630_IMG_5876.jpeg)
+
+![20200630_IMG_5877.jpeg](20200630_IMG_5877.jpeg)
+
+![20200630_IMG_5878.jpeg](20200630_IMG_5878.jpeg)
+
+![20200630_IMG_5879.jpeg](20200630_IMG_5879.jpeg)
+
+![20200630_IMG_5880.jpeg](20200630_IMG_5880.jpeg)
+
+![20200630_IMG_5881.jpeg](20200630_IMG_5881.jpeg)
+
+![20200630_IMG_5882.jpeg](20200630_IMG_5882.jpeg)
+
+![20200630_IMG_5883.jpeg](20200630_IMG_5883.jpeg)
+
+![20200630_IMG_5884.jpeg](20200630_IMG_5884.jpeg)
+
+![20200630_IMG_5885.jpeg](20200630_IMG_5885.jpeg)
+
+![20200630_IMG_5886.jpeg](20200630_IMG_5886.jpeg)
+
+![20200630_IMG_5887.jpeg](20200630_IMG_5887.jpeg)
+
+![20200630_IMG_5888.jpeg](20200630_IMG_5888.jpeg)
+
+![20200630_IMG_5889.jpeg](20200630_IMG_5889.jpeg)
+
+![20200630_IMG_5890.jpeg](20200630_IMG_5890.jpeg)
+
+![20200630_IMG_5891.jpeg](20200630_IMG_5891.jpeg)
+
+![20200630_IMG_5892.jpeg](20200630_IMG_5892.jpeg)
+
+![20200630_IMG_5893.jpeg](20200630_IMG_5893.jpeg)
+
+![20200630_IMG_5894.jpeg](20200630_IMG_5894.jpeg)
+
+![20200630_IMG_5895.jpeg](20200630_IMG_5895.jpeg)
+
+![20200630_IMG_5896.jpeg](20200630_IMG_5896.jpeg)
+
+![20200630_IMG_5897.jpeg](20200630_IMG_5897.jpeg)
+
+![20200630_IMG_5898.jpeg](20200630_IMG_5898.jpeg)
+
+![20200630_IMG_5899.jpeg](20200630_IMG_5899.jpeg)
+
+![20200630_IMG_5900.jpeg](20200630_IMG_5900.jpeg)
+
+![20200630_IMG_5901.jpeg](20200630_IMG_5901.jpeg)
+
+![20200630_IMG_5902.jpeg](20200630_IMG_5902.jpeg)
+
+![20200630_IMG_5903.jpeg](20200630_IMG_5903.jpeg)
+
+![20200630_IMG_5905.jpeg](20200630_IMG_5905.jpeg)
+
+![20200630_IMG_5906.jpeg](20200630_IMG_5906.jpeg)
+
+![20200630_IMG_5907.jpeg](20200630_IMG_5907.jpeg)

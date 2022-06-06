@@ -1,0 +1,166 @@
+---
+date: "2021-08-13"
+day: 571
+template: "photo-post"
+title: "Shark Attack"
+subtitle: "Day 571 – Friday, August 13, 2021"
+featuredImage: "20210813_IMG_4864.jpeg"
+---
+
+It’s dinner time!
+
+![20210813_IMG_4838.jpeg](20210813_IMG_4838.jpeg)
+
+Having some blueberries for dessert.
+
+![20210813_IMG_4839.jpeg](20210813_IMG_4839.jpeg)
+
+They smell okay…
+
+![20210813_IMG_4840.jpeg](20210813_IMG_4840.jpeg)
+
+![20210813_IMG_4841.jpeg](20210813_IMG_4841.jpeg)
+
+![20210813_IMG_6927.jpeg](20210813_IMG_6927.jpeg)
+
+![20210813_IMG_6928.jpeg](20210813_IMG_6928.jpeg)
+
+![20210813_IMG_6929.jpeg](20210813_IMG_6929.jpeg)
+
+![20210813_IMG_6930.jpeg](20210813_IMG_6930.jpeg)
+
+![20210813_IMG_6931.jpeg](20210813_IMG_6931.jpeg)
+
+![20210813_IMG_6932.jpeg](20210813_IMG_6932.jpeg)
+
+![20210813_IMG_6933.jpeg](20210813_IMG_6933.jpeg)
+
+![20210813_IMG_6934.jpeg](20210813_IMG_6934.jpeg)
+
+![20210813_IMG_6935.jpeg](20210813_IMG_6935.jpeg)
+
+![20210813_IMG_6936.jpeg](20210813_IMG_6936.jpeg)
+
+![20210813_IMG_6937.jpeg](20210813_IMG_6937.jpeg)
+
+![20210813_IMG_6938.jpeg](20210813_IMG_6938.jpeg)
+
+![20210813_IMG_6939.jpeg](20210813_IMG_6939.jpeg)
+
+![20210813_IMG_6940.jpeg](20210813_IMG_6940.jpeg)
+
+![20210813_IMG_6942.jpeg](20210813_IMG_6942.jpeg)
+
+![20210813_IMG_6943.jpeg](20210813_IMG_6943.jpeg)
+
+![20210813_IMG_6944.jpeg](20210813_IMG_6944.jpeg)
+
+<hr />
+
+Playing downstairs after dinner.
+
+![20210813_IMG_4842.jpeg](20210813_IMG_4842.jpeg)
+
+![20210813_IMG_4843.jpeg](20210813_IMG_4843.jpeg)
+
+![20210813_IMG_4844.jpeg](20210813_IMG_4844.jpeg)
+
+![20210813_IMG_4845.jpeg](20210813_IMG_4845.jpeg)
+
+I know how to open doors! 🚪
+
+![20210813_IMG_4846.jpeg](20210813_IMG_4846.jpeg)
+
+![20210813_IMG_4847.jpeg](20210813_IMG_4847.jpeg)
+
+![20210813_IMG_4848.jpeg](20210813_IMG_4848.jpeg)
+
+Hi Mum!
+
+![20210813_IMG_4849.jpeg](20210813_IMG_4849.jpeg)
+
+Shark attack! 🦈
+
+![20210813_IMG_4850.jpeg](20210813_IMG_4850.jpeg)
+
+![20210813_IMG_4851.jpeg](20210813_IMG_4851.jpeg)
+
+![20210813_IMG_4852.jpeg](20210813_IMG_4852.jpeg)
+
+![20210813_IMG_4853.jpeg](20210813_IMG_4853.jpeg)
+
+![20210813_IMG_4854.jpeg](20210813_IMG_4854.jpeg)
+
+![20210813_IMG_4855.jpeg](20210813_IMG_4855.jpeg)
+
+![20210813_IMG_4856.jpeg](20210813_IMG_4856.jpeg)
+
+![20210813_IMG_4857.jpeg](20210813_IMG_4857.jpeg)
+
+![20210813_IMG_4858.jpeg](20210813_IMG_4858.jpeg)
+
+![20210813_IMG_4859.jpeg](20210813_IMG_4859.jpeg)
+
+![20210813_IMG_4860.jpeg](20210813_IMG_4860.jpeg)
+
+![20210813_IMG_4861.jpeg](20210813_IMG_4861.jpeg)
+
+![20210813_IMG_4862.jpeg](20210813_IMG_4862.jpeg)
+
+![20210813_IMG_4863.jpeg](20210813_IMG_4863.jpeg)
+
+![20210813_IMG_4864.jpeg](20210813_IMG_4864.jpeg)
+
+![20210813_IMG_4865.jpeg](20210813_IMG_4865.jpeg)
+
+![20210813_IMG_4866.jpeg](20210813_IMG_4866.jpeg)
+
+![20210813_IMG_4867.jpeg](20210813_IMG_4867.jpeg)
+
+![20210813_IMG_4868.jpeg](20210813_IMG_4868.jpeg)
+
+![20210813_IMG_4869.jpeg](20210813_IMG_4869.jpeg)
+
+![20210813_IMG_4870.jpeg](20210813_IMG_4870.jpeg)
+
+![20210813_IMG_4871.jpeg](20210813_IMG_4871.jpeg)
+
+![20210813_IMG_4872.jpeg](20210813_IMG_4872.jpeg)
+
+![20210813_IMG_4873.jpeg](20210813_IMG_4873.jpeg)
+
+I’m ignoring the shark 🦈, because I want to focus on playing with my toy helicopter. 🚁
+
+![20210813_IMG_4874.jpeg](20210813_IMG_4874.jpeg)
+
+Leave my helicopter alone!
+
+![20210813_IMG_4875.jpeg](20210813_IMG_4875.jpeg)
+
+<hr />
+
+Watching some CoComelon on Netflix before bed.
+
+![20210813_IMG_4876.jpeg](20210813_IMG_4876.jpeg)
+
+![20210813_IMG_4877.jpeg](20210813_IMG_4877.jpeg)
+
+![20210813_IMG_4878.jpeg](20210813_IMG_4878.jpeg)
+
+![20210813_IMG_4879.jpeg](20210813_IMG_4879.jpeg)
+
+![20210813_IMG_4880.jpeg](20210813_IMG_4880.jpeg)
+
+![20210813_IMG_4881.jpeg](20210813_IMG_4881.jpeg)
+
+![20210813_IMG_4882.jpeg](20210813_IMG_4882.jpeg)
+
+![20210813_IMG_4883.jpeg](20210813_IMG_4883.jpeg)
+
+![20210813_IMG_4884.jpeg](20210813_IMG_4884.jpeg)
+
+![20210813_IMG_4885.jpeg](20210813_IMG_4885.jpeg)
+
+It’s my favorite show!
+
+![20210813_IMG_4886.jpeg](20210813_IMG_4886.jpeg)

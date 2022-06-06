@@ -1,0 +1,174 @@
+---
+date: "2021-07-26"
+day: 553
+template: "photo-post"
+title: "Bubbles in the Bath"
+subtitle: "Day 553 – Monday, July 26, 2021"
+featuredImage: "20210726_IMG_3861.jpeg"
+---
+
+Playing at nursery school…
+
+![20210726_IMG_3791.jpg](20210726_IMG_3791.jpg)
+
+<hr />
+
+Outside my <a href="https://kids-azabu.com/">dentist</a>’s office (luckily, I don’t have to go inside!), pressing on the button to make the toy train move up and down the track in the window… 🚂
+
+![20210726_IMG_3793.jpeg](20210726_IMG_3793.jpeg)
+
+![20210726_IMG_3794.jpeg](20210726_IMG_3794.jpeg)
+
+![20210726_IMG_3795.jpeg](20210726_IMG_3795.jpeg)
+
+![20210726_IMG_3796.jpeg](20210726_IMG_3796.jpeg)
+
+![20210726_IMG_3797.jpeg](20210726_IMG_3797.jpeg)
+
+<hr />
+
+Eating some more kiwi tonight… 🥝
+
+![20210726_IMG_3798.jpeg](20210726_IMG_3798.jpeg)
+
+![20210726_IMG_3799.jpeg](20210726_IMG_3799.jpeg)
+
+![20210726_IMG_3800.jpeg](20210726_IMG_3800.jpeg)
+
+![20210726_IMG_3801.jpeg](20210726_IMG_3801.jpeg)
+
+![20210726_IMG_3802.jpeg](20210726_IMG_3802.jpeg)
+
+![20210726_IMG_3803.jpeg](20210726_IMG_3803.jpeg)
+
+![20210726_IMG_3804.jpeg](20210726_IMG_3804.jpeg)
+
+![20210726_IMG_3805.jpeg](20210726_IMG_3805.jpeg)
+
+![20210726_IMG_3806.jpeg](20210726_IMG_3806.jpeg)
+
+![20210726_IMG_3807.jpeg](20210726_IMG_3807.jpeg)
+
+![20210726_IMG_3808.jpeg](20210726_IMG_3808.jpeg)
+
+![20210726_IMG_3809.jpeg](20210726_IMG_3809.jpeg)
+
+![20210726_IMG_3810.jpeg](20210726_IMG_3810.jpeg)
+
+![20210726_IMG_3811.jpeg](20210726_IMG_3811.jpeg)
+
+![20210726_IMG_3812.jpeg](20210726_IMG_3812.jpeg)
+
+![20210726_IMG_3813.jpeg](20210726_IMG_3813.jpeg)
+
+<hr />
+
+It’s bath time! 🛁
+
+![20210726_IMG_3814.jpeg](20210726_IMG_3814.jpeg)
+
+My Parents are blowing bubbles! 🧼
+
+![20210726_IMG_3817.jpeg](20210726_IMG_3817.jpeg)
+
+![20210726_IMG_3818.jpeg](20210726_IMG_3818.jpeg)
+
+![20210726_IMG_3819.jpeg](20210726_IMG_3819.jpeg)
+
+Wow! That’s a big bubble!
+
+![20210726_IMG_3820.jpeg](20210726_IMG_3820.jpeg)
+
+![20210726_IMG_3821.jpeg](20210726_IMG_3821.jpeg)
+
+Bubbles are fun!
+
+![20210726_IMG_3822.jpeg](20210726_IMG_3822.jpeg)
+
+![20210726_IMG_3823.jpeg](20210726_IMG_3823.jpeg)
+
+![20210726_IMG_3828.jpeg](20210726_IMG_3828.jpeg)
+
+![20210726_IMG_3829.jpeg](20210726_IMG_3829.jpeg)
+
+![20210726_IMG_3830.jpeg](20210726_IMG_3830.jpeg)
+
+![20210726_IMG_3831.jpeg](20210726_IMG_3831.jpeg)
+
+![20210726_IMG_3832.jpeg](20210726_IMG_3832.jpeg)
+
+![20210726_IMG_3834.jpeg](20210726_IMG_3834.jpeg)
+
+![20210726_IMG_3835.jpeg](20210726_IMG_3835.jpeg)
+
+![20210726_IMG_3836.jpeg](20210726_IMG_3836.jpeg)
+
+![20210726_IMG_3837.jpeg](20210726_IMG_3837.jpeg)
+
+![20210726_IMG_3838.jpeg](20210726_IMG_3838.jpeg)
+
+![20210726_IMG_3839.jpeg](20210726_IMG_3839.jpeg)
+
+![20210726_IMG_3840.jpeg](20210726_IMG_3840.jpeg)
+
+![20210726_IMG_3841.jpeg](20210726_IMG_3841.jpeg)
+
+![20210726_IMG_3842.jpeg](20210726_IMG_3842.jpeg)
+
+![20210726_IMG_3843.jpeg](20210726_IMG_3843.jpeg)
+
+![20210726_IMG_3844.jpeg](20210726_IMG_3844.jpeg)
+
+![20210726_IMG_3845.jpeg](20210726_IMG_3845.jpeg)
+
+![20210726_IMG_3846.jpeg](20210726_IMG_3846.jpeg)
+
+![20210726_IMG_3847.jpeg](20210726_IMG_3847.jpeg)
+
+![20210726_IMG_3848.jpeg](20210726_IMG_3848.jpeg)
+
+![20210726_IMG_3849.jpeg](20210726_IMG_3849.jpeg)
+
+![20210726_IMG_3850.jpeg](20210726_IMG_3850.jpeg)
+
+![20210726_IMG_3851.jpeg](20210726_IMG_3851.jpeg)
+
+![20210726_IMG_3852.jpeg](20210726_IMG_3852.jpeg)
+
+![20210726_IMG_3853.jpeg](20210726_IMG_3853.jpeg)
+
+![20210726_IMG_3854.jpeg](20210726_IMG_3854.jpeg)
+
+![20210726_IMG_3855.jpeg](20210726_IMG_3855.jpeg)
+
+![20210726_IMG_3858.jpeg](20210726_IMG_3858.jpeg)
+
+![20210726_IMG_3859.jpeg](20210726_IMG_3859.jpeg)
+
+![20210726_IMG_3860.jpeg](20210726_IMG_3860.jpeg)
+
+![20210726_IMG_3861.jpeg](20210726_IMG_3861.jpeg)
+
+![20210726_IMG_3862.jpeg](20210726_IMG_3862.jpeg)
+
+![20210726_IMG_3863.jpeg](20210726_IMG_3863.jpeg)
+
+![20210726_IMG_3864.jpeg](20210726_IMG_3864.jpeg)
+
+![20210726_IMG_3866.jpeg](20210726_IMG_3866.jpeg)
+
+![20210726_IMG_3867.jpeg](20210726_IMG_3867.jpeg)
+
+![20210726_IMG_3868.jpeg](20210726_IMG_3868.jpeg)
+
+<hr />
+
+Fast asleep… 💤
+
+![20210726_IMG_3869.jpeg](20210726_IMG_3869.jpeg)
+
+<hr />
+
+A new painting of a flower 🖼 by my Grandmother Hedda in Munich 🇩🇪.
+
+![20210726_photo.jpg](20210726_photo.jpg)

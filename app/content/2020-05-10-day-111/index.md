@@ -1,0 +1,122 @@
+---
+date: "2020-05-10"
+day: 111
+template: "photo-post"
+title: "Happy Mother’s Day!"
+subtitle: "Day 111 – Sunday, May 10, 2020"
+featuredImage: "20200510_IMG_1821.jpeg"
+---
+
+Today is Mother’s Day! Here’s some cake for you, Mum, and thanks!
+
+![20200510_IMG_4509.jpeg](20200510_IMG_4509.jpeg)
+
+![20200510_IMG_4505.jpeg](20200510_IMG_4505.jpeg)
+
+![20200510_IMG_4506.jpeg](20200510_IMG_4506.jpeg)
+
+![20200510_IMG_4507.jpeg](20200510_IMG_4507.jpeg)
+
+![20200510_IMG_4508.jpeg](20200510_IMG_4508.jpeg)
+
+<hr >
+
+Looking at myself in the mirror while getting cleaned up after a diaper change.
+
+![20200510_IMG_4482.jpeg](20200510_IMG_4482.jpeg)
+
+![20200510_IMG_4483.jpeg](20200510_IMG_4483.jpeg)
+
+![20200510_IMG_4484.jpeg](20200510_IMG_4484.jpeg)
+
+![20200510_IMG_4485.jpeg](20200510_IMG_4485.jpeg)
+
+![20200510_IMG_4486.jpeg](20200510_IMG_4486.jpeg)
+
+![20200510_IMG_4487.jpeg](20200510_IMG_4487.jpeg)
+
+![20200510_IMG_4488.jpeg](20200510_IMG_4488.jpeg)
+
+![20200510_IMG_4489.jpeg](20200510_IMG_4489.jpeg)
+
+<hr />
+
+Clean and happy.
+
+![20200510_IMG_1821.jpeg](20200510_IMG_1821.jpeg)
+
+![20200510_IMG_1822.jpeg](20200510_IMG_1822.jpeg)
+
+![20200510_IMG_1823.jpeg](20200510_IMG_1823.jpeg)
+
+![20200510_IMG_1824.jpeg](20200510_IMG_1824.jpeg)
+
+![20200510_IMG_1825.jpeg](20200510_IMG_1825.jpeg)
+
+![20200510_IMG_1826.jpeg](20200510_IMG_1826.jpeg)
+
+<hr />
+
+On the couch.
+
+![20200510_IMG_1827.jpeg](20200510_IMG_1827.jpeg)
+
+![20200510_IMG_1828.jpeg](20200510_IMG_1828.jpeg)
+
+![20200510_IMG_1829.jpeg](20200510_IMG_1829.jpeg)
+
+![20200510_IMG_1830.jpeg](20200510_IMG_1830.jpeg)
+
+![20200510_IMG_1832.jpeg](20200510_IMG_1832.jpeg)
+
+![20200510_IMG_1833.jpeg](20200510_IMG_1833.jpeg)
+
+![20200510_IMG_1834.jpeg](20200510_IMG_1834.jpeg)
+
+![20200510_IMG_1835.jpeg](20200510_IMG_1835.jpeg)
+
+![20200510_IMG_4490.jpeg](20200510_IMG_4490.jpeg)
+
+![20200510_IMG_4491.jpeg](20200510_IMG_4491.jpeg)
+
+![20200510_IMG_4492.jpeg](20200510_IMG_4492.jpeg)
+
+![20200510_IMG_4493.jpeg](20200510_IMG_4493.jpeg)
+
+![20200510_IMG_4494.jpeg](20200510_IMG_4494.jpeg)
+
+![20200510_IMG_4495.jpeg](20200510_IMG_4495.jpeg)
+
+![20200510_IMG_4496.jpeg](20200510_IMG_4496.jpeg)
+
+![20200510_IMG_4499.jpeg](20200510_IMG_4499.jpeg)
+
+![20200510_IMG_4500.jpeg](20200510_IMG_4500.jpeg)
+
+![20200510_IMG_4501.jpeg](20200510_IMG_4501.jpeg)
+
+<hr />
+
+With my Mum.
+
+![20200510_IMG_4498.jpeg](20200510_IMG_4498.jpeg)
+
+![20200510_IMG_4502.jpeg](20200510_IMG_4502.jpeg)
+
+![20200510_IMG_1831.jpeg](20200510_IMG_1831.jpeg)
+
+![20200510_IMG_4511.jpeg](20200510_IMG_4511.jpeg)
+
+![20200510_IMG_4512.jpeg](20200510_IMG_4512.jpeg)
+
+![20200510_IMG_4510.jpeg](20200510_IMG_4510.jpeg)
+
+<hr />
+
+Stretching out in my bassinet.
+
+![20200510_IMG_4503.jpeg](20200510_IMG_4503.jpeg)
+
+![20200510_IMG_4504.jpeg](20200510_IMG_4504.jpeg)
+
+![20200510_IMG_1836.jpeg](20200510_IMG_1836.jpeg)

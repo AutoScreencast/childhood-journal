@@ -1,0 +1,138 @@
+---
+date: "2020-04-09"
+day: 80
+template: "photo-post"
+title: "Zojoji Temple"
+subtitle: "Day 80 – Thursday, April 9, 2020"
+featuredImage: "20200409_IMG_3650.jpeg"
+---
+
+I’ve outgrown my Finnish baby box. It can no longer contain me!
+
+![20200409_IMG_3647.jpeg](20200409_IMG_3647.jpeg)
+
+![20200409_IMG_3648.jpeg](20200409_IMG_3648.jpeg)
+
+![20200409_IMG_3649.jpeg](20200409_IMG_3649.jpeg)
+
+![20200409_IMG_3650.jpeg](20200409_IMG_3650.jpeg)
+
+![20200409_IMG_3651.jpeg](20200409_IMG_3651.jpeg)
+
+![20200409_IMG_3652.jpeg](20200409_IMG_3652.jpeg)
+
+![20200409_IMG_3653.jpeg](20200409_IMG_3653.jpeg)
+
+![20200409_IMG_3654.jpeg](20200409_IMG_3654.jpeg)
+
+![20200409_IMG_3655.jpeg](20200409_IMG_3655.jpeg)
+
+<hr />
+
+I’m wearing a new jacket today. It suits me well, don’t you think?
+
+![20200409_IMG_3656.jpeg](20200409_IMG_3656.jpeg)
+
+![20200409_IMG_3657.jpeg](20200409_IMG_3657.jpeg)
+
+![20200409_IMG_3658.jpeg](20200409_IMG_3658.jpeg)
+
+![20200409_IMG_3659.jpeg](20200409_IMG_3659.jpeg)
+
+![20200409_IMG_3660.jpeg](20200409_IMG_3660.jpeg)
+
+![20200409_IMG_3661.jpeg](20200409_IMG_3661.jpeg)
+
+![20200409_IMG_3662.jpeg](20200409_IMG_3662.jpeg)
+
+<hr />
+
+Today, we went for a walk to Zojoji Temple. I slept through most of it though.
+
+![20200409_IMG_3667.jpeg](20200409_IMG_3667.jpeg)
+
+![20200409_IMG_3670.jpeg](20200409_IMG_3670.jpeg)
+
+![20200409_IMG_3679.jpeg](20200409_IMG_3679.jpeg)
+
+![20200409_IMG_3663.jpeg](20200409_IMG_3663.jpeg)
+
+![20200409_IMG_3665.jpeg](20200409_IMG_3665.jpeg)
+
+<hr />
+
+Back at Casa BW.
+
+![20200409_IMG_3686.jpeg](20200409_IMG_3686.jpeg)
+
+![20200409_IMG_3687.jpeg](20200409_IMG_3687.jpeg)
+
+![20200409_IMG_3688.jpeg](20200409_IMG_3688.jpeg)
+
+![20200409_IMG_3689.jpeg](20200409_IMG_3689.jpeg)
+
+![20200409_IMG_3690.jpeg](20200409_IMG_3690.jpeg)
+
+![20200409_IMG_3691.jpeg](20200409_IMG_3691.jpeg)
+
+![20200409_IMG_3692.jpeg](20200409_IMG_3692.jpeg)
+
+![20200409_IMG_3693.jpeg](20200409_IMG_3693.jpeg)
+
+![20200409_IMG_3694.jpeg](20200409_IMG_3694.jpeg)
+
+![20200409_IMG_3695.jpeg](20200409_IMG_3695.jpeg)
+
+![20200409_IMG_3696.jpeg](20200409_IMG_3696.jpeg)
+
+![20200409_IMG_3697.jpeg](20200409_IMG_3697.jpeg)
+
+![20200409_IMG_3698.jpeg](20200409_IMG_3698.jpeg)
+
+![20200409_IMG_3699.jpeg](20200409_IMG_3699.jpeg)
+
+![20200409_IMG_3700.jpeg](20200409_IMG_3700.jpeg)
+
+![20200409_IMG_3701.jpeg](20200409_IMG_3701.jpeg)
+
+![20200409_IMG_3702.jpeg](20200409_IMG_3702.jpeg)
+
+![20200409_IMG_3703.jpeg](20200409_IMG_3703.jpeg)
+
+![20200409_IMG_3704.jpeg](20200409_IMG_3704.jpeg)
+
+![20200409_IMG_3705.jpeg](20200409_IMG_3705.jpeg)
+
+![20200409_IMG_3706.jpeg](20200409_IMG_3706.jpeg)
+
+<hr />
+
+Me doing an impression of a horse.
+
+![20200409_IMG_3707.jpeg](20200409_IMG_3707.jpeg)
+
+![20200409_IMG_3708.jpeg](20200409_IMG_3708.jpeg)
+
+![20200409_IMG_3709.jpeg](20200409_IMG_3709.jpeg)
+
+![20200409_IMG_3710.jpeg](20200409_IMG_3710.jpeg)
+
+![20200409_IMG_3711.jpeg](20200409_IMG_3711.jpeg)
+
+![20200409_IMG_3712.jpeg](20200409_IMG_3712.jpeg)
+
+<hr />
+
+Watching videos with my Dad.
+
+![20200409_IMG_3714.jpeg](20200409_IMG_3714.jpeg)
+
+<hr />
+
+Sleeping like a … baby :)
+
+![20200409_IMG_3716.jpeg](20200409_IMG_3716.jpeg)
+
+![20200409_IMG_3717.jpeg](20200409_IMG_3717.jpeg)
+
+![20200409_IMG_3718.jpeg](20200409_IMG_3718.jpeg)

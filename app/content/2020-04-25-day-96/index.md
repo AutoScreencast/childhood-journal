@@ -1,0 +1,124 @@
+---
+date: "2020-04-25"
+day: 96
+template: "photo-post"
+title: "What a Beautiful Day"
+subtitle: "Day 96 – Saturday, April 25, 2020"
+featuredImage: "20200425_IMG_1662.jpeg"
+---
+
+Another beautiful and sunny day! Arisugawa Park again with my Parents.
+
+![20200425_IMG_1650.jpeg](20200425_IMG_1650.jpeg)
+
+![20200425_IMG_1651.jpeg](20200425_IMG_1651.jpeg)
+
+![20200425_IMG_1652.jpeg](20200425_IMG_1652.jpeg)
+
+![20200425_IMG_1653.jpeg](20200425_IMG_1653.jpeg)
+
+![20200425_IMG_1654.jpeg](20200425_IMG_1654.jpeg)
+
+Lots of nice pics with my Mum at the park!
+
+![20200425_IMG_4020.jpeg](20200425_IMG_4020.jpeg)
+
+![20200425_IMG_4021.jpeg](20200425_IMG_4021.jpeg)
+
+![20200425_IMG_4022.jpeg](20200425_IMG_4022.jpeg)
+
+![20200425_IMG_4023.jpeg](20200425_IMG_4023.jpeg)
+
+![20200425_IMG_4024.jpeg](20200425_IMG_4024.jpeg)
+
+![20200425_IMG_4025.jpeg](20200425_IMG_4025.jpeg)
+
+![20200425_IMG_4026.jpeg](20200425_IMG_4026.jpeg)
+
+![20200425_IMG_4027.jpeg](20200425_IMG_4027.jpeg)
+
+![20200425_IMG_4028.jpeg](20200425_IMG_4028.jpeg)
+
+![20200425_IMG_4029.jpeg](20200425_IMG_4029.jpeg)
+
+![20200425_IMG_4030.jpeg](20200425_IMG_4030.jpeg)
+
+![20200425_IMG_4031.jpeg](20200425_IMG_4031.jpeg)
+
+![20200425_IMG_4032.jpeg](20200425_IMG_4032.jpeg)
+
+![20200425_IMG_4033.jpeg](20200425_IMG_4033.jpeg)
+
+![20200425_IMG_4034.jpeg](20200425_IMG_4034.jpeg)
+
+![20200425_IMG_4035.jpeg](20200425_IMG_4035.jpeg)
+
+![20200425_IMG_4036.jpeg](20200425_IMG_4036.jpeg)
+
+![20200425_IMG_4037.jpeg](20200425_IMG_4037.jpeg)
+
+![20200425_IMG_4038.jpeg](20200425_IMG_4038.jpeg)
+
+![20200425_IMG_4039.jpeg](20200425_IMG_4039.jpeg)
+
+![20200425_IMG_4040.jpeg](20200425_IMG_4040.jpeg)
+
+![20200425_IMG_4041.jpeg](20200425_IMG_4041.jpeg)
+
+![20200425_IMG_4042.jpeg](20200425_IMG_4042.jpeg)
+
+![20200425_IMG_4043.jpeg](20200425_IMG_4043.jpeg)
+
+![20200425_IMG_4044.jpeg](20200425_IMG_4044.jpeg)
+
+![20200425_IMG_4045.jpeg](20200425_IMG_4045.jpeg)
+
+<hr />
+
+Back at home again.
+
+![20200425_IMG_1641.jpeg](20200425_IMG_1641.jpeg)
+
+![20200425_IMG_1642.jpeg](20200425_IMG_1642.jpeg)
+
+![20200425_IMG_1643.jpg](20200425_IMG_1643.jpg)
+
+![20200425_IMG_1644.jpg](20200425_IMG_1644.jpg)
+
+<hr />
+
+I’m getting better at holding toys!
+
+![20200425_IMG_1645.jpeg](20200425_IMG_1645.jpeg)
+
+![20200425_IMG_1646.jpeg](20200425_IMG_1646.jpeg)
+
+![20200425_IMG_1647.jpeg](20200425_IMG_1647.jpeg)
+
+![20200425_IMG_1648.jpeg](20200425_IMG_1648.jpeg)
+
+![20200425_IMG_1649.jpeg](20200425_IMG_1649.jpeg)
+
+<hr />
+
+New outfit, since I’m outgrowing nearly everything I have quickly …
+
+![20200425_IMG_1655.jpeg](20200425_IMG_1655.jpeg)
+
+![20200425_IMG_1656.jpeg](20200425_IMG_1656.jpeg)
+
+![20200425_IMG_1657.jpeg](20200425_IMG_1657.jpeg)
+
+![20200425_IMG_1658.jpeg](20200425_IMG_1658.jpeg)
+
+![20200425_IMG_1659.jpeg](20200425_IMG_1659.jpeg)
+
+<hr />
+
+Great day – great mood!
+
+![20200425_IMG_1660.jpeg](20200425_IMG_1660.jpeg)
+
+![20200425_IMG_1661.jpeg](20200425_IMG_1661.jpeg)
+
+![20200425_IMG_1662.jpeg](20200425_IMG_1662.jpeg)

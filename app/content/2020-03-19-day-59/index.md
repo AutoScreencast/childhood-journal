@@ -1,0 +1,142 @@
+---
+date: "2020-03-19"
+day: 59
+template: "photo-post"
+title: "Ferraris"
+subtitle: "Day 59 – Thursday, March 19, 2020"
+featuredImage: "20200319_IMG_2832.jpeg"
+---
+
+I’m sporting a cool bodysuit with a dragon on it today!
+
+![20200319_IMG_2806.jpeg](20200319_IMG_2806.jpeg)
+
+![20200319_IMG_2807.jpeg](20200319_IMG_2807.jpeg)
+
+![20200319_IMG_2808.jpeg](20200319_IMG_2808.jpeg)
+
+![20200319_IMG_2809.jpeg](20200319_IMG_2809.jpeg)
+
+![20200319_IMG_2810.jpeg](20200319_IMG_2810.jpeg)
+
+![20200319_IMG_2811.jpeg](20200319_IMG_2811.jpeg)
+
+![20200319_IMG_2812.jpeg](20200319_IMG_2812.jpeg)
+
+![20200319_IMG_2813.jpeg](20200319_IMG_2813.jpeg)
+
+![20200319_IMG_2814.jpeg](20200319_IMG_2814.jpeg)
+
+![20200319_IMG_2815.jpeg](20200319_IMG_2815.jpeg)
+
+![20200319_IMG_2816.jpeg](20200319_IMG_2816.jpeg)
+
+![20200319_IMG_2817.jpeg](20200319_IMG_2817.jpeg)
+
+![20200319_IMG_2818.jpeg](20200319_IMG_2818.jpeg)
+
+![20200319_IMG_2819.jpeg](20200319_IMG_2819.jpeg)
+
+![20200319_IMG_2820.jpeg](20200319_IMG_2820.jpeg)
+
+A couple of pics of me smilin’!
+
+![20200319_IMG_2821.jpeg](20200319_IMG_2821.jpeg)
+
+![20200319_IMG_2822.jpeg](20200319_IMG_2822.jpeg)
+
+![20200319_IMG_2823.jpeg](20200319_IMG_2823.jpeg)
+
+![20200319_IMG_2824.jpeg](20200319_IMG_2824.jpeg)
+
+![20200319_IMG_2825.jpeg](20200319_IMG_2825.jpeg)
+
+![20200319_IMG_2826.jpeg](20200319_IMG_2826.jpeg)
+
+![20200319_IMG_2827.jpeg](20200319_IMG_2827.jpeg)
+
+![20200319_IMG_2828.jpeg](20200319_IMG_2828.jpeg)
+
+![20200319_IMG_2829.jpeg](20200319_IMG_2829.jpeg)
+
+![20200319_IMG_2830.jpeg](20200319_IMG_2830.jpeg)
+
+![20200319_IMG_2831.jpeg](20200319_IMG_2831.jpeg)
+
+More smiles!
+
+![20200319_IMG_2832.jpeg](20200319_IMG_2832.jpeg)
+
+![20200319_IMG_2833.jpeg](20200319_IMG_2833.jpeg)
+
+![20200319_IMG_2834.jpeg](20200319_IMG_2834.jpeg)
+
+![20200319_IMG_2835.jpeg](20200319_IMG_2835.jpeg)
+
+Looking tough!
+
+![20200319_IMG_2836.jpeg](20200319_IMG_2836.jpeg)
+
+![20200319_IMG_2837.jpeg](20200319_IMG_2837.jpeg)
+
+![20200319_IMG_2838.jpeg](20200319_IMG_2838.jpeg)
+
+![20200319_IMG_2839.jpeg](20200319_IMG_2839.jpeg)
+
+<hr />
+
+Oh boy, it’s tummy time again...
+
+![20200319_IMG_2840.jpeg](20200319_IMG_2840.jpeg)
+
+![20200319_IMG_2841.jpeg](20200319_IMG_2841.jpeg)
+
+![20200319_IMG_2842.jpeg](20200319_IMG_2842.jpeg)
+
+![20200319_IMG_2843.jpeg](20200319_IMG_2843.jpeg)
+
+![20200319_IMG_2844.jpeg](20200319_IMG_2844.jpeg)
+
+![20200319_IMG_2845.jpeg](20200319_IMG_2845.jpeg)
+
+![20200319_IMG_2846.jpeg](20200319_IMG_2846.jpeg)
+
+![20200319_IMG_2847.jpeg](20200319_IMG_2847.jpeg)
+
+![20200319_IMG_2848.jpeg](20200319_IMG_2848.jpeg)
+
+Finally, I’m done!
+
+![20200319_IMG_2851.jpg](20200319_IMG_2851.jpg)
+
+<hr />
+
+In the living room.
+
+![20200319_IMG_2854.jpeg](20200319_IMG_2854.jpeg)
+
+![20200319_IMG_2855.jpeg](20200319_IMG_2855.jpeg)
+
+![20200319_IMG_2856.jpeg](20200319_IMG_2856.jpeg)
+
+![20200319_IMG_2857.jpeg](20200319_IMG_2857.jpeg)
+
+![20200319_IMG_2858.jpg](20200319_IMG_2858.jpg)
+
+<hr />
+
+My Dad took me to the local Ferrari showroom!
+
+![20200319_IMG_2859.jpg](20200319_IMG_2859.jpg)
+
+<hr />
+
+Back home again. Those were some amazin’ automobiles we saw earlier!
+
+![20200319_IMG_2861.jpg](20200319_IMG_2861.jpg)
+
+<hr />
+
+All that supercar spotting has tired me out!
+
+![20200319_IMG_2863.jpeg](20200319_IMG_2863.jpeg)

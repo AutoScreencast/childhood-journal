@@ -1,0 +1,130 @@
+---
+date: "2021-12-20"
+day: 700
+template: "photo-post"
+title: "23 Months Old / 700 Days Old"
+subtitle: "Day 700 – Monday, December 20, 2021"
+featuredImage: "20211220_IMG_4846.jpeg"
+---
+
+I can’t believe I’m already 23 months old today! That’s 700 days! How time flies… ✈️
+
+<hr />
+
+I’m enjoying some _Spaghetti Bolognese_ 🍝 for dinner tonight.
+
+![20211220_IMG_4836.jpeg](20211220_IMG_4836.jpeg)
+
+![20211220_IMG_4837.jpeg](20211220_IMG_4837.jpeg)
+
+![20211220_IMG_4838.jpeg](20211220_IMG_4838.jpeg)
+
+![20211220_IMG_4839.jpeg](20211220_IMG_4839.jpeg)
+
+![20211220_IMG_4840.jpeg](20211220_IMG_4840.jpeg)
+
+![20211220_IMG_4841.jpeg](20211220_IMG_4841.jpeg)
+
+![20211220_IMG_4842.jpeg](20211220_IMG_4842.jpeg)
+
+![20211220_IMG_4843.jpeg](20211220_IMG_4843.jpeg)
+
+![20211220_IMG_4844.jpeg](20211220_IMG_4844.jpeg)
+
+![20211220_IMG_4845.jpeg](20211220_IMG_4845.jpeg)
+
+![20211220_IMG_4846.jpeg](20211220_IMG_4846.jpeg)
+
+![20211220_IMG_4847.jpeg](20211220_IMG_4847.jpeg)
+
+![20211220_IMG_4848.jpeg](20211220_IMG_4848.jpeg)
+
+![20211220_IMG_4849.jpeg](20211220_IMG_4849.jpeg)
+
+![20211220_IMG_4850.jpeg](20211220_IMG_4850.jpeg)
+
+![20211220_IMG_4851.jpeg](20211220_IMG_4851.jpeg)
+
+![20211220_IMG_4852.jpeg](20211220_IMG_4852.jpeg)
+
+![20211220_IMG_4853.jpeg](20211220_IMG_4853.jpeg)
+
+![20211220_IMG_4854.jpeg](20211220_IMG_4854.jpeg)
+
+![20211220_IMG_4855.jpeg](20211220_IMG_4855.jpeg)
+
+![20211220_IMG_4857.jpeg](20211220_IMG_4857.jpeg)
+
+![20211220_IMG_4860.jpeg](20211220_IMG_4860.jpeg)
+
+![20211220_IMG_4861.jpeg](20211220_IMG_4861.jpeg)
+
+![20211220_IMG_4862.jpeg](20211220_IMG_4862.jpeg)
+
+![20211220_IMG_4863.jpeg](20211220_IMG_4863.jpeg)
+
+![20211220_IMG_4864.jpeg](20211220_IMG_4864.jpeg)
+
+![20211220_IMG_4865.jpeg](20211220_IMG_4865.jpeg)
+
+![20211220_IMG_4866.jpeg](20211220_IMG_4866.jpeg)
+
+Some water, please!
+
+![20211220_IMG_4869.jpeg](20211220_IMG_4869.jpeg)
+
+![20211220_IMG_4868.jpeg](20211220_IMG_4868.jpeg)
+
+![20211220_IMG_4870.jpeg](20211220_IMG_4870.jpeg)
+
+![20211220_IMG_4871.jpeg](20211220_IMG_4871.jpeg)
+
+![20211220_IMG_4872.jpeg](20211220_IMG_4872.jpeg)
+
+Some milk too, please! 🥛
+
+![20211220_IMG_4867.jpeg](20211220_IMG_4867.jpeg)
+
+![20211220_IMG_4873.jpeg](20211220_IMG_4873.jpeg)
+
+![20211220_IMG_4874.jpeg](20211220_IMG_4874.jpeg)
+
+![20211220_IMG_4875.jpeg](20211220_IMG_4875.jpeg)
+
+<hr />
+
+After dinner, I played for a while downstairs while my evening bath 🛁 was being prepared…
+
+![20211220_IMG_4886.jpeg](20211220_IMG_4886.jpeg)
+
+![20211220_IMG_4887.jpeg](20211220_IMG_4887.jpeg)
+
+![20211220_IMG_4888.jpeg](20211220_IMG_4888.jpeg)
+
+![20211220_IMG_4889.jpeg](20211220_IMG_4889.jpeg)
+
+![20211220_IMG_4891.jpeg](20211220_IMG_4891.jpeg)
+
+![20211220_IMG_4892.jpeg](20211220_IMG_4892.jpeg)
+
+![20211220_IMG_4893.jpeg](20211220_IMG_4893.jpeg)
+
+![20211220_IMG_4894.jpeg](20211220_IMG_4894.jpeg)
+
+![20211220_IMG_4895.jpeg](20211220_IMG_4895.jpeg)
+
+![20211220_IMG_4896.jpeg](20211220_IMG_4896.jpeg)
+
+![20211220_IMG_4897.jpeg](20211220_IMG_4897.jpeg)
+
+![20211220_IMG_4898.jpeg](20211220_IMG_4898.jpeg)
+
+![20211220_IMG_4899.jpeg](20211220_IMG_4899.jpeg)
+
+![20211220_IMG_4900.jpeg](20211220_IMG_4900.jpeg)
+
+![20211220_IMG_4901.jpeg](20211220_IMG_4901.jpeg)
+
+![20211220_IMG_4902.jpeg](20211220_IMG_4902.jpeg)
+
+![20211220_IMG_4903.jpeg](20211220_IMG_4903.jpeg)

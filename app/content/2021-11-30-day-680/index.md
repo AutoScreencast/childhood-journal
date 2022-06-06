@@ -1,0 +1,186 @@
+---
+date: "2021-11-30"
+day: 680
+template: "photo-post"
+title: "Some Fresh Air"
+subtitle: "Day 680 – Tuesday, November 30, 2021"
+featuredImage: "20211130_IMG_3771.jpeg"
+---
+
+I’m feeling a little better today. But, my Parents thought it would be better for me not to go to nursery school just yet…
+
+![20211130_IMG_8026.jpeg](20211130_IMG_8026.jpeg)
+
+![20211130_IMG_8027.jpeg](20211130_IMG_8027.jpeg)
+
+<hr />
+
+My Dad is taking me to *Shinjuku Gyoen* this morning to get some fresh air and exercise.
+
+![20211130_IMG_3704.jpeg](20211130_IMG_3704.jpeg)
+
+![20211130_IMG_3705.jpeg](20211130_IMG_3705.jpeg)
+
+<hr />
+
+We’re now at the <a href="https://goo.gl/maps/5L29xmh2ddhNTpsW6">Starbucks</a> in *Shinjuku Gyoen*.
+
+![20211130_IMG_3707.jpeg](20211130_IMG_3707.jpeg)
+
+Time to play ball!
+
+![20211130_IMG_3708.jpeg](20211130_IMG_3708.jpeg)
+
+![20211130_IMG_3709.jpeg](20211130_IMG_3709.jpeg)
+
+![20211130_IMG_3710.jpeg](20211130_IMG_3710.jpeg)
+
+![20211130_IMG_3711.jpeg](20211130_IMG_3711.jpeg)
+
+![20211130_IMG_3712.jpeg](20211130_IMG_3712.jpeg)
+
+![20211130_IMG_3713.jpeg](20211130_IMG_3713.jpeg)
+
+![20211130_IMG_3714.jpeg](20211130_IMG_3714.jpeg)
+
+![20211130_IMG_3715.jpeg](20211130_IMG_3715.jpeg)
+
+![20211130_IMG_3716.jpeg](20211130_IMG_3716.jpeg)
+
+![20211130_IMG_3717.jpeg](20211130_IMG_3717.jpeg)
+
+![20211130_IMG_3718.jpeg](20211130_IMG_3718.jpeg)
+
+![20211130_IMG_3719.jpeg](20211130_IMG_3719.jpeg)
+
+![20211130_IMG_3720.jpeg](20211130_IMG_3720.jpeg)
+
+![20211130_IMG_3721.jpeg](20211130_IMG_3721.jpeg)
+
+![20211130_IMG_3722.jpeg](20211130_IMG_3722.jpeg)
+
+![20211130_IMG_3723.jpeg](20211130_IMG_3723.jpeg)
+
+![20211130_IMG_3724.jpeg](20211130_IMG_3724.jpeg)
+
+![20211130_IMG_3725.jpeg](20211130_IMG_3725.jpeg)
+
+![20211130_IMG_3726.jpeg](20211130_IMG_3726.jpeg)
+
+![20211130_IMG_3727.jpeg](20211130_IMG_3727.jpeg)
+
+![20211130_IMG_3728.jpeg](20211130_IMG_3728.jpeg)
+
+![20211130_IMG_3729.jpeg](20211130_IMG_3729.jpeg)
+
+![20211130_IMG_3730.jpeg](20211130_IMG_3730.jpeg)
+
+![20211130_IMG_3731.jpeg](20211130_IMG_3731.jpeg)
+
+![20211130_IMG_3732.jpeg](20211130_IMG_3732.jpeg)
+
+![20211130_IMG_3733.jpeg](20211130_IMG_3733.jpeg)
+
+![20211130_IMG_3734.jpeg](20211130_IMG_3734.jpeg)
+
+![20211130_IMG_3735.jpeg](20211130_IMG_3735.jpeg)
+
+![20211130_IMG_3736.jpeg](20211130_IMG_3736.jpeg)
+
+![20211130_IMG_3737.jpeg](20211130_IMG_3737.jpeg)
+
+![20211130_IMG_3738.jpeg](20211130_IMG_3738.jpeg)
+
+![20211130_IMG_3739.jpeg](20211130_IMG_3739.jpeg)
+
+![20211130_IMG_3740.jpeg](20211130_IMG_3740.jpeg)
+
+![20211130_IMG_3741.jpeg](20211130_IMG_3741.jpeg)
+
+![20211130_IMG_3742.jpeg](20211130_IMG_3742.jpeg)
+
+![20211130_IMG_3743.jpeg](20211130_IMG_3743.jpeg)
+
+![20211130_IMG_3744.jpeg](20211130_IMG_3744.jpeg)
+
+![20211130_IMG_3745.jpeg](20211130_IMG_3745.jpeg)
+
+![20211130_IMG_3746.jpeg](20211130_IMG_3746.jpeg)
+
+![20211130_IMG_3747.jpeg](20211130_IMG_3747.jpeg)
+
+![20211130_IMG_3748.jpeg](20211130_IMG_3748.jpeg)
+
+![20211130_IMG_3749.jpeg](20211130_IMG_3749.jpeg)
+
+![20211130_IMG_3750.jpeg](20211130_IMG_3750.jpeg)
+
+![20211130_IMG_3751.jpeg](20211130_IMG_3751.jpeg)
+
+![20211130_IMG_3752.jpeg](20211130_IMG_3752.jpeg)
+
+![20211130_IMG_3753.jpeg](20211130_IMG_3753.jpeg)
+
+![20211130_IMG_3754.jpeg](20211130_IMG_3754.jpeg)
+
+![20211130_IMG_3755.jpeg](20211130_IMG_3755.jpeg)
+
+![20211130_IMG_3756.jpeg](20211130_IMG_3756.jpeg)
+
+![20211130_IMG_3757.jpeg](20211130_IMG_3757.jpeg)
+
+![20211130_IMG_3758.jpeg](20211130_IMG_3758.jpeg)
+
+![20211130_IMG_3759.jpeg](20211130_IMG_3759.jpeg)
+
+![20211130_IMG_3760.jpeg](20211130_IMG_3760.jpeg)
+
+![20211130_IMG_3761.jpeg](20211130_IMG_3761.jpeg)
+
+![20211130_IMG_3762.jpeg](20211130_IMG_3762.jpeg)
+
+![20211130_IMG_3763.jpeg](20211130_IMG_3763.jpeg)
+
+![20211130_IMG_3764.jpeg](20211130_IMG_3764.jpeg)
+
+![20211130_IMG_3765.jpeg](20211130_IMG_3765.jpeg)
+
+![20211130_IMG_3766.jpeg](20211130_IMG_3766.jpeg)
+
+![20211130_IMG_3767.jpeg](20211130_IMG_3767.jpeg)
+
+![20211130_IMG_3768.jpeg](20211130_IMG_3768.jpeg)
+
+![20211130_IMG_3769.jpeg](20211130_IMG_3769.jpeg)
+
+![20211130_IMG_3770.jpeg](20211130_IMG_3770.jpeg)
+
+![20211130_IMG_3771.jpeg](20211130_IMG_3771.jpeg)
+
+Time for my nap… 💤
+
+![20211130_IMG_3772.jpeg](20211130_IMG_3772.jpeg)
+
+<hr />
+
+We’re walking home from the park today, going down *<a href="https://goo.gl/maps/rrUGDkgEyR4qz8K37">Jingū Gaien Ginkgo Avenue</a>* (いちょう並木).
+
+![20211130_IMG_3775.jpeg](20211130_IMG_3775.jpeg)
+
+<hr />
+
+Tonight, we’re having *Spaghetti Bolognese* for dinner! 🍝
+
+![20211130_IMG_3776.jpeg](20211130_IMG_3776.jpeg)
+
+![20211130_IMG_3777.jpeg](20211130_IMG_3777.jpeg)
+
+![20211130_IMG_3778.jpeg](20211130_IMG_3778.jpeg)
+
+![20211130_IMG_3779.jpeg](20211130_IMG_3779.jpeg)
+
+![20211130_IMG_3780.jpeg](20211130_IMG_3780.jpeg)
+
+![20211130_IMG_3781.jpeg](20211130_IMG_3781.jpeg)
+
+![20211130_IMG_3782.jpeg](20211130_IMG_3782.jpeg)

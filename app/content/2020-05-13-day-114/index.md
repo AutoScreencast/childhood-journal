@@ -1,0 +1,116 @@
+---
+date: "2020-05-13"
+day: 114
+template: "photo-post"
+title: "Upside-Down"
+subtitle: "Day 114 – Wednesday, May 13, 2020"
+featuredImage: "20200513_IMG_4576.jpeg"
+---
+
+Looking at the world upside-down! It seems to make more sense this way …
+
+![20200513_IMG_4575.jpeg](20200513_IMG_4575.jpeg)
+
+![20200513_IMG_4576.jpeg](20200513_IMG_4576.jpeg)
+
+![20200513_IMG_4577.jpeg](20200513_IMG_4577.jpeg)
+
+<hr />
+
+At the park, squirming on my Dad’s leg.
+
+![20200513_IMG_1850.jpeg](20200513_IMG_1850.jpeg)
+
+![20200513_IMG_1851.jpeg](20200513_IMG_1851.jpeg)
+
+![20200513_IMG_1852.jpeg](20200513_IMG_1852.jpeg)
+
+![20200513_IMG_1853.jpeg](20200513_IMG_1853.jpeg)
+
+<hr />
+
+It’s better on his shoulder — I can see more from up here!
+
+![20200513_IMG_1854.jpg](20200513_IMG_1854.jpg)
+
+![20200513_IMG_1855.jpg](20200513_IMG_1855.jpg)
+
+![20200513_IMG_1856.jpg](20200513_IMG_1856.jpg)
+
+<hr />
+
+At home, doing my exercises.
+
+![20200513_IMG_4547.jpeg](20200513_IMG_4547.jpeg)
+
+![20200513_IMG_4548.jpeg](20200513_IMG_4548.jpeg)
+
+![20200513_IMG_4549.jpeg](20200513_IMG_4549.jpeg)
+
+![20200513_IMG_4550.jpeg](20200513_IMG_4550.jpeg)
+
+![20200513_IMG_4551.jpeg](20200513_IMG_4551.jpeg)
+
+![20200513_IMG_4552.jpeg](20200513_IMG_4552.jpeg)
+
+![20200513_IMG_4553.jpeg](20200513_IMG_4553.jpeg)
+
+![20200513_IMG_4554.jpeg](20200513_IMG_4554.jpeg)
+
+![20200513_IMG_4555.jpeg](20200513_IMG_4555.jpeg)
+
+![20200513_IMG_4556.jpeg](20200513_IMG_4556.jpeg)
+
+![20200513_IMG_4557.jpeg](20200513_IMG_4557.jpeg)
+
+![20200513_IMG_4558.jpeg](20200513_IMG_4558.jpeg)
+
+![20200513_IMG_4559.jpeg](20200513_IMG_4559.jpeg)
+
+![20200513_IMG_4560.jpeg](20200513_IMG_4560.jpeg)
+
+![20200513_IMG_4561.jpeg](20200513_IMG_4561.jpeg)
+
+![20200513_IMG_4562.jpeg](20200513_IMG_4562.jpeg)
+
+![20200513_IMG_4563.jpeg](20200513_IMG_4563.jpeg)
+
+![20200513_IMG_4564.jpeg](20200513_IMG_4564.jpeg)
+
+![20200513_IMG_4565.jpeg](20200513_IMG_4565.jpeg)
+
+![20200513_IMG_4566.jpeg](20200513_IMG_4566.jpeg)
+
+![20200513_IMG_4567.jpeg](20200513_IMG_4567.jpeg)
+
+![20200513_IMG_4568.jpeg](20200513_IMG_4568.jpeg)
+
+![20200513_IMG_4569.jpeg](20200513_IMG_4569.jpeg)
+
+![20200513_IMG_4570.jpeg](20200513_IMG_4570.jpeg)
+
+![20200513_IMG_4571.jpeg](20200513_IMG_4571.jpeg)
+
+![20200513_IMG_4572.jpeg](20200513_IMG_4572.jpeg)
+
+![20200513_IMG_4573.jpeg](20200513_IMG_4573.jpeg)
+
+![20200513_IMG_4574.jpeg](20200513_IMG_4574.jpeg)
+
+<hr />
+
+Time to relax. Get that camera out of my face!
+
+![20200513_IMG_4578.jpeg](20200513_IMG_4578.jpeg)
+
+![20200513_IMG_4579.jpeg](20200513_IMG_4579.jpeg)
+
+![20200513_IMG_4580.jpeg](20200513_IMG_4580.jpeg)
+
+![20200513_IMG_4581.jpeg](20200513_IMG_4581.jpeg)
+
+![20200513_IMG_4582.jpeg](20200513_IMG_4582.jpeg)
+
+![20200513_IMG_4583.jpeg](20200513_IMG_4583.jpeg)
+
+![20200513_IMG_4584.jpeg](20200513_IMG_4584.jpeg)

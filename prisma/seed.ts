@@ -1,7 +1,25 @@
 import { PrismaClient } from "@prisma/client";
 import bcrypt from "bcryptjs";
 
+import { join } from "path";
+import { readdir, readFile } from "fs/promises";
+import fm from "front-matter";
+
+
 const prisma = new PrismaClient();
+
+/*:
+ * Types
+ */
+
+type MarkdownContent = {
+  attributes: {
+    date: string;
+    title: string;
+    featuredImage: string;
+  };
+  body: string;
+}
 
 type SeedUser = {
   username: string;
@@ -10,6 +28,10 @@ type SeedUser = {
   password: string | undefined;
   lang: string;
 }
+
+/*:
+ * User data
+ */
 
 export const USERS: Array<SeedUser> = [
   {
@@ -101,8 +123,44 @@ export const USERS: Array<SeedUser> = [
   },
 ];
 
-async function seed() {
-  console.log(`Attempting to seed the database...`);
+/*:
+ * Seed functions
+ */
+
+async function seedPosts() {
+  console.log(`Attempting to seed the database with posts...`);
+
+  const contentPath = join(__dirname, "../", "app", "content");
+  const posts = await readdir(contentPath);
+
+  posts.forEach(async (post) => {
+    const indexPath = join(contentPath, post, "index.md")
+    const indexFile = await readFile(indexPath, "utf-8")
+
+    const indexFileContent: MarkdownContent = fm(indexFile);
+
+    const interimPost = {
+      dateSlug: indexFileContent.attributes.date,
+      title: indexFileContent.attributes.title,
+      featuredImage: indexFileContent.attributes.featuredImage,
+      markdown: indexFileContent.body,
+    }
+
+    try {
+      await prisma.post.upsert({
+        where: { 
+          dateSlug: interimPost.dateSlug },
+        update: interimPost,
+        create: interimPost,
+      });
+    } catch(error) {
+      console.error("Error upserting posts into the db:", error);
+    };
+  })
+}
+
+async function seedUsers() {
+  console.log(`Attempting to seed the database with users...`);
 
   USERS.forEach(async (user) => {
     if (!user.password) throw `Password is not set for seed user: ${user.name}`;
@@ -122,16 +180,27 @@ async function seed() {
       });
       console.log("Seeded user with username:", seededUser.username);
     } catch (error) {
-      console.error(error);
+      console.error("Error upserting users into the db:", error);
     }
   });
 }
 
-seed()
+/*:
+ * Run
+ */
+
+seedPosts()
+  .catch((e) => {
+    console.error(e);
+    process.exit(1);
+  })
+  
+seedUsers()
   .catch((e) => {
     console.error(e);
     process.exit(1);
   })
   .finally(async () => {
+    console.log("Disconnecting from db.")
     await prisma.$disconnect();
   });

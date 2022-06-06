@@ -1,0 +1,76 @@
+---
+date: "2022-04-28"
+day: 829
+template: "photo-post"
+title: "Dalian Dinner"
+subtitle: "Day 829 – Thursday, April 28, 2022"
+featuredImage: "20220428_IMG_2828.jpeg"
+---
+
+In the sandbox with my nursery schoolmates.
+
+![20220428_IMG_2795.jpeg](20220428_IMG_2795.jpeg)
+
+<hr />
+
+Tonight, we’re having dinner at _<a href="https://g.page/dalianazabujyuban?share">Dalian</a>_ (大連餃子基地 DALIAN 麻布十番店) together.
+
+![20220428_IMG_2797.jpeg](20220428_IMG_2797.jpeg)
+
+![20220428_IMG_2798.jpeg](20220428_IMG_2798.jpeg)
+
+![20220428_IMG_2799.jpeg](20220428_IMG_2799.jpeg)
+
+![20220428_IMG_2800.jpeg](20220428_IMG_2800.jpeg)
+
+![20220428_IMG_2802.jpeg](20220428_IMG_2802.jpeg)
+
+![20220428_IMG_2803.jpeg](20220428_IMG_2803.jpeg)
+
+![20220428_IMG_2804.jpeg](20220428_IMG_2804.jpeg)
+
+![20220428_IMG_2805.jpeg](20220428_IMG_2805.jpeg)
+
+![20220428_IMG_2806.jpeg](20220428_IMG_2806.jpeg)
+
+![20220428_IMG_2809.jpeg](20220428_IMG_2809.jpeg)
+
+![20220428_IMG_2810.jpeg](20220428_IMG_2810.jpeg)
+
+![20220428_IMG_2811.jpeg](20220428_IMG_2811.jpeg)
+
+![20220428_IMG_2812.jpeg](20220428_IMG_2812.jpeg)
+
+![20220428_IMG_2814.jpeg](20220428_IMG_2814.jpeg)
+
+![20220428_IMG_2815.jpeg](20220428_IMG_2815.jpeg)
+
+![20220428_IMG_2817.jpeg](20220428_IMG_2817.jpeg)
+
+![20220428_IMG_2818.jpeg](20220428_IMG_2818.jpeg)
+
+![20220428_IMG_2820.jpeg](20220428_IMG_2820.jpeg)
+
+![20220428_IMG_2821.jpeg](20220428_IMG_2821.jpeg)
+
+![20220428_IMG_2822.jpeg](20220428_IMG_2822.jpeg)
+
+![20220428_IMG_2823.jpeg](20220428_IMG_2823.jpeg)
+
+![20220428_IMG_2825.jpeg](20220428_IMG_2825.jpeg)
+
+![20220428_IMG_2826.jpeg](20220428_IMG_2826.jpeg)
+
+![20220428_IMG_2827.jpeg](20220428_IMG_2827.jpeg)
+
+![20220428_IMG_2828.jpeg](20220428_IMG_2828.jpeg)
+
+![20220428_IMG_2829.jpeg](20220428_IMG_2829.jpeg)
+
+![20220428_IMG_2830.jpeg](20220428_IMG_2830.jpeg)
+
+![20220428_IMG_2831.jpeg](20220428_IMG_2831.jpeg)
+
+![20220428_IMG_2832.jpeg](20220428_IMG_2832.jpeg)
+
+![20220428_IMG_2833.jpeg](20220428_IMG_2833.jpeg)

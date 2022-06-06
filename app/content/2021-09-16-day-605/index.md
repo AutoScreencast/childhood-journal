@@ -1,0 +1,82 @@
+---
+date: "2021-09-16"
+day: 605
+template: "photo-post"
+title: "Miffy"
+subtitle: "Day 605 – Thursday, September 16, 2021"
+featuredImage: "20210916_IMG_6646.jpeg"
+---
+
+Having some bread 🍞 for breakfast.
+
+![20210916_IMG_7494.jpeg](20210916_IMG_7494.jpeg)
+
+![20210916_IMG_7495.jpeg](20210916_IMG_7495.jpeg)
+
+![20210916_IMG_7496.jpeg](20210916_IMG_7496.jpeg)
+
+![20210916_IMG_7497.jpeg](20210916_IMG_7497.jpeg)
+
+<hr />
+
+At nursery school with my classmates.
+
+![20210916_IMG_6642.jpg](20210916_IMG_6642.jpg)
+
+<hr />
+
+Look! A big Miffy plush toy!
+
+![20210916_IMG_6645.jpeg](20210916_IMG_6645.jpeg)
+
+![20210916_IMG_6646.jpeg](20210916_IMG_6646.jpeg)
+
+![20210916_IMG_6644.jpeg](20210916_IMG_6644.jpeg)
+
+![20210916_IMG_6647.jpeg](20210916_IMG_6647.jpeg)
+
+![20210916_IMG_6648.jpeg](20210916_IMG_6648.jpeg)
+
+![20210916_IMG_6649.jpeg](20210916_IMG_6649.jpeg)
+
+![20210916_IMG_6650.jpeg](20210916_IMG_6650.jpeg)
+
+![20210916_IMG_6651.jpeg](20210916_IMG_6651.jpeg)
+
+![20210916_IMG_6652.jpeg](20210916_IMG_6652.jpeg)
+
+![20210916_IMG_6653.jpeg](20210916_IMG_6653.jpeg)
+
+![20210916_IMG_6654.jpeg](20210916_IMG_6654.jpeg)
+
+![20210916_IMG_6655.jpeg](20210916_IMG_6655.jpeg)
+
+![20210916_IMG_6656.jpeg](20210916_IMG_6656.jpeg)
+
+![20210916_IMG_6657.jpeg](20210916_IMG_6657.jpeg)
+
+![20210916_IMG_6658.jpeg](20210916_IMG_6658.jpeg)
+
+![20210916_IMG_6659.jpeg](20210916_IMG_6659.jpeg)
+
+![20210916_IMG_6660.jpeg](20210916_IMG_6660.jpeg)
+
+![20210916_IMG_6661.jpeg](20210916_IMG_6661.jpeg)
+
+<hr />
+
+Eating some salmon, rice, *nattō*, and asparagus for dinner.
+
+![20210916_IMG_7499.jpeg](20210916_IMG_7499.jpeg)
+
+![20210916_IMG_7500.jpeg](20210916_IMG_7500.jpeg)
+
+![20210916_IMG_7501.jpeg](20210916_IMG_7501.jpeg)
+
+![20210916_IMG_7502.jpeg](20210916_IMG_7502.jpeg)
+
+![20210916_IMG_7503.jpeg](20210916_IMG_7503.jpeg)
+
+![20210916_IMG_7504.jpeg](20210916_IMG_7504.jpeg)
+
+![20210916_IMG_7505.jpeg](20210916_IMG_7505.jpeg)

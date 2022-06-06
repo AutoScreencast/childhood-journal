@@ -1,0 +1,232 @@
+---
+date: "2020-11-14"
+day: 299
+template: "photo-post"
+title: "Bread"
+subtitle: "Day 299 – Saturday, November 14, 2020"
+featuredImage: "20201114_IMG_0386.jpeg"
+---
+
+Today, I’m having (white) **bread** (食パン) for the first time. My Parents toasted it lightly.
+
+<hr />
+
+_Today’s Solid Food Menu:_
+
+**Breakfast**
+
+- White bread (toasted, 5g)
+- Pumpkin (15g)
+- Banana (15g)
+- Rice porridge (30g)
+
+**Lunch**
+
+- Tofu (20g)
+- Broccoli (15g)
+- Rice porridge (30g)
+
+**Dinner**
+
+- White-flesh fish (10g)
+- Apple (25g)
+- Persimmon (15g)
+- Rice porridge with bonito powder (50g)
+
+<hr />
+
+I’m trying toasted white bread for the first time 🍞. It’s dunked in pumpkin 🎃.
+
+![20201114_IMG_0356.jpeg](20201114_IMG_0356.jpeg)
+
+![20201114_IMG_0357.jpeg](20201114_IMG_0357.jpeg)
+
+![20201114_IMG_0358.jpeg](20201114_IMG_0358.jpeg)
+
+![20201114_IMG_0359.jpeg](20201114_IMG_0359.jpeg)
+
+![20201114_IMG_0360.jpeg](20201114_IMG_0360.jpeg)
+
+![20201114_IMG_0361.jpeg](20201114_IMG_0361.jpeg)
+
+![20201114_IMG_0362.jpeg](20201114_IMG_0362.jpeg)
+
+![20201114_IMG_0363.jpeg](20201114_IMG_0363.jpeg)
+
+![20201114_IMG_0364.jpeg](20201114_IMG_0364.jpeg)
+
+![20201114_IMG_0365.jpeg](20201114_IMG_0365.jpeg)
+
+![20201114_IMG_0367.jpeg](20201114_IMG_0367.jpeg)
+
+![20201114_IMG_0368.jpeg](20201114_IMG_0368.jpeg)
+
+![20201114_IMG_0369.jpeg](20201114_IMG_0369.jpeg)
+
+![20201114_IMG_0370.jpeg](20201114_IMG_0370.jpeg)
+
+![20201114_IMG_0371.jpeg](20201114_IMG_0371.jpeg)
+
+![20201114_IMG_0372.jpeg](20201114_IMG_0372.jpeg)
+
+![20201114_IMG_0373.jpeg](20201114_IMG_0373.jpeg)
+
+![20201114_IMG_0374.jpeg](20201114_IMG_0374.jpeg)
+
+I’m able to hold the bread myself and eat it!
+
+![20201114_IMG_0375.jpeg](20201114_IMG_0375.jpeg)
+
+![20201114_IMG_0376.jpeg](20201114_IMG_0376.jpeg)
+
+![20201114_IMG_0377.jpeg](20201114_IMG_0377.jpeg)
+
+![20201114_IMG_0378.jpeg](20201114_IMG_0378.jpeg)
+
+Yum! Bread is good 😋 …
+
+![20201114_IMG_0379.jpeg](20201114_IMG_0379.jpeg)
+
+![20201114_IMG_0380.jpeg](20201114_IMG_0380.jpeg)
+
+![20201114_IMG_0381.jpeg](20201114_IMG_0381.jpeg)
+
+![20201114_IMG_0382.jpeg](20201114_IMG_0382.jpeg)
+
+![20201114_IMG_0383.jpeg](20201114_IMG_0383.jpeg)
+
+![20201114_IMG_0384.jpeg](20201114_IMG_0384.jpeg)
+
+![20201114_IMG_0385.jpeg](20201114_IMG_0385.jpeg)
+
+![20201114_IMG_0386.jpeg](20201114_IMG_0386.jpeg)
+
+Finger-licking good!
+
+![20201114_IMG_0387.jpeg](20201114_IMG_0387.jpeg)
+
+![20201114_IMG_0388.jpeg](20201114_IMG_0388.jpeg)
+
+![20201114_IMG_0389.jpeg](20201114_IMG_0389.jpeg)
+
+![20201114_IMG_0390.jpeg](20201114_IMG_0390.jpeg)
+
+![20201114_IMG_0391.jpeg](20201114_IMG_0391.jpeg)
+
+![20201114_IMG_0392.jpeg](20201114_IMG_0392.jpeg)
+
+<hr />
+
+At *Caffèra* this morning.
+
+![20201114_IMG_0393.jpeg](20201114_IMG_0393.jpeg)
+
+![20201114_IMG_0394.jpeg](20201114_IMG_0394.jpeg)
+
+![20201114_IMG_0395.jpeg](20201114_IMG_0395.jpeg)
+
+![20201114_IMG_0396.jpeg](20201114_IMG_0396.jpeg)
+
+![20201114_IMG_0397.jpeg](20201114_IMG_0397.jpeg)
+
+<hr />
+
+Back at home.
+
+![20201114_IMG_0398.jpeg](20201114_IMG_0398.jpeg)
+
+![20201114_IMG_4283.jpeg](20201114_IMG_4283.jpeg)
+
+![20201114_IMG_4284.jpeg](20201114_IMG_4284.jpeg)
+
+![20201114_IMG_4285.jpeg](20201114_IMG_4285.jpeg)
+
+![20201114_IMG_4286.jpeg](20201114_IMG_4286.jpeg)
+
+![20201114_IMG_4287.jpeg](20201114_IMG_4287.jpeg)
+
+![20201114_IMG_4288.jpeg](20201114_IMG_4288.jpeg)
+
+<hr />
+
+Laying in my playpen in the late afternoon.
+
+![20201114_IMG_0399.jpeg](20201114_IMG_0399.jpeg)
+
+![20201114_IMG_0400.jpeg](20201114_IMG_0400.jpeg)
+
+![20201114_IMG_0401.jpeg](20201114_IMG_0401.jpeg)
+
+![20201114_IMG_0402.jpeg](20201114_IMG_0402.jpeg)
+
+![20201114_IMG_0403.jpeg](20201114_IMG_0403.jpeg)
+
+![20201114_IMG_0404.jpeg](20201114_IMG_0404.jpeg)
+
+![20201114_IMG_0405.jpeg](20201114_IMG_0405.jpeg)
+
+![20201114_IMG_0406.jpeg](20201114_IMG_0406.jpeg)
+
+![20201114_IMG_0407.jpeg](20201114_IMG_0407.jpeg)
+
+![20201114_IMG_0408.jpeg](20201114_IMG_0408.jpeg)
+
+![20201114_IMG_0409.jpeg](20201114_IMG_0409.jpeg)
+
+![20201114_IMG_0410.jpeg](20201114_IMG_0410.jpeg)
+
+![20201114_IMG_0411.jpeg](20201114_IMG_0411.jpeg)
+
+![20201114_IMG_0412.jpeg](20201114_IMG_0412.jpeg)
+
+![20201114_IMG_0413.jpeg](20201114_IMG_0413.jpeg)
+
+![20201114_IMG_0414.jpeg](20201114_IMG_0414.jpeg)
+
+![20201114_IMG_0415.jpeg](20201114_IMG_0415.jpeg)
+
+![20201114_IMG_0416.jpeg](20201114_IMG_0416.jpeg)
+
+![20201114_IMG_0417.jpeg](20201114_IMG_0417.jpeg)
+
+![20201114_IMG_0418.jpeg](20201114_IMG_0418.jpeg)
+
+![20201114_IMG_0419.jpeg](20201114_IMG_0419.jpeg)
+
+![20201114_IMG_0420.jpeg](20201114_IMG_0420.jpeg)
+
+![20201114_IMG_0421.jpeg](20201114_IMG_0421.jpeg)
+
+![20201114_IMG_0422.jpeg](20201114_IMG_0422.jpeg)
+
+![20201114_IMG_0423.jpeg](20201114_IMG_0423.jpeg)
+
+![20201114_IMG_0424.jpeg](20201114_IMG_0424.jpeg)
+
+![20201114_IMG_0425.jpeg](20201114_IMG_0425.jpeg)
+
+![20201114_IMG_0426.jpeg](20201114_IMG_0426.jpeg)
+
+![20201114_IMG_0427.jpeg](20201114_IMG_0427.jpeg)
+
+![20201114_IMG_0428.jpeg](20201114_IMG_0428.jpeg)
+
+![20201114_IMG_0429.jpeg](20201114_IMG_0429.jpeg)
+
+![20201114_IMG_0430.jpeg](20201114_IMG_0430.jpeg)
+
+![20201114_IMG_0431.jpeg](20201114_IMG_0431.jpeg)
+
+![20201114_IMG_0432.jpeg](20201114_IMG_0432.jpeg)
+
+![20201114_IMG_0433.jpeg](20201114_IMG_0433.jpeg)
+
+![20201114_IMG_0434.jpeg](20201114_IMG_0434.jpeg)
+
+![20201114_IMG_0435.jpeg](20201114_IMG_0435.jpeg)
+
+![20201114_IMG_0436.jpeg](20201114_IMG_0436.jpeg)
+
+![20201114_IMG_0437.jpeg](20201114_IMG_0437.jpeg)
+
+![20201114_IMG_0438.jpeg](20201114_IMG_0438.jpeg)

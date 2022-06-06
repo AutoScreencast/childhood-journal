@@ -1,0 +1,286 @@
+---
+date: "2020-12-12"
+day: 327
+template: "photo-post"
+title: "Cauliflower"
+subtitle: "Day 327 – Saturday, December 12, 2020"
+featuredImage: "20201212_IMG_1841.jpeg"
+---
+
+Today, I tried **cauliflower** for the first time!
+
+<hr />
+
+_Today’s Solid Food Menu:_
+
+**Breakfast**
+
+- Tofu (10g)
+- Tuna (15g)
+- Broccoli (5g)
+- White bread (10g)
+- Rice porridge (50g)
+
+**Lunch**
+
+- Tofu (10g)
+- Tuna (15g)
+- Rice porridge (50g)
+
+**Dinner**
+
+- Tofu (10g)
+- Tuna (15g)
+- Broccoli (5g)
+- Cauliflower (5g)
+- Rice porridge (50g)
+
+<hr />
+
+Breakfast time.
+
+![20201212_IMG_1765.jpeg](20201212_IMG_1765.jpeg)
+
+Not enjoying the food much this morning.
+
+![20201212_IMG_1764.jpeg](20201212_IMG_1764.jpeg)
+
+![20201212_IMG_1766.jpeg](20201212_IMG_1766.jpeg)
+
+![20201212_IMG_1767.jpeg](20201212_IMG_1767.jpeg)
+
+![20201212_IMG_1768.jpeg](20201212_IMG_1768.jpeg)
+
+![20201212_IMG_1769.jpeg](20201212_IMG_1769.jpeg)
+
+![20201212_IMG_1770.jpeg](20201212_IMG_1770.jpeg)
+
+![20201212_IMG_1771.jpeg](20201212_IMG_1771.jpeg)
+
+![20201212_IMG_1772.jpeg](20201212_IMG_1772.jpeg)
+
+![20201212_IMG_1773.jpeg](20201212_IMG_1773.jpeg)
+
+![20201212_IMG_1774.jpeg](20201212_IMG_1774.jpeg)
+
+![20201212_IMG_1775.jpeg](20201212_IMG_1775.jpeg)
+
+![20201212_IMG_1776.jpeg](20201212_IMG_1776.jpeg)
+
+![20201212_IMG_1777.jpeg](20201212_IMG_1777.jpeg)
+
+![20201212_IMG_1778.jpeg](20201212_IMG_1778.jpeg)
+
+![20201212_IMG_1779.jpeg](20201212_IMG_1779.jpeg)
+
+![20201212_IMG_1780.jpeg](20201212_IMG_1780.jpeg)
+
+![20201212_IMG_1781.jpeg](20201212_IMG_1781.jpeg)
+
+![20201212_IMG_1782.jpeg](20201212_IMG_1782.jpeg)
+
+<hr />
+
+We’re at TAP this morning.
+
+![20201212_IMG_1783.jpeg](20201212_IMG_1783.jpeg)
+
+![20201212_IMG_1784.jpeg](20201212_IMG_1784.jpeg)
+
+![20201212_IMG_1785.jpeg](20201212_IMG_1785.jpeg)
+
+![20201212_IMG_1786.jpeg](20201212_IMG_1786.jpeg)
+
+![20201212_IMG_1787.jpeg](20201212_IMG_1787.jpeg)
+
+![20201212_IMG_1788.jpeg](20201212_IMG_1788.jpeg)
+
+![20201212_IMG_1789.jpeg](20201212_IMG_1789.jpeg)
+
+![20201212_IMG_1790.jpeg](20201212_IMG_1790.jpeg)
+
+![20201212_IMG_1791.jpeg](20201212_IMG_1791.jpeg)
+
+![20201212_IMG_1792.jpeg](20201212_IMG_1792.jpeg)
+
+![20201212_IMG_1793.jpeg](20201212_IMG_1793.jpeg)
+
+![20201212_IMG_1794.jpeg](20201212_IMG_1794.jpeg)
+
+![20201212_IMG_1795.jpeg](20201212_IMG_1795.jpeg)
+
+![20201212_IMG_1796.jpeg](20201212_IMG_1796.jpeg)
+
+![20201212_IMG_1797.jpeg](20201212_IMG_1797.jpeg)
+
+![20201212_IMG_1798.jpeg](20201212_IMG_1798.jpeg)
+
+![20201212_IMG_1799.jpeg](20201212_IMG_1799.jpeg)
+
+![20201212_IMG_1800.jpeg](20201212_IMG_1800.jpeg)
+
+![20201212_IMG_1801.jpeg](20201212_IMG_1801.jpeg)
+
+![20201212_IMG_1802.jpeg](20201212_IMG_1802.jpeg)
+
+![20201212_IMG_1803.jpeg](20201212_IMG_1803.jpeg)
+
+![20201212_IMG_1804.jpeg](20201212_IMG_1804.jpeg)
+
+![20201212_IMG_1805.jpeg](20201212_IMG_1805.jpeg)
+
+![20201212_IMG_1806.jpeg](20201212_IMG_1806.jpeg)
+
+![20201212_IMG_1807.jpeg](20201212_IMG_1807.jpeg)
+
+![20201212_IMG_1808.jpeg](20201212_IMG_1808.jpeg)
+
+![20201212_IMG_1809.jpeg](20201212_IMG_1809.jpeg)
+
+![20201212_IMG_1810.jpeg](20201212_IMG_1810.jpeg)
+
+![20201212_IMG_1811.jpeg](20201212_IMG_1811.jpeg)
+
+![20201212_IMG_1812.jpeg](20201212_IMG_1812.jpeg)
+
+![20201212_IMG_1813.jpeg](20201212_IMG_1813.jpeg)
+
+![20201212_IMG_1814.jpeg](20201212_IMG_1814.jpeg)
+
+![20201212_IMG_1815.jpeg](20201212_IMG_1815.jpeg)
+
+![20201212_IMG_1816.jpeg](20201212_IMG_1816.jpeg)
+
+![20201212_IMG_1817.jpeg](20201212_IMG_1817.jpeg)
+
+![20201212_IMG_1818.jpeg](20201212_IMG_1818.jpeg)
+
+![20201212_IMG_1819.jpeg](20201212_IMG_1819.jpeg)
+
+![20201212_IMG_1820.jpeg](20201212_IMG_1820.jpeg)
+
+![20201212_IMG_1821.jpeg](20201212_IMG_1821.jpeg)
+
+![20201212_IMG_1822.jpeg](20201212_IMG_1822.jpeg)
+
+![20201212_IMG_1823.jpeg](20201212_IMG_1823.jpeg)
+
+![20201212_IMG_1824.jpeg](20201212_IMG_1824.jpeg)
+
+![20201212_IMG_1825.jpeg](20201212_IMG_1825.jpeg)
+
+![20201212_IMG_1826.jpeg](20201212_IMG_1826.jpeg)
+
+![20201212_IMG_1827.jpeg](20201212_IMG_1827.jpeg)
+
+![20201212_IMG_1828.jpeg](20201212_IMG_1828.jpeg)
+
+![20201212_IMG_1829.jpeg](20201212_IMG_1829.jpeg)
+
+<hr />
+
+I took a nap in the afternoon, and just woke up…
+
+![20201212_IMG_1830.jpeg](20201212_IMG_1830.jpeg)
+
+![20201212_IMG_1831.jpeg](20201212_IMG_1831.jpeg)
+
+![20201212_IMG_1832.jpeg](20201212_IMG_1832.jpeg)
+
+<hr />
+
+We went to the illuminated Keyakizaka street again today. You can see Tokyo Tower in the background! 🗼
+
+![20201212_IMG_1834.jpeg](20201212_IMG_1834.jpeg)
+
+![20201212_IMG_1835.jpeg](20201212_IMG_1835.jpeg)
+
+![20201212_IMG_1836.jpeg](20201212_IMG_1836.jpeg)
+
+![20201212_IMG_1837.jpeg](20201212_IMG_1837.jpeg)
+
+![20201212_IMG_1838.jpeg](20201212_IMG_1838.jpeg)
+
+![20201212_IMG_1839.jpeg](20201212_IMG_1839.jpeg)
+
+![20201212_IMG_1840.jpeg](20201212_IMG_1840.jpeg)
+
+![20201212_IMG_1841.jpeg](20201212_IMG_1841.jpeg)
+
+![20201212_IMG_1842.jpeg](20201212_IMG_1842.jpeg)
+
+![20201212_IMG_1843.jpeg](20201212_IMG_1843.jpeg)
+
+![20201212_IMG_1844.jpeg](20201212_IMG_1844.jpeg)
+
+![20201212_IMG_1845.jpeg](20201212_IMG_1845.jpeg)
+
+![20201212_IMG_1846.jpeg](20201212_IMG_1846.jpeg)
+
+![20201212_IMG_1847.jpeg](20201212_IMG_1847.jpeg)
+
+![20201212_IMG_1848.jpeg](20201212_IMG_1848.jpeg)
+
+![20201212_IMG_1849.jpeg](20201212_IMG_1849.jpeg)
+
+![20201212_IMG_1850.jpeg](20201212_IMG_1850.jpeg)
+
+![20201212_IMG_1851.jpeg](20201212_IMG_1851.jpeg)
+
+![20201212_IMG_1852.jpeg](20201212_IMG_1852.jpeg)
+
+![20201212_IMG_1853.jpeg](20201212_IMG_1853.jpeg)
+
+![20201212_IMG_1854.jpeg](20201212_IMG_1854.jpeg)
+
+![20201212_IMG_1855.jpeg](20201212_IMG_1855.jpeg)
+
+![20201212_IMG_1856.jpeg](20201212_IMG_1856.jpeg)
+
+<hr />
+
+On the way back home, we passed by <a href="https://goo.gl/maps/qYoTecP9oxf3ztia9">Patio-Juban</a>.
+
+![20201212_IMG_1857.jpeg](20201212_IMG_1857.jpeg)
+
+This is where the Statue of Kimi-chan is.
+
+![20201212_IMG_1858.jpeg](20201212_IMG_1858.jpeg)
+
+![20201212_IMG_1859.jpeg](20201212_IMG_1859.jpeg)
+
+![20201212_IMG_1860.jpeg](20201212_IMG_1860.jpeg)
+
+<hr />
+
+It’s dinner time, and time to try some cauliflower.
+
+![20201212_IMG_1861.jpeg](20201212_IMG_1861.jpeg)
+
+![20201212_IMG_1862.jpeg](20201212_IMG_1862.jpeg)
+
+![20201212_IMG_1863.jpeg](20201212_IMG_1863.jpeg)
+
+![20201212_IMG_1864.jpeg](20201212_IMG_1864.jpeg)
+
+![20201212_IMG_1865.jpeg](20201212_IMG_1865.jpeg)
+
+![20201212_IMG_1866.jpeg](20201212_IMG_1866.jpeg)
+
+![20201212_IMG_1867.jpeg](20201212_IMG_1867.jpeg)
+
+![20201212_IMG_1868.jpeg](20201212_IMG_1868.jpeg)
+
+![20201212_IMG_1869.jpeg](20201212_IMG_1869.jpeg)
+
+![20201212_IMG_1870.jpeg](20201212_IMG_1870.jpeg)
+
+![20201212_IMG_1871.jpeg](20201212_IMG_1871.jpeg)
+
+![20201212_IMG_1872.jpeg](20201212_IMG_1872.jpeg)
+
+![20201212_IMG_1873.jpeg](20201212_IMG_1873.jpeg)
+
+![20201212_IMG_1874.jpeg](20201212_IMG_1874.jpeg)
+
+![20201212_IMG_1875.jpeg](20201212_IMG_1875.jpeg)

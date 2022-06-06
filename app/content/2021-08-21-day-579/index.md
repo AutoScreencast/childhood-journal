@@ -1,0 +1,252 @@
+---
+date: "2021-08-21"
+day: 579
+template: "photo-post"
+title: "Hummus"
+subtitle: "Day 579 – Saturday, August 21, 2021"
+featuredImage: "20210821_IMG_5339.jpeg"
+---
+
+It’s breakfast time!
+
+What’s this, Dad? <a href="https://en.wikipedia.org/wiki/Hummus">Hummus</a> (フムス)?
+
+![20210821_IMG_5267.jpeg](20210821_IMG_5267.jpeg)
+
+![20210821_IMG_5268.jpeg](20210821_IMG_5268.jpeg)
+
+![20210821_IMG_5269.jpeg](20210821_IMG_5269.jpeg)
+
+![20210821_IMG_5270.jpeg](20210821_IMG_5270.jpeg)
+
+![20210821_IMG_5271.jpeg](20210821_IMG_5271.jpeg)
+
+![20210821_IMG_5272.jpeg](20210821_IMG_5272.jpeg)
+
+Hummus on a cracker. Let’s give it a try!
+
+![20210821_IMG_5273.jpeg](20210821_IMG_5273.jpeg)
+
+![20210821_IMG_5274.jpeg](20210821_IMG_5274.jpeg)
+
+![20210821_IMG_5275.jpeg](20210821_IMG_5275.jpeg)
+
+![20210821_IMG_5276.jpeg](20210821_IMG_5276.jpeg)
+
+Tastes good…
+
+![20210821_IMG_5277.jpeg](20210821_IMG_5277.jpeg)
+
+![20210821_IMG_5278.jpeg](20210821_IMG_5278.jpeg)
+
+![20210821_IMG_5279.jpeg](20210821_IMG_5279.jpeg)
+
+![20210821_IMG_5280.jpeg](20210821_IMG_5280.jpeg)
+
+<hr />
+
+We went to _Shinjuku Gyoen_ today, and I’m playing at the drinking fountain.
+
+![20210821_IMG_5281.jpeg](20210821_IMG_5281.jpeg)
+
+![20210821_IMG_5282.jpeg](20210821_IMG_5282.jpeg)
+
+![20210821_IMG_5283.jpeg](20210821_IMG_5283.jpeg)
+
+![20210821_IMG_5284.jpeg](20210821_IMG_5284.jpeg)
+
+![20210821_IMG_5285.jpeg](20210821_IMG_5285.jpeg)
+
+![20210821_IMG_5286.jpeg](20210821_IMG_5286.jpeg)
+
+![20210821_IMG_5287.jpeg](20210821_IMG_5287.jpeg)
+
+![20210821_IMG_5288.jpeg](20210821_IMG_5288.jpeg)
+
+Time to play ball!
+
+![20210821_IMG_5289.jpeg](20210821_IMG_5289.jpeg)
+
+![20210821_IMG_5290.jpeg](20210821_IMG_5290.jpeg)
+
+![20210821_IMG_5291.jpeg](20210821_IMG_5291.jpeg)
+
+![20210821_IMG_5292.jpeg](20210821_IMG_5292.jpeg)
+
+![20210821_IMG_5293.jpeg](20210821_IMG_5293.jpeg)
+
+![20210821_IMG_5294.jpeg](20210821_IMG_5294.jpeg)
+
+![20210821_IMG_5295.jpeg](20210821_IMG_5295.jpeg)
+
+![20210821_IMG_5296.jpeg](20210821_IMG_5296.jpeg)
+
+![20210821_IMG_5297.jpeg](20210821_IMG_5297.jpeg)
+
+![20210821_IMG_5298_1.jpeg](20210821_IMG_5298_1.jpeg)
+
+![20210821_IMG_5298_2.jpeg](20210821_IMG_5298_2.jpeg)
+
+![20210821_IMG_5299.jpeg](20210821_IMG_5299.jpeg)
+
+![20210821_IMG_5300.jpeg](20210821_IMG_5300.jpeg)
+
+![20210821_IMG_5301.jpeg](20210821_IMG_5301.jpeg)
+
+![20210821_IMG_5302.jpeg](20210821_IMG_5302.jpeg)
+
+![20210821_IMG_5303.jpeg](20210821_IMG_5303.jpeg)
+
+![20210821_IMG_5304.jpeg](20210821_IMG_5304.jpeg)
+
+![20210821_IMG_5305.jpeg](20210821_IMG_5305.jpeg)
+
+Playing with some twigs…
+
+![20210821_IMG_5306.jpeg](20210821_IMG_5306.jpeg)
+
+![20210821_IMG_5307.jpeg](20210821_IMG_5307.jpeg)
+
+![20210821_IMG_5308.jpeg](20210821_IMG_5308.jpeg)
+
+![20210821_IMG_5309.jpeg](20210821_IMG_5309.jpeg)
+
+![20210821_IMG_5310.jpeg](20210821_IMG_5310.jpeg)
+
+![20210821_IMG_5311.jpeg](20210821_IMG_5311.jpeg)
+
+![20210821_IMG_5312.jpeg](20210821_IMG_5312.jpeg)
+
+![20210821_IMG_5313.jpeg](20210821_IMG_5313.jpeg)
+
+![20210821_IMG_5314.jpeg](20210821_IMG_5314.jpeg)
+
+![20210821_IMG_5315.jpeg](20210821_IMG_5315.jpeg)
+
+![20210821_IMG_5316.jpeg](20210821_IMG_5316.jpeg)
+
+![20210821_IMG_5317.jpeg](20210821_IMG_5317.jpeg)
+
+Eating a cracker…
+
+![20210821_IMG_5318.jpeg](20210821_IMG_5318.jpeg)
+
+![20210821_IMG_5319.jpeg](20210821_IMG_5319.jpeg)
+
+![20210821_IMG_5320.jpeg](20210821_IMG_5320.jpeg)
+
+![20210821_IMG_5321.jpeg](20210821_IMG_5321.jpeg)
+
+![20210821_IMG_5322.jpeg](20210821_IMG_5322.jpeg)
+
+![20210821_IMG_5323.jpeg](20210821_IMG_5323.jpeg)
+
+![20210821_IMG_5324.jpeg](20210821_IMG_5324.jpeg)
+
+Drinking water from a paper coffee cup.
+
+![20210821_IMG_5325.jpeg](20210821_IMG_5325.jpeg)
+
+![20210821_IMG_5326.jpeg](20210821_IMG_5326.jpeg)
+
+![20210821_IMG_5327.jpeg](20210821_IMG_5327.jpeg)
+
+![20210821_IMG_5328.jpeg](20210821_IMG_5328.jpeg)
+
+![20210821_IMG_5329.jpeg](20210821_IMG_5329.jpeg)
+
+![20210821_IMG_5330.jpeg](20210821_IMG_5330.jpeg)
+
+![20210821_IMG_5331.jpeg](20210821_IMG_5331.jpeg)
+
+![20210821_IMG_5332.jpeg](20210821_IMG_5332.jpeg)
+
+![20210821_IMG_5333.jpeg](20210821_IMG_5333.jpeg)
+
+It’s so hot and sunny — it’s time to wear a hat.
+
+![20210821_IMG_5334.jpeg](20210821_IMG_5334.jpeg)
+
+![20210821_IMG_5335.jpeg](20210821_IMG_5335.jpeg)
+
+![20210821_IMG_5336.jpeg](20210821_IMG_5336.jpeg)
+
+![20210821_IMG_5337.jpeg](20210821_IMG_5337.jpeg)
+
+![20210821_IMG_5338.jpeg](20210821_IMG_5338.jpeg)
+
+![20210821_IMG_5339.jpeg](20210821_IMG_5339.jpeg)
+
+![20210821_IMG_5340.jpeg](20210821_IMG_5340.jpeg)
+
+![20210821_IMG_5341.jpeg](20210821_IMG_5341.jpeg)
+
+![20210821_IMG_5342.jpeg](20210821_IMG_5342.jpeg)
+
+![20210821_IMG_5343.jpeg](20210821_IMG_5343.jpeg)
+
+Taking a break.
+
+![20210821_IMG_5344.jpeg](20210821_IMG_5344.jpeg)
+
+![20210821_IMG_5345.jpeg](20210821_IMG_5345.jpeg)
+
+![20210821_IMG_5346.jpeg](20210821_IMG_5346.jpeg)
+
+![20210821_IMG_5347.jpeg](20210821_IMG_5347.jpeg)
+
+![20210821_IMG_5348.jpeg](20210821_IMG_5348.jpeg)
+
+![20210821_IMG_5349.jpeg](20210821_IMG_5349.jpeg)
+
+![20210821_IMG_5350.jpeg](20210821_IMG_5350.jpeg)
+
+![20210821_IMG_5351.jpeg](20210821_IMG_5351.jpeg)
+
+![20210821_IMG_5352.jpeg](20210821_IMG_5352.jpeg)
+
+Walking in the park with Dad.
+
+![20210821_IMG_7068.jpeg](20210821_IMG_7068.jpeg)
+
+![20210821_IMG_7069.jpeg](20210821_IMG_7069.jpeg)
+
+After the park, we went to have lunch at _<a href="https://japanrestaurant.net/en/shop/hibiki-shinjuku-southern-tower/">Hibiki</a>_.
+
+![20210821_IMG_5353.jpeg](20210821_IMG_5353.jpeg)
+
+![20210821_IMG_5354.jpeg](20210821_IMG_5354.jpeg)
+
+![20210821_IMG_5355.jpeg](20210821_IMG_5355.jpeg)
+
+Getting changed after lunch.
+
+![20210821_IMG_7070.jpeg](20210821_IMG_7070.jpeg)
+
+![20210821_IMG_7071.jpeg](20210821_IMG_7071.jpeg)
+
+![20210821_IMG_7072.jpeg](20210821_IMG_7072.jpeg)
+
+![20210821_IMG_7073.jpeg](20210821_IMG_7073.jpeg)
+
+![20210821_IMG_7074.jpeg](20210821_IMG_7074.jpeg)
+
+<hr />
+
+Playing before bedtime…
+
+![20210821_IMG_7077.jpeg](20210821_IMG_7077.jpeg)
+
+Getting ready for bed. 🛏
+
+![20210821_IMG_7075_1.jpeg](20210821_IMG_7075_1.jpeg)
+
+![20210821_IMG_7075_2.jpeg](20210821_IMG_7075_2.jpeg)
+
+Fast asleep now… 😴
+
+![20210821_IMG_7078.jpeg](20210821_IMG_7078.jpeg)
+
+![20210821_IMG_7079.jpeg](20210821_IMG_7079.jpeg)
+
+![20210821_IMG_7080.jpeg](20210821_IMG_7080.jpeg)

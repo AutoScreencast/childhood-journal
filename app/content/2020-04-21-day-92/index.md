@@ -1,0 +1,80 @@
+---
+date: "2020-04-21"
+day: 92
+template: "photo-post"
+title: "Cranky Pants"
+subtitle: "Day 92 – Tuesday, April 21, 2020"
+featuredImage: "20200421_IMG_3934.jpeg"
+---
+
+I’m usually cranky the day after vaccinations.
+
+![20200421_IMG_3934.jpeg](20200421_IMG_3934.jpeg)
+
+![20200421_IMG_3935.jpeg](20200421_IMG_3935.jpeg)
+
+![20200421_IMG_3936.jpeg](20200421_IMG_3936.jpeg)
+
+![20200421_IMG_3937.jpeg](20200421_IMG_3937.jpeg)
+
+![20200421_IMG_3938.jpeg](20200421_IMG_3938.jpeg)
+
+![20200421_IMG_3939.jpeg](20200421_IMG_3939.jpeg)
+
+![20200421_IMG_3940.jpeg](20200421_IMG_3940.jpeg)
+
+![20200421_IMG_3941.jpeg](20200421_IMG_3941.jpeg)
+
+![20200421_IMG_3942.jpeg](20200421_IMG_3942.jpeg)
+
+![20200421_IMG_3943.jpeg](20200421_IMG_3943.jpeg)
+
+![20200421_IMG_3944.jpeg](20200421_IMG_3944.jpeg)
+
+![20200421_IMG_3945.jpeg](20200421_IMG_3945.jpeg)
+
+![20200421_IMG_3946.jpeg](20200421_IMG_3946.jpeg)
+
+![20200421_IMG_3947.jpeg](20200421_IMG_3947.jpeg)
+
+![20200421_IMG_3948.jpeg](20200421_IMG_3948.jpeg)
+
+![20200421_IMG_3949.jpeg](20200421_IMG_3949.jpeg)
+
+![20200421_IMG_3950.jpeg](20200421_IMG_3950.jpeg)
+
+![20200421_IMG_3951.jpeg](20200421_IMG_3951.jpeg)
+
+![20200421_IMG_3952.jpeg](20200421_IMG_3952.jpeg)
+
+![20200421_IMG_3953.jpeg](20200421_IMG_3953.jpeg)
+
+![20200421_IMG_3954.jpeg](20200421_IMG_3954.jpeg)
+
+![20200421_IMG_3955.jpeg](20200421_IMG_3955.jpeg)
+
+![20200421_IMG_3956.jpeg](20200421_IMG_3956.jpeg)
+
+![20200421_IMG_3957.jpeg](20200421_IMG_3957.jpeg)
+
+![20200421_IMG_3958.jpeg](20200421_IMG_3958.jpeg)
+
+<hr />
+
+A rare smile …
+
+![20200421_IMG_1583.jpeg](20200421_IMG_1583.jpeg)
+
+![20200421_IMG_1584.jpeg](20200421_IMG_1584.jpeg)
+
+<hr />
+
+Lots of naps today.
+
+![20200421_IMG_3933.jpeg](20200421_IMG_3933.jpeg)
+
+<hr />
+
+In bed at the end of the day.
+
+![20200421_IMG_3959.jpeg](20200421_IMG_3959.jpeg)

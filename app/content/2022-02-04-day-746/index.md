@@ -1,0 +1,60 @@
+---
+date: "2022-02-04"
+day: 746
+template: "photo-post"
+title: "The Number 10"
+subtitle: "Day 746 – Friday, February 4, 2022"
+featuredImage: "20220204_IMG_7490.jpeg"
+---
+
+Today, I’m learning <b>the number 10</b>…
+
+![20220204_IMG_7490.jpeg](20220204_IMG_7490.jpeg)
+
+I have 10 crayons!&nbsp;&nbsp;🖍🖍🖍🖍🖍&nbsp;&nbsp;&nbsp;🖍🖍🖍🖍🖍
+
+![20220204_IMG_7491.jpeg](20220204_IMG_7491.jpeg)
+
+![20220204_IMG_7492.jpeg](20220204_IMG_7492.jpeg)
+
+![20220204_IMG_7493.jpeg](20220204_IMG_7493.jpeg)
+
+![20220204_IMG_7494.jpeg](20220204_IMG_7494.jpeg)
+
+![20220204_IMG_7495.jpeg](20220204_IMG_7495.jpeg)
+
+![20220204_IMG_7496.jpeg](20220204_IMG_7496.jpeg)
+
+![20220204_IMG_7497.jpeg](20220204_IMG_7497.jpeg)
+
+![20220204_IMG_7498.jpeg](20220204_IMG_7498.jpeg)
+
+![20220204_IMG_7499.jpeg](20220204_IMG_7499.jpeg)
+
+![20220204_IMG_7500.jpeg](20220204_IMG_7500.jpeg)
+
+![20220204_IMG_7501.jpeg](20220204_IMG_7501.jpeg)
+
+![20220204_IMG_7502.jpeg](20220204_IMG_7502.jpeg)
+
+![20220204_IMG_7503.jpeg](20220204_IMG_7503.jpeg)
+
+![20220204_IMG_7504.jpeg](20220204_IMG_7504.jpeg)
+
+![20220204_IMG_7505.jpeg](20220204_IMG_7505.jpeg)
+
+![20220204_IMG_7506.jpeg](20220204_IMG_7506.jpeg)
+
+![20220204_IMG_7507.jpeg](20220204_IMG_7507.jpeg)
+
+![20220204_IMG_7508.jpeg](20220204_IMG_7508.jpeg)
+
+![20220204_IMG_7509.jpeg](20220204_IMG_7509.jpeg)
+
+![20220204_IMG_7510.jpeg](20220204_IMG_7510.jpeg)
+
+![20220204_IMG_7511.jpeg](20220204_IMG_7511.jpeg)
+
+![20220204_IMG_7512.jpeg](20220204_IMG_7512.jpeg)
+
+![20220204_IMG_7513.jpeg](20220204_IMG_7513.jpeg)

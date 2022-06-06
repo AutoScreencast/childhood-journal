@@ -1,0 +1,126 @@
+---
+date: "2020-05-16"
+day: 117
+template: "photo-post"
+title: "Staying Indoors on a Rainy Saturday"
+subtitle: "Day 117 – Saturday, May 16, 2020"
+featuredImage: "20200516_IMG_4630.jpeg"
+---
+
+Today, it’s raining outside, so we can’t go to the park. Instead, we’re spending some time in the lobby of our apartment building.
+
+![20200516_IMG_1911.jpg](20200516_IMG_1911.jpg)
+
+![20200516_IMG_1912.jpg](20200516_IMG_1912.jpg)
+
+![20200516_IMG_1913.jpg](20200516_IMG_1913.jpg)
+
+![20200516_IMG_1914.jpg](20200516_IMG_1914.jpg)
+
+![20200516_IMG_1915.jpg](20200516_IMG_1915.jpg)
+
+![20200516_IMG_1916.jpg](20200516_IMG_1916.jpg)
+
+![20200516_IMG_4630.jpeg](20200516_IMG_4630.jpeg)
+
+![20200516_IMG_4631.jpeg](20200516_IMG_4631.jpeg)
+
+![20200516_IMG_4632.jpeg](20200516_IMG_4632.jpeg)
+
+Sitting on my Dad’s lap.
+
+![20200516_IMG_1918.jpg](20200516_IMG_1918.jpg)
+
+![20200516_IMG_1919.jpg](20200516_IMG_1919.jpg)
+
+![20200516_IMG_1920.jpg](20200516_IMG_1920.jpg)
+
+![20200516_IMG_1921.jpg](20200516_IMG_1921.jpg)
+
+![20200516_IMG_1922.jpg](20200516_IMG_1922.jpg)
+
+![20200516_IMG_1923.jpeg](20200516_IMG_1923.jpeg)
+
+![20200516_IMG_1924.jpg](20200516_IMG_1924.jpg)
+
+![20200516_IMG_1925.jpg](20200516_IMG_1925.jpg)
+
+![20200516_IMG_1926.jpg](20200516_IMG_1926.jpg)
+
+Oh, look – we’re reflected in the lamp!
+
+![20200516_IMG_1927.jpeg](20200516_IMG_1927.jpeg)
+
+![20200516_IMG_1928.jpeg](20200516_IMG_1928.jpeg)
+
+<hr />
+
+My Parents got me a <a href="https://bumbo.com/product/floor-seat/">Bumbo seat</a>!
+
+![20200516_IMG_4634.jpeg](20200516_IMG_4634.jpeg)
+
+![20200516_IMG_4635.jpeg](20200516_IMG_4635.jpeg)
+
+![20200516_IMG_4636.jpeg](20200516_IMG_4636.jpeg)
+
+![20200516_IMG_4637.jpeg](20200516_IMG_4637.jpeg)
+
+This is pretty comfortable!
+
+![20200516_IMG_4638.jpeg](20200516_IMG_4638.jpeg)
+
+![20200516_IMG_4639.jpeg](20200516_IMG_4639.jpeg)
+
+![20200516_IMG_4640.jpeg](20200516_IMG_4640.jpeg)
+
+![20200516_IMG_4641.jpeg](20200516_IMG_4641.jpeg)
+
+![20200516_IMG_4642.jpeg](20200516_IMG_4642.jpeg)
+
+![20200516_IMG_4643.jpeg](20200516_IMG_4643.jpeg)
+
+![20200516_IMG_4644.jpeg](20200516_IMG_4644.jpeg)
+
+![20200516_IMG_4645.jpeg](20200516_IMG_4645.jpeg)
+
+![20200516_IMG_4646.jpeg](20200516_IMG_4646.jpeg)
+
+![20200516_IMG_4647.jpeg](20200516_IMG_4647.jpeg)
+
+![20200516_IMG_4648.jpeg](20200516_IMG_4648.jpeg)
+
+![20200516_IMG_4649.jpeg](20200516_IMG_4649.jpeg)
+
+![20200516_IMG_4650.jpeg](20200516_IMG_4650.jpeg)
+
+![20200516_IMG_4651.jpeg](20200516_IMG_4651.jpeg)
+
+![20200516_IMG_4652.jpeg](20200516_IMG_4652.jpeg)
+
+![20200516_IMG_4653.jpeg](20200516_IMG_4653.jpeg)
+
+![20200516_IMG_4654.jpeg](20200516_IMG_4654.jpeg)
+
+![20200516_IMG_4655.jpeg](20200516_IMG_4655.jpeg)
+
+![20200516_IMG_4656.jpeg](20200516_IMG_4656.jpeg)
+
+![20200516_IMG_4657.jpeg](20200516_IMG_4657.jpeg)
+
+![20200516_IMG_4658.jpeg](20200516_IMG_4658.jpeg)
+
+![20200516_IMG_4659.jpeg](20200516_IMG_4659.jpeg)
+
+![20200516_IMG_4660.jpeg](20200516_IMG_4660.jpeg)
+
+![20200516_IMG_4661.jpeg](20200516_IMG_4661.jpeg)
+
+![20200516_IMG_4662.jpeg](20200516_IMG_4662.jpeg)
+
+![20200516_IMG_4663.jpeg](20200516_IMG_4663.jpeg)
+
+<hr />
+
+Nap time.
+
+![20200516_IMG_4633.jpeg](20200516_IMG_4633.jpeg)

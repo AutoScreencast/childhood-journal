@@ -1,0 +1,248 @@
+---
+date: "2021-02-21"
+day: 398
+template: "photo-post"
+title: "Mushrooms"
+subtitle: "Day 398 – Sunday, February 21, 2021"
+featuredImage: "20210221_IMG_5544.jpeg"
+---
+
+Today, I’m having **mushrooms** for the first time! 🍄
+
+<hr />
+
+_Today’s Solid Food Menu:_
+
+**Breakfast**
+
+- Yogurt (30g)
+- Banana (25g)
+- Oatmeal (100g)
+
+**Lunch**
+
+- Tuna (25g)
+- Strawberry (1)
+- Mushrooms (5g)
+- Mixed vegetables (30g)
+- Soft rice (90g)
+
+**Dinner**
+
+- Tuna (25g)
+- Strawberries (2)
+- Mushrooms (5g)
+- Mixed vegetables (30g)
+- Soft rice (90g)
+
+<hr />
+
+At TAP again this morning!
+
+![20210221_IMG_4927.jpeg](20210221_IMG_4927.jpeg)
+
+![20210221_IMG_5457.jpeg](20210221_IMG_5457.jpeg)
+
+![20210221_IMG_5458.jpeg](20210221_IMG_5458.jpeg)
+
+![20210221_IMG_5459.jpeg](20210221_IMG_5459.jpeg)
+
+![20210221_IMG_5460.jpeg](20210221_IMG_5460.jpeg)
+
+![20210221_IMG_5461.jpeg](20210221_IMG_5461.jpeg)
+
+![20210221_IMG_5462.jpeg](20210221_IMG_5462.jpeg)
+
+![20210221_IMG_5463.jpeg](20210221_IMG_5463.jpeg)
+
+![20210221_IMG_5464.jpeg](20210221_IMG_5464.jpeg)
+
+![20210221_IMG_5465.jpeg](20210221_IMG_5465.jpeg)
+
+<hr />
+
+For lunch, I’m trying mushrooms for the first time. They’re mixed in with tuna, egg white, and other vegetables, covered in tomato paste.
+
+![20210221_IMG_5466.jpeg](20210221_IMG_5466.jpeg)
+
+![20210221_IMG_5467.jpeg](20210221_IMG_5467.jpeg)
+
+![20210221_IMG_5468.jpeg](20210221_IMG_5468.jpeg)
+
+![20210221_IMG_5469.jpeg](20210221_IMG_5469.jpeg)
+
+![20210221_IMG_5470.jpeg](20210221_IMG_5470.jpeg)
+
+![20210221_IMG_5471.jpeg](20210221_IMG_5471.jpeg)
+
+![20210221_IMG_5472.jpeg](20210221_IMG_5472.jpeg)
+
+![20210221_IMG_5473.jpeg](20210221_IMG_5473.jpeg)
+
+![20210221_IMG_5474.jpeg](20210221_IMG_5474.jpeg)
+
+![20210221_IMG_5475.jpeg](20210221_IMG_5475.jpeg)
+
+![20210221_IMG_5476.jpeg](20210221_IMG_5476.jpeg)
+
+![20210221_IMG_5477.jpeg](20210221_IMG_5477.jpeg)
+
+![20210221_IMG_5478.jpeg](20210221_IMG_5478.jpeg)
+
+I’m beginning to feel sleepy… It’s about time for my midday nap. 💤 
+
+![20210221_IMG_5479.jpeg](20210221_IMG_5479.jpeg)
+
+![20210221_IMG_5480.jpeg](20210221_IMG_5480.jpeg)
+
+![20210221_IMG_5481.jpeg](20210221_IMG_5481.jpeg)
+
+![20210221_IMG_5482.jpeg](20210221_IMG_5482.jpeg)
+
+<hr />
+
+After my nap, we went to Shiba Park. I’m playing on the spring riders.
+
+![20210221_IMG_5484.jpeg](20210221_IMG_5484.jpeg)
+
+![20210221_IMG_5485.jpeg](20210221_IMG_5485.jpeg)
+
+![20210221_IMG_5486.jpeg](20210221_IMG_5486.jpeg)
+
+![20210221_IMG_5487.jpeg](20210221_IMG_5487.jpeg)
+
+![20210221_IMG_5488.jpeg](20210221_IMG_5488.jpeg)
+
+![20210221_IMG_5489.jpeg](20210221_IMG_5489.jpeg)
+
+![20210221_IMG_5490.jpeg](20210221_IMG_5490.jpeg)
+
+![20210221_IMG_5491.jpeg](20210221_IMG_5491.jpeg)
+
+![20210221_IMG_5492.jpeg](20210221_IMG_5492.jpeg)
+
+![20210221_IMG_5493.jpeg](20210221_IMG_5493.jpeg)
+
+![20210221_IMG_5494.jpeg](20210221_IMG_5494.jpeg)
+
+![20210221_IMG_5495.jpeg](20210221_IMG_5495.jpeg)
+
+![20210221_IMG_5496.jpeg](20210221_IMG_5496.jpeg)
+
+![20210221_IMG_5497.jpeg](20210221_IMG_5497.jpeg)
+
+![20210221_IMG_5498.jpeg](20210221_IMG_5498.jpeg)
+
+![20210221_IMG_5499.jpeg](20210221_IMG_5499.jpeg)
+
+![20210221_IMG_5500.jpeg](20210221_IMG_5500.jpeg)
+
+![20210221_IMG_5501.jpeg](20210221_IMG_5501.jpeg)
+
+![20210221_IMG_5517.jpeg](20210221_IMG_5517.jpeg)
+
+I’m on the swing with my Mum!
+
+![20210221_IMG_5502.jpeg](20210221_IMG_5502.jpeg)
+
+![20210221_IMG_5504.jpeg](20210221_IMG_5504.jpeg)
+
+![20210221_IMG_5505.jpeg](20210221_IMG_5505.jpeg)
+
+![20210221_IMG_5506.jpeg](20210221_IMG_5506.jpeg)
+
+![20210221_IMG_5507.jpeg](20210221_IMG_5507.jpeg)
+
+![20210221_IMG_5508.jpeg](20210221_IMG_5508.jpeg)
+
+![20210221_IMG_5509.jpeg](20210221_IMG_5509.jpeg)
+
+![20210221_IMG_5510.jpeg](20210221_IMG_5510.jpeg)
+
+![20210221_IMG_5511.jpeg](20210221_IMG_5511.jpeg)
+
+![20210221_IMG_5512.jpeg](20210221_IMG_5512.jpeg)
+
+![20210221_IMG_5513.jpeg](20210221_IMG_5513.jpeg)
+
+![20210221_IMG_5514.jpeg](20210221_IMG_5514.jpeg)
+
+![20210221_IMG_5515.jpeg](20210221_IMG_5515.jpeg)
+
+![20210221_IMG_5516.jpeg](20210221_IMG_5516.jpeg)
+
+I’m taking a break.
+
+![20210221_IMG_5519.jpeg](20210221_IMG_5519.jpeg)
+
+![20210221_IMG_5520.jpeg](20210221_IMG_5520.jpeg)
+
+![20210221_IMG_5521.jpeg](20210221_IMG_5521.jpeg)
+
+![20210221_IMG_5522.jpeg](20210221_IMG_5522.jpeg)
+
+![20210221_IMG_5523.jpeg](20210221_IMG_5523.jpeg)
+
+![20210221_IMG_5524.jpeg](20210221_IMG_5524.jpeg)
+
+![20210221_IMG_5525.jpeg](20210221_IMG_5525.jpeg)
+
+![20210221_IMG_5526.jpeg](20210221_IMG_5526.jpeg)
+
+![20210221_IMG_5527.jpeg](20210221_IMG_5527.jpeg)
+
+![20210221_IMG_5528.jpeg](20210221_IMG_5528.jpeg)
+
+![20210221_IMG_5529.jpeg](20210221_IMG_5529.jpeg)
+
+<hr />
+
+After Shiba Park, we went to have coffee at Ueshima No. 11.
+
+![20210221_IMG_5530.jpeg](20210221_IMG_5530.jpeg)
+
+![20210221_IMG_5531.jpeg](20210221_IMG_5531.jpeg)
+
+![20210221_IMG_5532.jpeg](20210221_IMG_5532.jpeg)
+
+![20210221_IMG_5533.jpeg](20210221_IMG_5533.jpeg)
+
+![20210221_IMG_5534.jpeg](20210221_IMG_5534.jpeg)
+
+![20210221_IMG_5535.jpeg](20210221_IMG_5535.jpeg)
+
+![20210221_IMG_5536.jpeg](20210221_IMG_5536.jpeg)
+
+![20210221_IMG_5537.jpeg](20210221_IMG_5537.jpeg)
+
+![20210221_IMG_5538.jpeg](20210221_IMG_5538.jpeg)
+
+![20210221_IMG_5539.jpeg](20210221_IMG_5539.jpeg)
+
+![20210221_IMG_5540.jpeg](20210221_IMG_5540.jpeg)
+
+![20210221_IMG_5541.jpeg](20210221_IMG_5541.jpeg)
+
+![20210221_IMG_5542.jpeg](20210221_IMG_5542.jpeg)
+
+![20210221_IMG_5543.jpeg](20210221_IMG_5543.jpeg)
+
+![20210221_IMG_5544.jpeg](20210221_IMG_5544.jpeg)
+
+![20210221_IMG_5545.jpeg](20210221_IMG_5545.jpeg)
+
+![20210221_IMG_5546.jpeg](20210221_IMG_5546.jpeg)
+
+![20210221_IMG_5547.jpeg](20210221_IMG_5547.jpeg)
+
+![20210221_IMG_5548.jpeg](20210221_IMG_5548.jpeg)
+
+![20210221_IMG_5549.jpeg](20210221_IMG_5549.jpeg)
+
+![20210221_IMG_5550.jpeg](20210221_IMG_5550.jpeg)
+
+![20210221_IMG_5551.jpeg](20210221_IMG_5551.jpeg)
+
+![20210221_IMG_5552.jpeg](20210221_IMG_5552.jpeg)
+
+![20210221_IMG_5553.jpeg](20210221_IMG_5553.jpeg)

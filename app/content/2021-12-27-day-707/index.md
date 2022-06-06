@@ -1,0 +1,72 @@
+---
+date: "2021-12-27"
+day: 707
+template: "photo-post"
+title: "The Number 5"
+subtitle: "Day 707 – Monday, December 27, 2021"
+featuredImage: "20211227_IMG_5317.jpeg"
+---
+
+It’s dinner time!
+
+![20211227_IMG_5301.jpeg](20211227_IMG_5301.jpeg)
+
+![20211227_IMG_5302.jpeg](20211227_IMG_5302.jpeg)
+
+![20211227_IMG_5303.jpeg](20211227_IMG_5303.jpeg)
+
+![20211227_IMG_5304.jpeg](20211227_IMG_5304.jpeg)
+
+![20211227_IMG_5305.jpeg](20211227_IMG_5305.jpeg)
+
+![20211227_IMG_5306.jpeg](20211227_IMG_5306.jpeg)
+
+![20211227_IMG_5307.jpeg](20211227_IMG_5307.jpeg)
+
+![20211227_IMG_5308.jpeg](20211227_IMG_5308.jpeg)
+
+<hr />
+
+Today, I’m learning <b>the number 5</b>…
+
+![20211227_IMG_5309.jpeg](20211227_IMG_5309.jpeg)
+
+![20211227_IMG_5310.jpeg](20211227_IMG_5310.jpeg)
+
+![20211227_IMG_5311.jpeg](20211227_IMG_5311.jpeg)
+
+![20211227_IMG_5312.jpeg](20211227_IMG_5312.jpeg)
+
+I have 5 apples! 🍎🍎🍎🍎🍎
+
+![20211227_IMG_5313.jpeg](20211227_IMG_5313.jpeg)
+
+![20211227_IMG_5314.jpeg](20211227_IMG_5314.jpeg)
+
+![20211227_IMG_5315.jpeg](20211227_IMG_5315.jpeg)
+
+![20211227_IMG_5316.jpeg](20211227_IMG_5316.jpeg)
+
+![20211227_IMG_5317.jpeg](20211227_IMG_5317.jpeg)
+
+![20211227_IMG_5318.jpeg](20211227_IMG_5318.jpeg)
+
+![20211227_IMG_5319.jpeg](20211227_IMG_5319.jpeg)
+
+![20211227_IMG_5320.jpeg](20211227_IMG_5320.jpeg)
+
+![20211227_IMG_5321.jpeg](20211227_IMG_5321.jpeg)
+
+![20211227_IMG_5322.jpeg](20211227_IMG_5322.jpeg)
+
+![20211227_IMG_5323.jpeg](20211227_IMG_5323.jpeg)
+
+![20211227_IMG_5324.jpeg](20211227_IMG_5324.jpeg)
+
+![20211227_IMG_5325.jpeg](20211227_IMG_5325.jpeg)
+
+![20211227_IMG_5326.jpeg](20211227_IMG_5326.jpeg)
+
+![20211227_IMG_5327.jpeg](20211227_IMG_5327.jpeg)
+
+![20211227_IMG_5328.jpeg](20211227_IMG_5328.jpeg)

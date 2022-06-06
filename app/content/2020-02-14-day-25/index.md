@@ -1,0 +1,202 @@
+---
+date: "2020-02-14"
+day: 25
+template: "photo-post"
+title: "Burping"
+subtitle: "Day 25 – Friday, February 14, 2020"
+featuredImage: "20200214_IMG_1570.jpeg"
+---
+
+My Mum is burping me (not throttling me, even though it might look like that! 😆)
+
+![20200214_IMG_1569.jpeg](20200214_IMG_1569.jpeg)
+
+![20200214_IMG_1570.jpeg](20200214_IMG_1570.jpeg)
+
+![20200214_IMG_1571.jpeg](20200214_IMG_1571.jpeg)
+
+![20200214_IMG_1572.jpeg](20200214_IMG_1572.jpeg)
+
+![20200214_IMG_1573.jpeg](20200214_IMG_1573.jpeg)
+
+![20200214_IMG_1575.jpeg](20200214_IMG_1575.jpeg)
+
+![20200214_IMG_1576.jpeg](20200214_IMG_1576.jpeg)
+
+![20200214_IMG_1577.jpeg](20200214_IMG_1577.jpeg)
+
+![20200214_IMG_1578.jpeg](20200214_IMG_1578.jpeg)
+
+![20200214_IMG_1579.jpeg](20200214_IMG_1579.jpeg)
+
+<hr />
+
+OK, Mum. Enough of the burping...
+
+![20200214_IMG_1580.jpeg](20200214_IMG_1580.jpeg)
+
+![20200214_IMG_1581.jpeg](20200214_IMG_1581.jpeg)
+
+![20200214_IMG_1582.jpeg](20200214_IMG_1582.jpeg)
+
+![20200214_IMG_1583.jpeg](20200214_IMG_1583.jpeg)
+
+![20200214_IMG_1584.jpeg](20200214_IMG_1584.jpeg)
+
+![20200214_IMG_1585.jpeg](20200214_IMG_1585.jpeg)
+
+![20200214_IMG_1586.jpeg](20200214_IMG_1586.jpeg)
+
+![20200214_IMG_1587.jpeg](20200214_IMG_1587.jpeg)
+
+![20200214_IMG_1589.jpeg](20200214_IMG_1589.jpeg)
+
+![20200214_IMG_1590.jpeg](20200214_IMG_1590.jpeg)
+
+![20200214_IMG_1591.jpeg](20200214_IMG_1591.jpeg)
+
+![20200214_IMG_1592.jpeg](20200214_IMG_1592.jpeg)
+
+![20200214_IMG_1593.jpeg](20200214_IMG_1593.jpeg)
+
+![20200214_IMG_1594.jpeg](20200214_IMG_1594.jpeg)
+
+![20200214_IMG_1595.jpeg](20200214_IMG_1595.jpeg)
+
+![20200214_IMG_1599.jpeg](20200214_IMG_1599.jpeg)
+
+![20200214_IMG_1600.jpeg](20200214_IMG_1600.jpeg)
+
+<hr />
+
+This is me, relaxed as can be.
+
+![20200214_IMG_1601.jpeg](20200214_IMG_1601.jpeg)
+
+![20200214_IMG_1602.jpeg](20200214_IMG_1602.jpeg)
+
+![20200214_IMG_1603.jpeg](20200214_IMG_1603.jpeg)
+
+![20200214_IMG_1604.jpeg](20200214_IMG_1604.jpeg)
+
+![20200214_IMG_1605.jpeg](20200214_IMG_1605.jpeg)
+
+![20200214_IMG_1606.jpeg](20200214_IMG_1606.jpeg)
+
+![20200214_IMG_1607.jpeg](20200214_IMG_1607.jpeg)
+
+![20200214_IMG_1608.jpeg](20200214_IMG_1608.jpeg)
+
+![20200214_IMG_1609.jpeg](20200214_IMG_1609.jpeg)
+
+![20200214_IMG_1610.jpeg](20200214_IMG_1610.jpeg)
+
+![20200214_IMG_1612.jpeg](20200214_IMG_1612.jpeg)
+
+![20200214_IMG_1613.jpeg](20200214_IMG_1613.jpeg)
+
+![20200214_IMG_1614.jpeg](20200214_IMG_1614.jpeg)
+
+![20200214_IMG_1615.jpeg](20200214_IMG_1615.jpeg)
+
+<hr />
+
+Me and my Mum.
+
+![20200214_IMG_1616.jpeg](20200214_IMG_1616.jpeg)
+
+![20200214_IMG_1617.jpeg](20200214_IMG_1617.jpeg)
+
+![20200214_IMG_1619.jpeg](20200214_IMG_1619.jpeg)
+
+![20200214_IMG_1620.jpeg](20200214_IMG_1620.jpeg)
+
+![20200214_IMG_1623.jpeg](20200214_IMG_1623.jpeg)
+
+<hr />
+
+I was a good boy, so my Parents took me out to eat Nepalese food for lunch!
+
+![20200214_IMG_1626.jpeg](20200214_IMG_1626.jpeg)
+
+![20200214_IMG_1627.jpeg](20200214_IMG_1627.jpeg)
+
+Look at that delicious curry plate! Shame my stomach cannot take solid foods for a while yet...
+
+![20200214_IMG_1628.jpeg](20200214_IMG_1628.jpeg)
+
+<hr />
+
+Back in my bassinet, pulling faces for the camera...
+
+![20200214_IMG_1630.jpeg](20200214_IMG_1630.jpeg)
+
+![20200214_IMG_1631.jpeg](20200214_IMG_1631.jpeg)
+
+![20200214_IMG_1632.jpeg](20200214_IMG_1632.jpeg)
+
+![20200214_IMG_1633.jpeg](20200214_IMG_1633.jpeg)
+
+![20200214_IMG_1634.jpeg](20200214_IMG_1634.jpeg)
+
+![20200214_IMG_1635.jpeg](20200214_IMG_1635.jpeg)
+
+![20200214_IMG_1636.jpeg](20200214_IMG_1636.jpeg)
+
+![20200214_IMG_1638.jpeg](20200214_IMG_1638.jpeg)
+
+![20200214_IMG_1639.jpeg](20200214_IMG_1639.jpeg)
+
+![20200214_IMG_1640.jpeg](20200214_IMG_1640.jpeg)
+
+![20200214_IMG_1641.jpeg](20200214_IMG_1641.jpeg)
+
+![20200214_IMG_1642.jpeg](20200214_IMG_1642.jpeg)
+
+![20200214_IMG_1643.jpeg](20200214_IMG_1643.jpeg)
+
+![20200214_IMG_1644.jpeg](20200214_IMG_1644.jpeg)
+
+![20200214_IMG_1645.jpeg](20200214_IMG_1645.jpeg)
+
+![20200214_IMG_1646.jpeg](20200214_IMG_1646.jpeg)
+
+![20200214_IMG_1647.jpeg](20200214_IMG_1647.jpeg)
+
+![20200214_IMG_1648.jpeg](20200214_IMG_1648.jpeg)
+
+![20200214_IMG_1649.jpeg](20200214_IMG_1649.jpeg)
+
+![20200214_IMG_1650.jpeg](20200214_IMG_1650.jpeg)
+
+![20200214_IMG_1651.jpeg](20200214_IMG_1651.jpeg)
+
+![20200214_IMG_1653.jpeg](20200214_IMG_1653.jpeg)
+
+![20200214_IMG_1654.jpeg](20200214_IMG_1654.jpeg)
+
+![20200214_IMG_1655.jpeg](20200214_IMG_1655.jpeg)
+
+<hr />
+
+All that activity today has made me very, very tired...
+
+![20200214_IMG_1664.jpeg](20200214_IMG_1664.jpeg)
+
+![20200214_IMG_1665.jpeg](20200214_IMG_1665.jpeg)
+
+![20200214_IMG_1666.jpeg](20200214_IMG_1666.jpeg)
+
+![20200214_IMG_1667.jpeg](20200214_IMG_1667.jpeg)
+
+![20200214_IMG_1668.jpeg](20200214_IMG_1668.jpeg)
+
+![20200214_IMG_1670.jpeg](20200214_IMG_1670.jpeg)
+
+![20200214_IMG_1671.jpeg](20200214_IMG_1671.jpeg)
+
+![20200214_IMG_1672.jpeg](20200214_IMG_1672.jpeg)
+
+![20200214_IMG_1673.jpeg](20200214_IMG_1673.jpeg)
+
+![20200214_IMG_1674.jpeg](20200214_IMG_1674.jpeg)

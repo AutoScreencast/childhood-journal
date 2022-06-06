@@ -1,0 +1,248 @@
+---
+date: "2020-09-27"
+day: 251
+template: "photo-post"
+title: "Ginza"
+subtitle: "Day 251 – Sunday, September 27, 2020"
+featuredImage: "20200927_IMG_8725.jpeg"
+---
+
+We went for a long Sunday walk today.
+
+<hr />
+
+_Today’s Solid Food Menu:_
+
+(no lunch today)
+
+**Dinner**
+
+- Tofu (15g)
+- Pumpkin (25g)
+- Rice porridge (40g)
+
+<hr />
+
+We walked through Shiba Park past Tokyo Tower.
+
+![20200927_IMG_8658.jpeg](20200927_IMG_8658.jpeg)
+
+![20200927_IMG_8659.jpeg](20200927_IMG_8659.jpeg)
+
+<hr />
+
+I’m a little grumpy this morning.
+
+![20200927_IMG_8660.jpeg](20200927_IMG_8660.jpeg)
+
+![20200927_IMG_8661.jpeg](20200927_IMG_8661.jpeg)
+
+![20200927_IMG_8662.jpeg](20200927_IMG_8662.jpeg)
+
+![20200927_IMG_8663.jpeg](20200927_IMG_8663.jpeg)
+
+![20200927_IMG_8664.jpeg](20200927_IMG_8664.jpeg)
+
+![20200927_IMG_8665.jpeg](20200927_IMG_8665.jpeg)
+
+![20200927_IMG_8666.jpeg](20200927_IMG_8666.jpeg)
+
+![20200927_IMG_8667.jpeg](20200927_IMG_8667.jpeg)
+
+![20200927_IMG_8668.jpeg](20200927_IMG_8668.jpeg)
+
+![20200927_IMG_8669.jpeg](20200927_IMG_8669.jpeg)
+
+![20200927_IMG_8670.jpeg](20200927_IMG_8670.jpeg)
+
+![20200927_IMG_8671.jpeg](20200927_IMG_8671.jpeg)
+
+![20200927_IMG_8672.jpeg](20200927_IMG_8672.jpeg)
+
+![20200927_IMG_8673.jpeg](20200927_IMG_8673.jpeg)
+
+![20200927_IMG_8674.jpeg](20200927_IMG_8674.jpeg)
+
+![20200927_IMG_8675.jpeg](20200927_IMG_8675.jpeg)
+
+![20200927_IMG_8676.jpeg](20200927_IMG_8676.jpeg)
+
+![20200927_IMG_8677.jpeg](20200927_IMG_8677.jpeg)
+
+![20200927_IMG_8678.jpeg](20200927_IMG_8678.jpeg)
+
+<hr />
+
+Having breakfast at “Le Pain Quotidien” on the way.
+
+![20200927_IMG_8679.jpeg](20200927_IMG_8679.jpeg)
+
+![20200927_IMG_8680.jpeg](20200927_IMG_8680.jpeg)
+
+![20200927_IMG_8681.jpeg](20200927_IMG_8681.jpeg)
+
+![20200927_IMG_8682.jpeg](20200927_IMG_8682.jpeg)
+
+![20200927_IMG_8683.jpeg](20200927_IMG_8683.jpeg)
+
+![20200927_IMG_8684.jpeg](20200927_IMG_8684.jpeg)
+
+![20200927_IMG_8685.jpeg](20200927_IMG_8685.jpeg)
+
+![20200927_IMG_8686.jpeg](20200927_IMG_8686.jpeg)
+
+![20200927_IMG_8687.jpeg](20200927_IMG_8687.jpeg)
+
+![20200927_IMG_3945.jpeg](20200927_IMG_3945.jpeg)
+
+![20200927_IMG_3946.jpg](20200927_IMG_3946.jpg)
+
+![20200927_IMG_3947.jpg](20200927_IMG_3947.jpg)
+
+![20200927_IMG_3948.jpg](20200927_IMG_3948.jpg)
+
+![20200927_IMG_3949.jpg](20200927_IMG_3949.jpg)
+
+![20200927_IMG_3950.jpg](20200927_IMG_3950.jpg)
+
+![20200927_IMG_3951.jpg](20200927_IMG_3951.jpg)
+
+<hr />
+
+We’re now in a big clothes shop – Uniqlo – in Ginza. There’s a kids’ area in the store. I can finally stretch my legs a bit and crawl around.
+
+![20200927_IMG_8688.jpeg](20200927_IMG_8688.jpeg)
+
+![20200927_IMG_8689.jpeg](20200927_IMG_8689.jpeg)
+
+![20200927_IMG_8690.jpeg](20200927_IMG_8690.jpeg)
+
+![20200927_IMG_8691.jpeg](20200927_IMG_8691.jpeg)
+
+![20200927_IMG_8692.jpeg](20200927_IMG_8692.jpeg)
+
+![20200927_IMG_8693.jpeg](20200927_IMG_8693.jpeg)
+
+![20200927_IMG_8694.jpeg](20200927_IMG_8694.jpeg)
+
+![20200927_IMG_8695.jpeg](20200927_IMG_8695.jpeg)
+
+![20200927_IMG_8696.jpeg](20200927_IMG_8696.jpeg)
+
+![20200927_IMG_8697.jpeg](20200927_IMG_8697.jpeg)
+
+![20200927_IMG_8698.jpeg](20200927_IMG_8698.jpeg)
+
+![20200927_IMG_8699.jpeg](20200927_IMG_8699.jpeg)
+
+<hr />
+
+We went to Mitsukoshi department store in Ginza. On the 9th floor, they have a baby-friendly restaurant (Minoru Shokudo), where we could all eat lunch.
+
+![20200927_IMG_8700.jpeg](20200927_IMG_8700.jpeg)
+
+![20200927_IMG_8712.jpeg](20200927_IMG_8712.jpeg)
+
+![20200927_IMG_8713.jpeg](20200927_IMG_8713.jpeg)
+
+![20200927_IMG_8714.jpeg](20200927_IMG_8714.jpeg)
+
+![20200927_IMG_8715.jpeg](20200927_IMG_8715.jpeg)
+
+![20200927_IMG_8716.jpeg](20200927_IMG_8716.jpeg)
+
+![20200927_IMG_8717.jpeg](20200927_IMG_8717.jpeg)
+
+![20200927_IMG_8718.jpeg](20200927_IMG_8718.jpeg)
+
+![20200927_IMG_8719.jpeg](20200927_IMG_8719.jpeg)
+
+![20200927_IMG_8720.jpeg](20200927_IMG_8720.jpeg)
+
+![20200927_IMG_8721.jpeg](20200927_IMG_8721.jpeg)
+
+![20200927_IMG_8723.jpeg](20200927_IMG_8723.jpeg)
+
+![20200927_IMG_8724.jpeg](20200927_IMG_8724.jpeg)
+
+![20200927_IMG_8725.jpeg](20200927_IMG_8725.jpeg)
+
+![20200927_IMG_8726.jpeg](20200927_IMG_8726.jpeg)
+
+![20200927_IMG_8727.jpeg](20200927_IMG_8727.jpeg)
+
+![20200927_IMG_8728.jpeg](20200927_IMG_8728.jpeg)
+
+![20200927_IMG_8729.jpeg](20200927_IMG_8729.jpeg)
+
+![20200927_IMG_8730.jpeg](20200927_IMG_8730.jpeg)
+
+![20200927_IMG_8731.jpeg](20200927_IMG_8731.jpeg)
+
+![20200927_IMG_8732.jpeg](20200927_IMG_8732.jpeg)
+
+![20200927_IMG_8733.jpeg](20200927_IMG_8733.jpeg)
+
+![20200927_IMG_8734.jpeg](20200927_IMG_8734.jpeg)
+
+![20200927_IMG_8735.jpeg](20200927_IMG_8735.jpeg)
+
+![20200927_IMG_8736.jpeg](20200927_IMG_8736.jpeg)
+
+![20200927_IMG_8737.jpeg](20200927_IMG_8737.jpeg)
+
+![20200927_IMG_8738.jpeg](20200927_IMG_8738.jpeg)
+
+![20200927_IMG_8701.jpeg](20200927_IMG_8701.jpeg)
+
+![20200927_IMG_8702.jpeg](20200927_IMG_8702.jpeg)
+
+![20200927_IMG_8703.jpeg](20200927_IMG_8703.jpeg)
+
+![20200927_IMG_8704.jpeg](20200927_IMG_8704.jpeg)
+
+![20200927_IMG_8705.jpeg](20200927_IMG_8705.jpeg)
+
+![20200927_IMG_8706.jpeg](20200927_IMG_8706.jpeg)
+
+![20200927_IMG_8707.jpeg](20200927_IMG_8707.jpeg)
+
+![20200927_IMG_8708.jpeg](20200927_IMG_8708.jpeg)
+
+![20200927_IMG_8709.jpeg](20200927_IMG_8709.jpeg)
+
+![20200927_IMG_8710.jpeg](20200927_IMG_8710.jpeg)
+
+![20200927_IMG_8711.jpeg](20200927_IMG_8711.jpeg)
+
+![20200927_IMG_CE1E07C3036E-1.jpeg](20200927_IMG_CE1E07C3036E-1.jpeg)
+
+<hr />
+
+Back home, after a long day out.
+
+![20200927_IMG_3952.jpeg](20200927_IMG_3952.jpeg)
+
+![20200927_IMG_3953.jpeg](20200927_IMG_3953.jpeg)
+
+![20200927_IMG_3954.jpeg](20200927_IMG_3954.jpeg)
+
+![20200927_IMG_3955.jpeg](20200927_IMG_3955.jpeg)
+
+![20200927_IMG_3956.jpg](20200927_IMG_3956.jpg)
+
+![20200927_IMG_3957.jpeg](20200927_IMG_3957.jpeg)
+
+![20200927_IMG_3958.jpeg](20200927_IMG_3958.jpeg)
+
+![20200927_IMG_3959.jpeg](20200927_IMG_3959.jpeg)
+
+<hr />
+
+I’m on my new high chair, which was delivered today!
+
+![20200927_IMG_8739.jpeg](20200927_IMG_8739.jpeg)
+
+![20200927_IMG_8740.jpeg](20200927_IMG_8740.jpeg)
+
+![20200927_IMG_8741.jpeg](20200927_IMG_8741.jpeg)

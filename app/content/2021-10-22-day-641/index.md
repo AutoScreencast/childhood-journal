@@ -1,0 +1,126 @@
+---
+date: "2021-10-22"
+day: 641
+template: "photo-post"
+title: "How Do You Like Them Apples?"
+subtitle: "Day 641 – Friday, October 22, 2021"
+featuredImage: "20211022_IMG_1500.jpeg"
+---
+
+I’m playing with *Rio* at nursery school.
+
+![20211022_IMG_1447.jpg](20211022_IMG_1447.jpg)
+
+<hr />
+
+We went to a new supermarket called *<a href="https://goo.gl/maps/qsayo3hKuE45eFR69">Kirimoya Jūban</a>* (きりもや十番) on the way back home from nursery school.
+
+![20211022_IMG_1449.jpeg](20211022_IMG_1449.jpeg)
+
+![20211022_IMG_1450.jpeg](20211022_IMG_1450.jpeg)
+
+![20211022_IMG_1451.jpeg](20211022_IMG_1451.jpeg)
+
+![20211022_IMG_1452.jpeg](20211022_IMG_1452.jpeg)
+
+![20211022_IMG_1453.jpeg](20211022_IMG_1453.jpeg)
+
+![20211022_IMG_1454.jpeg](20211022_IMG_1454.jpeg)
+
+![20211022_IMG_1455.jpeg](20211022_IMG_1455.jpeg)
+
+![20211022_IMG_1456.jpeg](20211022_IMG_1456.jpeg)
+
+![20211022_IMG_1457.jpeg](20211022_IMG_1457.jpeg)
+
+![20211022_IMG_1461.jpeg](20211022_IMG_1461.jpeg)
+
+<hr />
+
+My Grandparents in Fukuoka 🇯🇵 sent us some big and juicy apples (*<a href="http://www.shinshu-gift.jp/ringo_shinano_sweat.html">Shinano Sweet</a>*, シナノスイート) from Nagoya. 
+
+![20211022_IMG_1462.jpeg](20211022_IMG_1462.jpeg)
+
+![20211022_IMG_1463.jpeg](20211022_IMG_1463.jpeg)
+
+![20211022_IMG_1464.jpeg](20211022_IMG_1464.jpeg)
+
+![20211022_IMG_1465.jpeg](20211022_IMG_1465.jpeg)
+
+![20211022_IMG_1466.jpeg](20211022_IMG_1466.jpeg)
+
+![20211022_IMG_1467.jpeg](20211022_IMG_1467.jpeg)
+
+![20211022_IMG_1468.jpeg](20211022_IMG_1468.jpeg)
+
+![20211022_IMG_1469.jpeg](20211022_IMG_1469.jpeg)
+
+![20211022_IMG_1470.jpeg](20211022_IMG_1470.jpeg)
+
+![20211022_IMG_1471.jpeg](20211022_IMG_1471.jpeg)
+
+![20211022_IMG_1472.jpeg](20211022_IMG_1472.jpeg)
+
+![20211022_IMG_1473.jpeg](20211022_IMG_1473.jpeg)
+
+![20211022_IMG_1474.jpeg](20211022_IMG_1474.jpeg)
+
+![20211022_IMG_1475.jpeg](20211022_IMG_1475.jpeg)
+
+![20211022_IMG_1476.jpeg](20211022_IMG_1476.jpeg)
+
+![20211022_IMG_1477.jpeg](20211022_IMG_1477.jpeg)
+
+![20211022_IMG_1478.jpeg](20211022_IMG_1478.jpeg)
+
+![20211022_IMG_1479.jpeg](20211022_IMG_1479.jpeg)
+
+![20211022_IMG_1480.jpeg](20211022_IMG_1480.jpeg)
+
+![20211022_IMG_1481.jpeg](20211022_IMG_1481.jpeg)
+
+![20211022_IMG_1486.jpeg](20211022_IMG_1486.jpeg)
+
+![20211022_IMG_1487.jpeg](20211022_IMG_1487.jpeg)
+
+![20211022_IMG_1488.jpeg](20211022_IMG_1488.jpeg)
+
+![20211022_IMG_1489.jpeg](20211022_IMG_1489.jpeg)
+
+![20211022_IMG_1490.jpeg](20211022_IMG_1490.jpeg)
+
+![20211022_IMG_1491.jpeg](20211022_IMG_1491.jpeg)
+
+![20211022_IMG_1492.jpeg](20211022_IMG_1492.jpeg)
+
+![20211022_IMG_1493.jpeg](20211022_IMG_1493.jpeg)
+
+![20211022_IMG_1494.jpeg](20211022_IMG_1494.jpeg)
+
+![20211022_IMG_1495.jpeg](20211022_IMG_1495.jpeg)
+
+![20211022_IMG_1496.jpeg](20211022_IMG_1496.jpeg)
+
+![20211022_IMG_1497.jpeg](20211022_IMG_1497.jpeg)
+
+![20211022_IMG_1498.jpeg](20211022_IMG_1498.jpeg)
+
+![20211022_IMG_1499.jpeg](20211022_IMG_1499.jpeg)
+
+![20211022_IMG_1500.jpeg](20211022_IMG_1500.jpeg)
+
+![20211022_IMG_1501.jpeg](20211022_IMG_1501.jpeg)
+
+![20211022_IMG_1502.jpeg](20211022_IMG_1502.jpeg)
+
+![20211022_IMG_1503.jpeg](20211022_IMG_1503.jpeg)
+
+![20211022_IMG_1504.jpeg](20211022_IMG_1504.jpeg)
+
+![20211022_IMG_1505.jpeg](20211022_IMG_1505.jpeg)
+
+![20211022_IMG_1506.jpeg](20211022_IMG_1506.jpeg)
+
+![20211022_IMG_1507.jpeg](20211022_IMG_1507.jpeg)
+
+![20211022_IMG_1508.jpeg](20211022_IMG_1508.jpeg)
