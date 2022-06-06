@@ -22,6 +22,9 @@ node_modules/
 # Mac files
 .DS_Store
 
+# browser env vars
+/app/secrets/
+
 # Tom - temp content folder
 /app/content/
 

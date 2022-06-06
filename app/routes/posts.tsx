@@ -1,6 +1,6 @@
 import type { LoaderFunction } from "@remix-run/node";
 import { json } from "@remix-run/node";
-import { Form, Link } from "@remix-run/react";
+import { Form, Link, Outlet } from "@remix-run/react";
 import { requireUserId } from "~/session.server";
 import { useUser } from "~/utils";
 
@@ -45,9 +45,9 @@ export default function PostsPage() {
       <main className="flex h-full bg-white">
         <div className="h-full w-80 border-r bg-gray-50">Hello {user.addressAs}!</div>
 
-        {/* <div className="flex-1 p-6">
+        <div className="flex-1 p-6">
           <Outlet />
-        </div> */}
+        </div>
       </main>
     </div>
   );
