@@ -1,11 +1,14 @@
 import type { LoaderFunction } from "@remix-run/node";
 import { json } from "@remix-run/node";
 import { Form, Link, Outlet } from "@remix-run/react";
+import { differenceInCalendarDays, parseISO } from "date-fns";
 
 import { requireUserId } from "~/session.server";
 import { useUser } from "~/utils";
 import { BIRTHDATE } from "~/secrets/constants";
 
+const birthdate = parseISO(BIRTHDATE);
+const today = new Date();
 
 export const loader: LoaderFunction = async ({ request }) => {
   const userId = await requireUserId(request);
@@ -15,13 +18,13 @@ export const loader: LoaderFunction = async ({ request }) => {
 export default function PostsPage() {
   const user = useUser();
 
-  const t9nDictionary: {[key: string]: string} = {
+  const t9nDictionary: { [key: string]: string } = {
     "Ken’s Journey": "健の冒険",
-    "Logout": "ログアウト",
-  }
+    Logout: "ログアウト",
+  };
 
   function t9n(str: string) {
-    return user.lang === "ja" ? t9nDictionary[str] : str
+    return user.lang === "ja" ? t9nDictionary[str] : str;
   }
 
   return (
@@ -32,7 +35,11 @@ export default function PostsPage() {
           <Link to="/login">{t9n("Ken’s Journey")}</Link>
         </h1>
         <div className="flex items-center justify-end">
-          <span className="pr-4">{user.lang === "ja" ? `${user.addressAs}へようこそ！` : `Welcome ${user.addressAs}!`}</span>
+          <span className="pr-4">
+            {user.lang === "ja"
+              ? `${user.addressAs}へようこそ！`
+              : `Welcome ${user.addressAs}!`}
+          </span>
           <Form action="/logout" method="post">
             <button
               type="submit"
@@ -46,7 +53,10 @@ export default function PostsPage() {
       {/* =============== /HEADER =============== */}
 
       <main className="flex h-full bg-white">
-        <div className="h-full w-80 border-r bg-gray-50">Hello {user.addressAs}! I’m {daysBetweenThenAndToday(BIRTHDATE)} days old today!</div>
+        <div className="h-full w-80 border-r bg-gray-50">
+          Hello {user.addressAs}! I’m{" "}
+          {differenceInCalendarDays(today, birthdate)} days old today!
+        </div>
 
         <div className="flex-1 p-6">
           <Outlet />
@@ -54,19 +64,4 @@ export default function PostsPage() {
       </main>
     </div>
   );
-}
-
-// https://stackoverflow.com/questions/542938/how-to-calculate-number-of-days-between-two-dates
-// Based on Michael Liu's answer.
-
-function treatAsUTC(date: string | Date) {
-  const result = new Date(date);
-  result.setMinutes(result.getMinutes() - result.getTimezoneOffset());
-  return result;
-}
-
-function daysBetweenThenAndToday(then: string) {
-  const millisecondsPerDay = 24 * 60 * 60 * 1000;
-  const preciseDifference = (treatAsUTC(new Date).getTime() - treatAsUTC(then).getTime()) / millisecondsPerDay;
-  return Math.floor(preciseDifference);
 }
