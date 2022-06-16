@@ -1,6 +1,6 @@
 import type { LoaderFunction } from "@remix-run/node";
 import { json } from "@remix-run/node";
-import { Form, Link, Outlet } from "@remix-run/react";
+import { Form, Link, NavLink, Outlet } from "@remix-run/react";
 import { differenceInCalendarDays, parseISO } from "date-fns";
 
 import { requireUserId } from "~/session.server";
@@ -28,18 +28,17 @@ export default function PostsPage() {
   }
 
   return (
-    <div className="flex h-full min-h-screen flex-col">
+    <div>
       {/* =============== HEADER =============== */}
       <header className="flex items-center justify-between bg-slate-800 p-4 text-white">
         <h1 className="text-3xl font-bold">
           <Link to="/login">{t9n("Ken’s Journey")}</Link>
         </h1>
         <div className="flex items-center justify-end">
-          <span className="pr-4">
-            {user.lang === "ja"
-              ? `${user.addressAs}へようこそ！`
-              : `Welcome ${user.addressAs}!`}
-          </span>
+          <span className="pr-4"></span>
+          <NavLink className="pr-4" to="/posts">
+            Posts
+          </NavLink>
           <Form action="/logout" method="post">
             <button
               type="submit"
@@ -50,17 +49,18 @@ export default function PostsPage() {
           </Form>
         </div>
       </header>
-      {/* =============== /HEADER =============== */}
 
-      <main className="flex h-full bg-white">
-        <div className="h-full w-80 border-r bg-gray-50">
-          Hello {user.addressAs}! I’m{" "}
-          {differenceInCalendarDays(today, birthdate)} days old today!
+      {/* =============== MESSAGE TO USER =============== */}
+      <main className="bg-white p-4">
+        <div className="mb-4 h-full w-80 border-r bg-gray-50">
+          {user.lang === "ja"
+            ? `${user.addressAs}へようこそ！`
+            : `Welcome ${user.addressAs}!`}{" "}
+          I’m {differenceInCalendarDays(today, birthdate)} days old today!
         </div>
 
-        <div className="flex-1 p-6">
-          <Outlet />
-        </div>
+        {/* =============== OUTLET =============== */}
+        <Outlet />
       </main>
     </div>
   );

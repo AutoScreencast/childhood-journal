@@ -1,6 +1,7 @@
 import { useMatches } from "@remix-run/react";
 import { useMemo } from "react";
 
+import { AWS_PHOTO_BUCKET_URL } from "~/secrets/constants";
 import type { User } from "~/models/user.server";
 
 const DEFAULT_REDIRECT = "/";
@@ -68,4 +69,13 @@ export function useUser(): User {
 
 export function validatePassword(password: unknown): password is string {
   return typeof password === "string" && password.length > 0;
+}
+
+export function prependAwsBucketUrlToImages(htmlText: string) {
+  // Regex matches all patterns of `src="` (Group1), then "20" followed by six numerical digits followed by underscore (Group2).
+  // Note: This regex will break the UI for photos made in the year 2100 and later, but we will worry about that then.
+  // E.g. `src="20210910_` matches the regex.
+  const regex = /(src=")(20\d{6}_)/gm;
+  // $1 references Group1, and $2 references Group2.
+  return htmlText.replace(regex, `$1${AWS_PHOTO_BUCKET_URL}$2`);
 }
