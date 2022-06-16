@@ -40,7 +40,7 @@ function TextLinkItem({
         </div>
         <img
           alt={post.title}
-          className={loading ? "hidden" : "rounded shadow-md"}
+          className={loading ? "hidden" : "fadeIn1s rounded shadow-md"}
           onLoad={() => setLoading(false)}
           src={`${AWS_PHOTO_BUCKET_URL}${post.featuredImage}`}
         />
