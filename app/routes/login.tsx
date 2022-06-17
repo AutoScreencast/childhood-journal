@@ -35,7 +35,11 @@ export const action: ActionFunction = async ({ request }) => {
 
   if (typeof password !== "string" || password.length === 0) {
     return json<ActionData>(
-      { errors: { password: "Please enter your password | パスワードを入力してください" } },
+      {
+        errors: {
+          password: "Please enter your password | パスワードを入力してください",
+        },
+      },
       { status: 400 }
     );
   }
@@ -43,7 +47,12 @@ export const action: ActionFunction = async ({ request }) => {
   // Passwords are at least 9 characters long...
   if (password.length < 9) {
     return json<ActionData>(
-      { errors: { password: "The password entered is too short | 入力したパスワードが短すぎる" } },
+      {
+        errors: {
+          password:
+            "The password entered is too short | 入力したパスワードが短すぎる",
+        },
+      },
       { status: 400 }
     );
   }
@@ -52,7 +61,12 @@ export const action: ActionFunction = async ({ request }) => {
 
   if (!user) {
     return json<ActionData>(
-      { errors: { password: "Sorry! The password entered is incorrect. Please try again. | ごめん！ 入力したパスワードが正しくない。 もう一度やり直してください。" } },
+      {
+        errors: {
+          password:
+            "Sorry! The password entered is incorrect. Please try again. | ごめん！ 入力したパスワードが正しくない。 もう一度やり直してください。",
+        },
+      },
       { status: 400 }
     );
   }
@@ -98,12 +112,12 @@ export default function LoginPage() {
             </label>
             <div className="mt-1 flex flex-col content-center">
               <input
+                autoComplete="new-password" // still does not get rid of password suggestions in Chrome at least
                 autoFocus
                 id="password"
                 ref={passwordRef}
                 name="password"
                 type="text" // Use text type instead of password type for elderly users so they can see what they’re typing
-                autoComplete="current-password"
                 aria-invalid={actionData?.errors?.password ? true : undefined}
                 aria-describedby="password-error"
                 className="w-full rounded border border-gray-500 px-2 py-1 text-lg"
@@ -125,7 +139,9 @@ export default function LoginPage() {
             type="submit"
             className="w-full rounded bg-blue-500 py-2 px-4 text-white hover:bg-blue-600 focus:bg-blue-400"
           >
-            {isLoggingIn ? "Logging in... | ログイン中。。。" : "Log in | ログイン"}
+            {isLoggingIn
+              ? "Logging in... | ログイン中。。。"
+              : "Log in | ログイン"}
           </button>
         </Form>
       </div>
