@@ -1,6 +1,6 @@
 import { json } from "@remix-run/node";
 import { Link, useLoaderData } from "@remix-run/react";
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 
 import {
   // getPosts,
@@ -22,30 +22,21 @@ export const loader = async () => {
   });
 };
 
-function TextLinkItem({
+function PostItem({
   post,
 }: {
   post: Omit<AugmentedPost, "createdAt" | "updatedAt">;
 }) {
   const [loading, setLoading] = useState(true);
-  const imgRef = useRef<HTMLImageElement>(null);
 
-  // console.log("image", post.dateSlug, "loading:", loading);
-  // console.log(
-  //   "image",
-  //   post.dateSlug,
-  //   "load complete?:",
-  //   !!imgRef?.current?.complete
-  // );
+  console.log("image", post.dateSlug, "loading:", loading);
 
   return (
     <div className="mb-2 w-1/2 px-1 md:mb-4 md:w-1/3 md:px-2 lg:mb-6 lg:w-1/4 lg:px-3 xl:mb-8 xl:w-1/5 xl:px-4">
       <Link to={post.dateSlug}>
         <div
           className={
-            loading && !imgRef?.current?.complete
-              ? "mx-auto w-full max-w-sm rounded shadow-md"
-              : "hidden"
+            loading ? "mx-auto w-full max-w-sm rounded shadow-md" : "hidden"
           }
         >
           <div className="flex animate-pulse space-x-4">
@@ -54,13 +45,11 @@ function TextLinkItem({
         </div>
         <img
           alt={post.title}
-          className={
-            loading || !imgRef?.current?.complete
-              ? "hidden"
-              : "fadeIn1s rounded shadow-md"
-          }
+          className={loading ? "hidden" : "fadeIn1s rounded shadow-md"}
           onLoad={() => setLoading(false)}
-          ref={imgRef}
+          ref={(imageElement: HTMLImageElement) => {
+            if (imageElement && imageElement.complete) setLoading(false);
+          }}
           src={`${AWS_PHOTO_BUCKET_URL}${post.featuredImage}`}
         />
         {/* {post.title} - {post.dateSlug} - {post.daysSinceBirth} -{" "}
@@ -77,7 +66,7 @@ export default function Posts() {
       <section className="">
         <div className="flex flex-wrap">
           {posts.map((post) => (
-            <TextLinkItem post={post} key={post.dateSlug} />
+            <PostItem post={post} key={post.dateSlug} />
           ))}
         </div>
       </section>
