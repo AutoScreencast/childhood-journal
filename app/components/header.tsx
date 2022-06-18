@@ -16,9 +16,16 @@ export function Header() {
 
   return (
     <header className="flex items-center justify-between bg-slate-800 p-4 text-white">
-      <h1 className="text-3xl font-bold">
-        <Link to="/login">{t9n("Ken’s Journey")}</Link>
-      </h1>
+      <Link to="/login">
+        <div className="flex">
+          <img
+            alt="Ken laughing in March of 2021"
+            className="mr-3 w-10 cursor-pointer rounded-full border border-white"
+            src="/img/ken_face_202103.jpg"
+          />
+          <h1 className="text-3xl font-bold">{t9n("Ken’s Journey")}</h1>
+        </div>
+      </Link>
       <div className="flex items-center justify-end">
         <span className="pr-4"></span>
         <NavLink className="pr-4" to="/posts">
