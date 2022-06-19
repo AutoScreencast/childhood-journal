@@ -77,6 +77,76 @@ export async function getPostsChunkedByMonth() {
   return postsGroupedByMonth;
 }
 
+// dateStr parameter is of form "YYYY-MM-DD" or "YYYY-MM" or ISO-string (e.g. "2022-06-19T01:42:28.087Z")
+export async function getPostsChunkedByMonthGiven(dateStr: string) {
+  console.log("getPostsChunkedByMonthGiven called with arg:", dateStr);
+  const date = new Date(dateStr);
+  const currentMonth = date.getMonth();
+  const nextMonth = currentMonth + 1;
+  const firstDayOfMonth = 1;
+  const firstDayCurrentMonth = new Date(
+    date.getFullYear(),
+    currentMonth,
+    firstDayOfMonth
+  );
+  const firstDayNextMonth = new Date(
+    date.getFullYear(),
+    nextMonth,
+    firstDayOfMonth
+  );
+  const dateSlugOfFirstDayCurrentMonth = formatISO(firstDayCurrentMonth, {
+    representation: "date",
+  }); // to get date string in format "YYYY-MM-DD"
+  const dateSlugOfFirstDayNextMonth = formatISO(firstDayNextMonth, {
+    representation: "date",
+  });
+
+  const posts = await prisma.post.findMany({
+    orderBy: {
+      dateSlug: "desc",
+    },
+    where: {
+      dateSlug: {
+        gte: dateSlugOfFirstDayCurrentMonth,
+        lt: dateSlugOfFirstDayNextMonth,
+      },
+    },
+  });
+
+  type Accumulator = Record<
+    string,
+    Array<Omit<AugmentedPost, "createdAt" | "updatedAt">>
+  >;
+  const postsGroupedByMonth = posts.reduce(
+    (accumulator: Accumulator, post: Post) => {
+      // want to get [ [2020-01-20, 20-01-21, ...], ..., [2022-05-01, 2022-05-02, ...]]
+      // start with {"2020-01": [2020-01-20, 20-01-21, ...], ..., "2022-05": [2022-05-01, 2022-05-02, ...]}
+      const dateStr = post.dateSlug; // eg. "2020-01-20"
+      const yearAndMonthStr = dateStr.substring(0, 7); // gets "2020-01"
+      const postDate = parseISO(dateStr);
+
+      accumulator[yearAndMonthStr] = [
+        ...(accumulator[yearAndMonthStr]?.length > 0
+          ? accumulator[yearAndMonthStr]
+          : []),
+        {
+          dateSlug: post.dateSlug,
+          title: post.title,
+          featuredImage: post.featuredImage,
+          markdown: post.markdown,
+          daysSinceBirth: differenceInCalendarDays(postDate, birthdate),
+          formattedDate: format(postDate, "EEEE, LLLL do, y"), // e.g. "Wednesday, May 25th, 2022"
+        },
+      ];
+
+      return accumulator;
+    },
+    {}
+  );
+
+  return postsGroupedByMonth;
+}
+
 export async function getPostsSortedByDescendingDate() {
   const posts = await prisma.post.findMany({
     orderBy: {
